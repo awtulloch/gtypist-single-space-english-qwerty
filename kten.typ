@@ -9,10 +9,9 @@
 # (or whoever is the current ktouch maintainer), with
 # cc to bug-gtypist@gnu.org
 
-G:MENU
+G:_K_MENU
 
 *:S_LESSON1
-K:12:MENU
 B:                           Lesson 1: jf
 *:LESSON1_D1
 I:(1)
@@ -63,7 +62,6 @@ D:j jfj jj jjj jf f fjjf j ff jjj jfj jff jff f fjjf fjj fjjf f
 G:E_LESSON1
 
 *:S_LESSON2
-K:12:MENU
 B:                           Lesson 2: kd
 *:LESSON2_D1
 I:(1)
@@ -114,7 +112,6 @@ D:fkkk fk fk dffd fk dfj jd dd jk dfj fjk fd jfkd fk fd jd fd jd k
 G:E_LESSON2
 
 *:S_LESSON3
-K:12:MENU
 B:                           Lesson 3: ls
 *:LESSON3_D1
 I:(1)
@@ -165,7 +162,6 @@ D:fl sf kl ll kl ld jjss dds kl fld jjdl fl js jl sf kl kl jl jl
 G:E_LESSON3
 
 *:S_LESSON4
-K:12:MENU
 B:                           Lesson 4: ca
 *:LESSON4_D1
 I:(1)
@@ -216,7 +212,6 @@ D:lacks lass falls dads ca lacs rack a clack skas calf rad jack slacks
 G:E_LESSON4
 
 *:S_LESSON5
-K:12:MENU
 B:                           Lesson 5: nt
 *:LESSON5_D1
 I:(1)
@@ -267,7 +262,6 @@ D:flatland casts scandals n scans task canst std annal clans raft cats
 G:E_LESSON5
 
 *:S_LESSON6
-K:12:MENU
 B:                           Lesson 6: iv
 *:LESSON6_D1
 I:(1)
@@ -318,7 +312,6 @@ D:links afflicts distaffs ilks tills flaccid scintillas assailant radiants
 G:E_LESSON6
 
 *:S_LESSON7
-K:12:MENU
 B:                           Lesson 7: me
 *:LESSON7_D1
 I:(1)
@@ -369,7 +362,6 @@ D:keenness ville indite recidivist venialness sedatives easements enticed
 G:E_LESSON7
 
 *:S_LESSON8
-K:12:MENU
 B:                           Lesson 8: hr
 *:LESSON8_D1
 I:(1)
@@ -420,7 +412,6 @@ D:marveled transferences arrests verticalness halites redder starless halal
 G:E_LESSON8
 
 *:S_LESSON9
-K:12:MENU
 B:                           Lesson 9: go
 *:LESSON9_D1
 I:(1)
@@ -471,7 +462,6 @@ D:feigner garlands reconciliation marmosets overreacted gladiator selector
 G:E_LESSON9
 
 *:S_LESSON10
-K:12:MENU
 B:                           Lesson 10: bp
 *:LESSON10_D1
 I:(1)
@@ -522,7 +512,6 @@ D:prosing pediatrician boninesses impregnated prised nonpersons overemphasis
 G:E_LESSON10
 
 *:S_LESSON11
-K:12:MENU
 B:                           Lesson 11: qu
 *:LESSON11_D1
 I:(1)
@@ -573,7 +562,6 @@ D:obdurated launderers liquidations underpass dubs uncomplaining volumes
 G:E_LESSON11
 
 *:S_LESSON12
-K:12:MENU
 B:                           Lesson 12: wn
 *:LESSON12_D1
 I:(1)
@@ -624,7 +612,6 @@ D:trimarans planks semantics parenthetical tripping urns niggered offprints
 G:E_LESSON12
 
 *:S_LESSON13
-K:12:MENU
 B:                           Lesson 13: cx
 *:LESSON13_D1
 I:(1)
@@ -675,7 +662,6 @@ D:pectic jurisdictions incinerate blackguarded interprocessor teleconferencing
 G:E_LESSON13
 
 *:S_LESSON14
-K:12:MENU
 B:                           Lesson 14: yz
 *:LESSON14_D1
 I:(1)
@@ -726,7 +712,6 @@ D:optimizers nanotechnology horseplay housefly soliloquize lamasery thuggery
 G:E_LESSON14
 
 *:S_LESSON15
-K:12:MENU
 B:               Lesson 15: ABCDEFGHIJKLMNOPQRSTUVWXYZ
 *:LESSON15_D1
 I:(1)
@@ -780,64 +765,64 @@ G:E_LESSON15
 # jump-table
 *:E_LESSON1
 Q: Do you want to continue to lesson 2 [Y/N] ?
-N:MENU
+N:_K_MENU
 G:S_LESSON2
 *:E_LESSON2
 Q: Do you want to continue to lesson 3 [Y/N] ?
-N:MENU
+N:_K_MENU
 G:S_LESSON3
 *:E_LESSON3
 Q: Do you want to continue to lesson 4 [Y/N] ?
-N:MENU
+N:_K_MENU
 G:S_LESSON4
 *:E_LESSON4
 Q: Do you want to continue to lesson 5 [Y/N] ?
-N:MENU
+N:_K_MENU
 G:S_LESSON5
 *:E_LESSON5
 Q: Do you want to continue to lesson 6 [Y/N] ?
-N:MENU
+N:_K_MENU
 G:S_LESSON6
 *:E_LESSON6
 Q: Do you want to continue to lesson 7 [Y/N] ?
-N:MENU
+N:_K_MENU
 G:S_LESSON7
 *:E_LESSON7
 Q: Do you want to continue to lesson 8 [Y/N] ?
-N:MENU
+N:_K_MENU
 G:S_LESSON8
 *:E_LESSON8
 Q: Do you want to continue to lesson 9 [Y/N] ?
-N:MENU
+N:_K_MENU
 G:S_LESSON9
 *:E_LESSON9
 Q: Do you want to continue to lesson 10 [Y/N] ?
-N:MENU
+N:_K_MENU
 G:S_LESSON10
 *:E_LESSON10
 Q: Do you want to continue to lesson 11 [Y/N] ?
-N:MENU
+N:_K_MENU
 G:S_LESSON11
 *:E_LESSON11
 Q: Do you want to continue to lesson 12 [Y/N] ?
-N:MENU
+N:_K_MENU
 G:S_LESSON12
 *:E_LESSON12
 Q: Do you want to continue to lesson 13 [Y/N] ?
-N:MENU
+N:_K_MENU
 G:S_LESSON13
 *:E_LESSON13
 Q: Do you want to continue to lesson 14 [Y/N] ?
-N:MENU
+N:_K_MENU
 G:S_LESSON14
 *:E_LESSON14
 Q: Do you want to continue to lesson 15 [Y/N] ?
-N:MENU
+N:_K_MENU
 G:S_LESSON15
 *:E_LESSON15
-G:MENU
+G:_K_MENU
 
-*:MENU
+*:_K_MENU
 M: "ktouch lesson: English (auto-generated)"
  :S_LESSON1 "jf"
  :S_LESSON2 "kd"

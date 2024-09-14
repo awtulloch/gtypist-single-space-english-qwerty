@@ -5395,1644 +5395,6 @@ M: UP=__SERIESMENU "The U series contains the following 13 lessons"
 G:__SERIESMENU
 #==============================================================================
 #==============================================================================
-*:__S_D_SERIES
-# Start of file d.typ
-# GNU Typist - improved typing tutor program for UNIX systems
-# Copyright (C) 1998  Simon Baldwin (simonb@sco.com)
-#
-# This program is free software: you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation, either version 3 of the License, or
-# (at your option) any later version.
-#
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-# GNU General Public License for more details.
-#
-# You should have received a copy of the GNU General Public License
-# along with this program. If not, see <http://www.gnu.org/licenses/>.
-#
-
-#------------------------------------------------------------------------------
-# Series D
-#------------------------------------------------------------------------------
-G:_D_MENU
-*:_D_NO_MENU
-
-#------------------------------------------------------------------------------
-# Lesson D1
-#------------------------------------------------------------------------------
-*:D1
-*:_D_S_D1
-B:                            Lesson D1
-
-*:_D_R_L0
-T:			Welcome to the Dvorak Course
- :
- :This course has been planned for beginners as well as experienced typists.
- :If you are a beginner learning to type on the Dvorak keyboard (the American
- :Simplified Keyboard), you will find this keyboard easier to learn than the
- :QWERTY (Sholes) keyboard.
- :
- :This is because the Dvorak keyboard has been scientifically designed to minimize
- :cumulative finger motion while typing English. The ten letters on the home row
- :(A, O, E, U, I, D, H, T, N, and S) make up about 70% of all keystrokes. These
- :ten letters alone can form over 3000 words. Needless to say, having these keys
- :in the home row facilitates both speed and accuracy.
- :
- :If you are already an experienced typist on the Sholes keyboard, don't despair:
- :you won't have to unlearn everything you know. Your basic typing dexterity
- :remains with you, regardless of the keyboard layout. Learning the Dvorak
- :keyboard is like learning to "play on a new surface", as a tennis player must
- :learn to adjust to grass court or hard court when she has been accustomed to
- :playing on a clay court.
-
-*:_D_R_L1
-T:			General Instructions
- :
- :The fingers of the left hand should be placed over the A-key, the O-key,
- :the E-key, and the U-key. Similarly, the fingers of the right hand should be
- :placed over the H-key, the T-key, the N-key, and the S-key.
-
-I:(1) Home Row Exercises
-*:_D_R_L2
-D:aoeu ueoa aoeui snth htns snthd uihd uihd
- :asonetuhid asonetuhid dihutenosa dihutenosa
-
-I:(2)
-*:_D_R_L3
-D:a s o n e t u h i d a s o n e t u h i d
-
-I:(3)
-*:_D_R_L4
-D:d i h u t e n o s a d i h u t e n o s a
-
-I:(4)
-*:_D_R_L5
-D:as an at ah ad aa ao ae au ai os on ot oh od oi ou oe oo oa
- :es en et eh ed ea eo ee eu ei us un ut uh ud ui uu ue uo ua
-
-I:(5)
-*:_D_R_L6
-D:his hat is an aid in the hot sun
- :in his sad sod hut he sat on his hen
-
-I:(6)
-*:_D_R_L7
-D:sue did not use his hoe and tin hat
- :dan did not see the dot on his tie as he hid his tan hat
-
-I:(7)
-*:_D_R_L8
-D:ada add ado aha aid ann dad dan dee den did die din don dot dud
- :due dun duo eda end had has hat hen hid his hit hod hoe hot hue
- :hut ian ida inn ion its nat ned net nod not nun nut odd ode out
- :sat sit sod son sot sun tan tat tee ten tho tit toe ton too tot
-
-I:(8)
-*:_D_R_L9
-D:i do as i do and the end is not as sad as the one sid had
-
-G:_D_E_D1
-
-#------------------------------------------------------------------------------
-# Lesson D2
-#------------------------------------------------------------------------------
-*:D2
-*:_D_S_D2
-B:                            Lesson D2
-
-*:_D_R_L10
-T:                    Learning the Shift Key
- :
- :To integrate the shift key rhythmically in your practice, a capital letter
- :should take three beats: 1--press the shift key opposite the hand to press
- :the letter; 2--press the letter; 3--release the shift key.
-
-I:(1) Review
-*:_D_R_L11
-D:een ent est ett hin hou ith ion oth sen tha thi tio tte thu
-
-I:(2)
-*:_D_R_L12
-D:Ada An Ana Ann Dad Dan Dee Ed Eta
- :Dan Nan Nat Ned Sid Sue Tad Ted Tod
-
-I:(3)
-*:_D_R_L13
-D:The sad tots sat on a tan seat in his neat tent and ate ten nuts
- :On his date Otis had a thin suit and no tint on his shoes
-
-I:(4)
-*:_D_R_L14
-D:Enos eats a thin hash diet in a hued dish as he sits on an odd seat
- :Dad does not eat suet  He had seen Sue dent his auto
-
-I:(5)
-*:_D_R_L15
-D:ad an de di ed en es ie in ne un ate dis ess eat ied ine
- :ist ite nee nes non nus ses tes tis usi ante anti ates
- :eous eats ines ions ious ists itas itis ness sion tion
-
-I:(6)
-*:_D_R_L16
-D:Adna Anna Anne Dana Dead Edie Edna Enid Etta Heda
- :Nate Nina Neta Nona Odie Ohio Otto Stan Tess Thad Theo
-
-I:(7)
-*:_D_R_L17
-D:adds aids ante ants aunt dead deed dens died dies dine dins dodo
- :heed hens hied hind hint hiss hist hits hods hoed hoes hone hood
- :none noon noun nuns oats odds odes ones sane sash sate seas seed
- :sees sent sets shad shed shin shot side sine sins sons sued suns
- :tide tine tins toad tone toss tote tout tune undo unit used uses
-
-G:_D_E_D2
-
-#------------------------------------------------------------------------------
-# Lesson D3
-#------------------------------------------------------------------------------
-*:D3
-*:_D_S_D3
-B:                            Lesson D2
-
-T:                    Home Row and the Period
- :
- :The period is above the E-finger.  Note that the end of a sentence is
- :always followed by one space because it is no longer 1957.
-
-#
-I:(1)
-*:_D_R_L18
-D:e. e. e. e. a. s. o. n. e. t. u. h. i. d. a. a.
- :h. u. a. i. o. n. s. d. t. e. h. o. u. i. s. a.
-
-I:(2)
-*:_D_R_L19
-D:anno athe atio atte ause diti enon esen enti este
- :ethe esti ette hese hous hout iate iend ines inst
- :ith itio into ndin ness nnot noth ntio onth osed
- :thei thes tion tten nest nude unti usin tand tate
-
-I:(3)
-*:_D_R_L20
-D:Adana Andie Annie Aonia Audie Denis Diana Dinah
- :Donna Duane Edith Ethan India Susan Susie Thane
- :Adana. Andie. Annie. Aonia. Audie. Denis. Diana. Dinah.
-
-I:(4)
-*:_D_R_L21
-D:In the house Adana dined in haste on toast and dates.
- :Sated as she had eaten she noted the sheen on the dunes
- :and the shade in the sheds. She hates to see an idiot
- :stand and shoot his tenth doe in the dense heath.
-
-I:(5)
-*:_D_R_L22
-D:An onion heats and stuns stout noses and sends hands
- :to douse teeth and hoist suede hoods onto heads.
-
-I:(6)
-*:_D_R_L23
-D:eates eousness eousnesses esses iates iests iness inesses
- :iousness iousnesses iohness iohnesses itions nesses ousness
-
-G:_D_E_D3
-
-#------------------------------------------------------------------------------
-# Lesson D4
-#------------------------------------------------------------------------------
-*:D4
-*:_D_S_D4
-B:                            Lesson D4
-
-*:_D_R_L24
-T:                    Upper Row and Essential Punctuation
-
-I:(1)
-*:_D_R_L25
-D:tctc upup hghg o,o, nrnr a/a/ slsl a?a? s-s- s--- s---- ----
- :tctc upup hghg, hfhf uyuy, nrnr, slsl, s---, s-s-, a/a/-
-
-I:(2)
-*:_D_R_L26
-D:tctc/ upup/ hghg/ uyuy/ hfhf/ nrnr/ slsl/ tctc/ hfhf/ hghg/
- :tctc? upup? hghg? uyuy? nrnr? slsl? hfhf? upup- hghg- tctc-
-
-I:(3)
-*:_D_R_L27
-D:Al el if of or up Al el if of or up
- :go la lo pa pi ye go la lo pa pi ye
-
-I:(4)
-*:_D_R_L28
-D:Can pa go aft and lie on our old cot?
- :The shy ape put on a red hat and ran off the lot.
- :For a top fee, her act is to hop in, lie on the rug, pat her
- :pet cat, fit a fur on her ear, get her fan, and run off.
-
-I:(5)
-*:_D_R_L29
-D:ago ail ale all apt arc are art cur cut dig dip dop
- :dry dug eel egg ego fag fig fin fir fly fog for fro
- :fry gag gap gas gay gin gip God goo gun hag hay hep
-
-G:_D_E_D4
-
-#------------------------------------------------------------------------------
-# Lesson D5
-#------------------------------------------------------------------------------
-*:D5
-*:_D_S_D5
-B:                            Lesson D5
-
-I:(1) Review
-*:_D_R_L30
-D:The left road can lead the lads and lady to good lots near
- :your land. The sale of pure gold is held at your door.
-
-I:(2)
-*:_D_R_L31
-D:You held no fear of loss for a year. On each trip to your
- :shop he paid in cash for the caps, fish, cups, pans, fuel,
- :logs, peas, ales, rice and fats you sold.
-
-I:(3)
-*:_D_R_L32
-D:It is a fact that a slap on the face can hurt. The poor
- :apes feel free to find a sure sort of life in the dale.
-
-I:(4)
-*:_D_R_L33
-D:aces acts ages ails airs also arcs call caps card cold cops
- :else errs eyes face fair fall fare fate feat feel feet fell
- :gate gets gift gigs glad goat goes gone gosh gray grey gull
- :hole hope hops huff hull ills ires last late lest lets lies
-
-I:(5)
-*:_D_R_L34
-D:pear pert pest pets pits plop pops post pots puns puts rate real
- :ride rids ripe rips rope rote rues ruff runs runt rush rust ruts
- :span spat spin spit spot spun step stop tags tall tape taps tars
- :ugly upon ruge user yard year yeas yell yelp yips yoga yule your
-
-G:_D_E_D5
-
-#------------------------------------------------------------------------------
-# Lesson D6
-#------------------------------------------------------------------------------
-*:D6
-*:_D_S_D6
-B:                            Lesson D6
-
-*:_D_R_L35
-T:		Learning the Lower Row
-
-I:(1)
-*:_D_R_L36
-D:a'sz oqnv ukhm uxhb a"o- oqnv ejtw a'sz uxhb ukkk ukhm a's-
-
-I:(2)
-*:_D_R_L37
-D:uk sz-a' tw nv ej hm uk a" hb oq uk a' nv hm a" oq sz tw ej
-
-I:(3)
-*:_D_R_L38
-D:ale any are ary augh aught ave ay aye ec ece eco el er ere ery ex
- :exa exe far fer fir for ify igh ight il ile ill ily ire aze ize
- :la lly ly my ny ome or ore ough ought ould our re rec sive tive
-
-I:(4)
-*:_D_R_L39
-D:I owe him a bun, a ham, ink, a bed and a job.
- :Sam was mad at his own new ox in the bin.
- :At the zoo, the wee, bad boa in a box bit Tom, Bob and me.
-
-I:(5)
-*:_D_R_L40
-D:am ax be ma me ox oz we adz awe ban but eke eve haw hem
- :hub jab jam jaw jet jib job Joe jot jut kid kin kit man
- :mat Max nab new nub now own quo saw sox sum van vex vie
- :vow wan who win won yen you zax
-
-G:_D_E_D6
-
-#------------------------------------------------------------------------------
-# Lesson D7
-#------------------------------------------------------------------------------
-*:D7
-*:_D_S_D7
-B:                            Lesson D7
-
-I:(1)
-*:_D_R_L41
-D:In a daze the band hums the same new tune as they zoom down the exit.
-
-I:(2)
-*:_D_R_L42
-D:Next time, I must have a town home, with a book and a vast tome,
- :bees, oxen, hams in the oven, rows of beans, the wind and a view.
-
-I:(3)
-*:_D_R_L43
-D:I know six men wait to put down their axes. They want to quit
- :their jobs when the job zone size is too wide.
-
-I:(4)
-*:_D_R_L44
-D:ahem aims ajax akin asks atom axis bans bath beak beck been
- :hoax husk inks item jabs jade jamb Java jazz Jean jest jinx
- :knot Knox made maid mail mate mean meet mend mess mind mine
-
-I:(5)
-*:_D_R_L45
-D:miss mist most musk must nabs news next nibs numb owed owes
- :quiz save saws seem sews skat skew skid skin some sums take
- :vend vent vest veto vise void vote wand weed week wend wins
- :whet whit whiz whom wish wont zebu zest zinc Zion zone zulu
-
-G:_D_E_D7
-
-#------------------------------------------------------------------------------
-# Lesson D8
-#------------------------------------------------------------------------------
-*:D8
-*:_D_S_D8
-B:                            Lesson D8
-
-I:(1)
-*:_D_R_L46
-D:He asked about those zebra waits in his beans.
-
-I:(2)
-*:_D_R_L47
-D:It seems that in a month taxes on homes have taken all we saved.
-
-I:(3)
-*:_D_R_L48
-D:John Smith makes a quiet visit to the bases in the winds and
- :weeds on the mound.
-
-I:(4)
-*:_D_R_L49
-D:ovals ovoid oxide quake queen quest quite quits quote saves seams
- :skein skink skunk sweat takes taken taxed teams teems thank think
- :thumb times towns ukase vaunt vests vises visit vista vivid vixen
- :waits wands wants wends whine white whose zebus zoned zones zulus
-
-G:_D_E_D8
-
-#------------------------------------------------------------------------------
-# Lesson D9
-#------------------------------------------------------------------------------
-*:D9
-*:_D_S_D9
-B:                            Lesson D9
-
-I:(1)
-*:_D_R_L50
-D:hghm hbfb upxp uxyx twcw ej.j nvrv oq,q szlz a'?' a"/"
-
-I:Again...
-*:_D_R_L51
-D:hghm hbfb upxp uxyx twcw ej.j nvrv oq,q szlz a'?' a"/"
-
-I:(2)
-*:_D_R_L52
-D:gm mg fb bf pk kp yx xy cw wc .j j. rv vr ,q q, lz zl
-
-I:(3)
-*:_D_R_L53
-D:My big boy may buy a gem at the labs by the bay.
-
-I:(4)
-*:_D_R_L54
-D:Mort awes boys with the way he can ward off a blow, kill
- :elks and game, row a yawl, or ram awls into bars.
-
-I:(5)
-*:_D_R_L55
-D:ah Al am an as at ax ba be do ed eh el go
- :ha he hi ho if in is it Jo la no ma me no
- :of oh on or ox pa pi Si so to up us we ye
-
-G:_D_E_D9
-
-#------------------------------------------------------------------------------
-# Lesson D10
-#------------------------------------------------------------------------------
-*:D10
-*:_D_S_D10
-B:                            Lesson D10
-
-I:(1)
-*:_D_R_L56
-D:In barns on farms chicks, boars, veals, bucks and stock might
- :enjoy and value an extra quart of water daily.
-
-I:(2)
-*:_D_R_L57
-D:Do zebras roam the miles of bleak velds which cover parts of the
- :world while packs of brown bears and wart hogs prowl in the woods?
-
-I:(3)
-*:_D_R_L58
-D:Some folks claim to favor poems and rhyme, others can wring equal
- :cheer and worth from words and quest and seize all books. Still
- :others amply quell their needs with vocal music and seek all
- :works on voice.
-
-I:(4)
-*:_D_R_L59
-D:To begin to use wrong verbs among boors and bores may be
- :a severe error even if the whole group seems to think
- :that exact terms mean less than is normal for them.
-
-I:(5)
-*:_D_R_L60
-D:allow among avail awful Aztec azure backs balls began being belie
- :bells bills black blank bored borne bring can't chalk champ charm
- :check cheek chick chink comes Czech every evict exalt excel exert
- :exile expel exult Felix folks gable gauze gives glaze gleam globe
-
-I:(6)
-*:_D_R_L61
-D:verge verse verve vetch vigil vigor viola virus vital vogue voile
- :vouch vowel vying walks walls wards warts whack whale wharf wheat
- :wheel whelp where which whiff while whirl whole wired wires words
- :world worth would write wrong wrote yards yokes yoks zippy zombie
-
-G:_D_E_D10
-
-#------------------------------------------------------------------------------
-# Lesson D11
-#------------------------------------------------------------------------------
-*:D11
-*:_D_S_D11
-B:                            Lesson D11
-
-I:(1)
-*:_D_R_L62
-D:For a meal we lack a room, milk in mugs, warm pork, veal
- :in the oven and cake.
-
-I:(2)
-*:_D_R_L63
-D:Mike and Milt were grim, not calm, when Mort came to warn them that
- :the well worn ramp over to the mill was too wet for our mile walk.
-
-I:(3)
-*:_D_R_L64
-D:Walt may quip and quote with zeal about too much work, but I
- :saw him melt and mourn about his love for his lost wife.
-
-I:(4)
-*:_D_R_L65
-D:The pick of wool from rams can make very soft warm garb.
-
-I:(5)
-*:_D_R_L66
-D:For his meal the busy bird will use his bill or beak in many
- :ways to peck at or ably to pick up a worm.
-
-I:(6)
-*:_D_R_L67
-D:Owls on the wing may move away with limp easy grace or they
- :may sit on a wire and look ever so wise.
-
-I:(7)
-*:_D_R_L68
-D:The word or term--prop, mall, king, mark, romp, lock or link--
- :can vary in what it may mean.
-
-I:(8)
-*:_D_R_L69
-D:helm herb hock holy jeep jeer jell jerk John jolt jump jury
- :kale keel kelp kilt lack laws leak leek levy lick like lime
- :limp link live love luck lump lynx mail many mill more much
- :okra oval pack peak peck peek phew puck ramp rime skip talk
-
-I:(9)
-*:_D_R_L70
-D:puck ramp rime skip talk vail vale vary veal veer veld verb vial vice
- :volk walk ware warm warp wars wart ways weal wear well will tilt wire
- :whey whim whip whir wore work worm worn yawn yolk zany zero zinc zing
-
-G:_D_E_D11
-
-#------------------------------------------------------------------------------
-# Lesson D12
-#------------------------------------------------------------------------------
-*:D12
-*:_D_S_D12
-B:                            Lesson D12
-
-I:(1)
-*:_D_R_L71
-D:In barns on farms chicks, bears, veals, bucks and stock might
- :enjoy and value an extra quart of water daily.
-
-I:(2)
-*:_D_R_L72
-D:Quick quips, awful quotes and queer talks never quite solve
- :the wants of a very small child.
-
-I:(3)
-*:_D_R_L73
-D:Do zebras roam the miles of bleak velds which cover parts of the
- :world while packs of brown bears and wart hogs prowl in the woods?
-
-I:(4)
-*:_D_R_L74
-D:Some folks claim to favor poems and rhyme, others can wring equal
- :cheer and worth from words and quest and seize all books. Still
- :others amply quell their needs with vocal music and seek all
- :works on voice.
-
-I:(5)
-*:_D_R_L75
-D:The queen was given a query for which an ample reply would
- :take a quire of paper.
-
-I:(6)
-*:_D_R_L76
-D:Six husky cooks boiled clam broth, shrimp and prawns and broiled
- :liver for seven lucky elves, then made their hasty exits.
-
-I:(7)
-*:_D_R_L77
-D:At the games, Mark was so very badly hurt with many broken bones,
- :lumps on his jaws, and some glands burst. Blood oozed from a crack
- :in his wart where it had oozed for weeks. He was lucky to have lived.
-
-I:(8)
-*:_D_R_L78
-D:To check pomp and pride, sever from all overt vices, belay all
- :forms of muck raking, and limit all hazards, will bring prime joy.
-
-I:(9)
-*:_D_R_L79
-D:To begin to use wrong verbs among boors and bores may be
- :a severe error even if the whole group seems to think
- :that exact terms mean less than is normal for them.
-
-I:(10)
-*:_D_R_L80
-D:allow among avail awful Aztec azure backs balls began being belie
- :bells bills black blank bored borne bring can't chalk champ charm
- :check cheek chick chink comes Czech every evict exalt excel exert
- :exile expel exult Felix folks gable gauze gives glaze gleam globe
-
-I:(11)
-*:_D_R_L81
-D:grams grave graze havoc hazel helix hobby jazzy jelly jerky jewel
- :joker jolly jolts jowls judge junco kapok kayak keels keeps kitty
- :knack kneel knelt knock knurl kopek kraal Krupp leave liver money
- :never Ozark pawns peaks pecks peeks phlox pirks power proms prove
-
-I:(12)
-*:_D_R_L82
-D:quack quaff quail qualm quays quell quill quilt ramps romps rooms
- :rumps salve serve shack shark shawl shirk shock shrew shuck sieve
- :seize skiff skill skimp skirt skulk small spank speak spoke stick
- :stuck threw throw thyme vague valid value valve vapid vault venal
-
-I:(13)
-*:_D_R_L83
-D:verge verse verve vetch vigil vigor viola virus vital vogue voile
- :vouch vowel vying walks walls wards warts whack whale wharf wheat
- :wheel whelp where which whiff while whirl whole wired wires words
- :world worth would write wrong wrote yards yokes yolks zippy zombi
-
-G:_D_E_D12
-
-#------------------------------------------------------------------------------
-# Lesson D13
-#------------------------------------------------------------------------------
-*:D13
-*:_D_S_D13
-B:                            Lesson D13
-
-*:_D_R_L84
-T:
- :The following 135 words are so frequently used that they comprise 50%
- :of all words normally typed. If you can type the next two exercises without
- :errors, half of your typed words will be correct!
-
-*:_D_R_L85
-D:a about after all also an and another any are as at back be because
- :been before being between both but by can could day did do down each
- :even first for from get good had has have he her here him his how I
- :if in into is it its just know last life like little long made make
- :many may me men more most Mr. Ms. much must my never new no not now
-
-*:_D_R_L86
-D:of or on one only or other our out over own people said same see she
- :should so some state still such than that the their them then there
- :these they this those through time to too two under up very was way
- :we well were what when where which while who will with work would
- :years you your
-
-*:_D_R_L87
-T:We now concentrate on home row words.
-
-I:(1)
-*:_D_R_L88
-D:The duteous dietitian hesitated at the intense nauseousness inside
- :the dishonest institution.
-
-I:(2)
-*:_D_R_L89
-D:In addition, the unastute assassin had another unsound idea. He
- :intended to assassinate the dishonest attendant at the institute.
-
-I:(3)
-*:_D_R_L90
-D:The unintentioned noisiness and untidiness in the hostess house
- :astonished, astounded and nauseated Antonietta. Undaunted and
- :unassisted, she did not hesitate to initiate a statute at the state
- :house. The statute stated that no attendant in an untenanted haunted
- :hostess house is to attain hostess status.
-
-G:_D_E_D13
-
-#------------------------------------------------------------------------------
-# Lesson D14
-#------------------------------------------------------------------------------
-*:D14
-*:_D_S_D14
-B:                            Lesson D14
-
-*:_D_R_L91
-T:
- :In this lesson we practice alphabetic sentences.
-
-I:(1)
-*:_D_R_L92
-D:Sixty-five quizzical sheep kept their jaws dry in a farm bungalow.
-
-I:(2)
-*:_D_R_L93
-D:Balky Zulus find they can hoax weary men with quavery jumping.
-
-I:(3)
-*:_D_R_L94
-D:Jerome quickly began to be vexed by the powerful blizzards.
-
-I:(4)
-*:_D_R_L95
-D:Squawking gorillas could vex the brazen nymphs in a jiffy.
-
-I:(5)
-*:_D_R_L96
-D:Can Jerry's equipment file saws, ax, hoe, knives and grind adz?
-
-I:(6)
-*:_D_R_L97
-D:Ben works at squeezing very juicy plums with flexed thumbs.
-
-I:(7)
-*:_D_R_L98
-D:The black wizard quipping jovially flexed his muscles.
-
-I:(8)
-*:_D_R_L99
-D:Will you pack my jugs of liquid veneer in five dozen boxes?
-
-I:(9)
-*:_D_R_L100
-D:Could the wizard jinx quivering folks by magic yelps?
-
-I:(10)
-*:_D_R_L101
-D:Brazen gazelles quickly examined the forward jeep.
-
-I:(11)
-*:_D_R_L102
-D:The brown dog quickly jumped over the lazy fox.
-
-I:(12)
-*:_D_R_L103
-D:Will the kind judge squelch the five or six brazen nymphs?
-
-I:(13)
-*:_D_R_L104
-D:Mix zippy Kadota figs with quivering cranberry jelly.
-
-I:(14)
-*:_D_R_L105
-D:The wives quickly jerked extra big pizzas from the stand.
-
-I:(15)
-*:_D_R_L106
-D:Lisa quickly mixed the very big jar of new soap.
-
-I:(16)
-*:_D_R_L107
-D:The major will fix a quiet cozy nook for the vexed, bad Gypsy.
-
-I:(17)
-*:_D_R_L108
-D:Pairs of lazy knowing oxen came by quietly evading the jam.
-
-I:(18)
-D:Juvenile zest for excitement whetted interest in parking by the quay.
-
-I:(19)
-*:_D_R_L109
-D:Put your big ax, shovel and quartz where Mike's fence joins ours.
-
-I:(20)
-*:_D_R_L110
-D:The brawny jaguar held fast till the quaking Zouave victim expired.
-
-G:_D_E_D14
-
-#------------------------------------------------------------------------------
-# Lesson series D jump tables
-#------------------------------------------------------------------------------
-*:_D_E_D1
-Q: Do you want to continue to lesson D2 [Y/N] ? 
-N:_D_MENU
-G:_D_S_D2
-*:_D_E_D2
-Q: Do you want to continue to lesson D3 [Y/N] ? 
-N:_D_MENU
-G:_D_S_D3
-*:_D_E_D3
-Q: Do you want to continue to lesson D4 [Y/N] ? 
-N:_D_MENU
-G:_D_S_D4
-*:_D_E_D4
-Q: Do you want to continue to lesson D5 [Y/N] ? 
-N:_D_MENU
-G:_D_S_D5
-*:_D_E_D5
-Q: Do you want to continue to lesson D6 [Y/N] ? 
-N:_D_MENU
-G:_D_S_D6
-*:_D_E_D6
-Q: Do you want to continue to lesson D7 [Y/N] ? 
-N:_D_MENU
-G:_D_S_D7
-*:_D_E_D7
-Q: Do you want to continue to lesson D8 [Y/N] ? 
-N:_D_MENU
-G:_D_S_D8
-*:_D_E_D8
-Q: Do you want to continue to lesson D9 [Y/N] ? 
-N:_D_MENU
-G:_D_S_D9
-*:_D_E_D9
-Q: Do you want to continue to lesson D10 [Y/N] ? 
-N:_D_MENU
-G:_D_S_D10
-*:_D_E_D10
-Q: Do you want to continue to lesson D11 [Y/N] ? 
-N:_D_MENU
-G:_D_S_D11
-*:_D_E_D11
-Q: Do you want to continue to lesson D12 [Y/N] ? 
-N:_D_MENU
-G:_D_S_D12
-*:_D_E_D12
-Q: Do you want to continue to lesson D13 [Y/N] ? 
-N:_D_MENU
-G:_D_S_D13
-*:_D_E_D13
-Q: Do you want to continue to lesson D14 [Y/N] ? 
-N:_D_MENU
-G:_D_S_D14
-*:_D_E_D14
-G:_D_MENU
-
-#------------------------------------------------------------------------------
-# Lesson series D menu
-#------------------------------------------------------------------------------
-*:_D_MENU
-B:                  Dvorak touch typing lessons
-M: UP=__SERIESMENU "The D series contains the following 14 lessons"
- :_D_S_D1  "Lesson D1     The home row"
- :_D_S_D2  "Lesson D2     Learning the Shift Key"
- :_D_S_D3  "Lesson D3     Home Row and the Period"
- :_D_S_D4  "Lesson D4     Upper Row and Essential Punctuation"
- :_D_S_D5  "Lesson D5     Review"
- :_D_S_D6  "Lesson D6     Learning the Lower Row"
- :_D_S_D7  "Lesson D7     Practise"
- :_D_S_D8  "Lesson D8     Practise"
- :_D_S_D9  "Lesson D9     Practise"
- :_D_S_D10 "Lesson D10    Practise"
- :_D_S_D11 "Lesson D11    Practise"
- :_D_S_D12 "Lesson D12    Practise"
- :_D_S_D13 "Lesson D13    Frequent words"
- :_D_S_D14 "Lesson D14    Alphabetic sentences"
-*:_D_EXIT
-#------------------------------------------------------------------------------
-# End of file d.typ
-G:__SERIESMENU
-#==============================================================================
-#==============================================================================
-*:__S_C_SERIES
-# Start of file c.typ
-# GNU Typist - improved typing tutor program for UNIX systems
-# Copyright (C) 2011 GNU Typist Development Team
-#
-# This program is free software: you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation, either version 3 of the License, or
-# (at your option) any later version.
-#
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-# GNU General Public License for more details.
-#
-# You should have received a copy of the GNU General Public License
-# along with this program. If not, see <http://www.gnu.org/licenses/>.
-#
-
-#------------------------------------------------------------------------------
-# Series C
-#------------------------------------------------------------------------------
-G:_C_MENU
-*:_C_NO_MENU
-
-#------------------------------------------------------------------------------
-# Lesson C1
-#------------------------------------------------------------------------------
-*:C1
-*:_C_S_C1
-B:                             Lesson C1
-
-T:			Welcome to the Colemak Course
- :
- :This course is intended for beginners as well as experienced typists. The
- :Colemak keyboard is an alternative to the QWERTY (Sholes) keyboard layout.
- :You will find it easier to learn than the QWERTY and Dvorak keyboard layouts.
- :
- :Like the Dvorak keyboard, this is because the Colemak keyboard layout has been
- :scientifically designed to minimise cumulative finger motion while typing
- :English. The ten letters on the home row (A, R, S, T, D, H, N, E, I, and O)
- :make up about 70% of all keystrokes. These ten letters alone can form over
- :3000 words. Needless to say, having these keys in the home row facilitates
- :both speed and accuracy.
- :
- :Unlike the Dvorak keyboard layout, however, the Colemak keyboard layout has
- :also specifically been designed to be easy to learn for people who are already
- :familiar with using a QWERTY keyboard layout. Despite this, it appears that
- :the Colemak keyboard is as fast as, if not faster than, the Dvorak keyboard.
- :
- :For information about the Colemak kyboard layout, see <http://colemak.com/>.
-
-T:			General Instructions
- :
- :The fingers of the left hand should be placed over the A-key, the R-key,
- :the S-key, and the T-key. Similarly, the fingers of the right hand should be
- :placed over the N-key, the E-key, the I-key, and the O-key. This is called the
- :HOME position. Only these fingers should be used to press the keys that they
- :are above.
- :
- :In addition to these keys, the SPACE bar should be pressed with the thumb of
- :the right hand. At the end of every line, the RETURN key should be pressed
- :with the fourth finger of the right hand.
-
-I:(1) S, T, N and E
-*:_C_R_C1_1
-D:sets tens ten tnt sestet tenet seen nene testee tenets essen sent senses
- :tenses teens stent sense tent nets tenseness net tense nests tennessee
-
-I:(2)
-*:_C_R_C1_2
-D:teen nest tents net tens teen tenets senses nests nest nets tenet sent sense
- :tenses tennessee essen tnt tent teens tense nene stent seen
-
-G:_C_E_C1
-
-#------------------------------------------------------------------------------
-# Lesson C2
-#------------------------------------------------------------------------------
-*:C2
-*:_C_S_C2
-B:                             Lesson C2
-
-I:(1) R and I
-*:_C_R_C2_1
-D:trite stress sire it entire terse tit sir tire sinner retire rinse inn tree
- :insist tier rite teeter resin stir siren enter
-
-I:(2)
-*:_C_R_C2_2
-D:sitter insert site sneer intern tie inner series steer tin riser its resent
- :sin rise rent rein iris stern in titter resist
-
-I:(3)
-*:_C_R_C2_3
-D:eerie inert street is renter sit nine risen sister serene stint err snit
- :intent entree nit inter rest tennis re tint
-
-G:_C_E_C2
-
-#------------------------------------------------------------------------------
-# Lesson C3
-#------------------------------------------------------------------------------
-*:C3
-*:_C_S_C3
-B:                             Lesson C3
-
-I:(1) A and O
-*:_C_R_C3_1
-D:retain roe rant ratio toast sort stat tore earn noose teat eater oat trio tear
- :tone artist nor tattoo seat arise noise start toss tenant oasis
-
-I:(2)
-*:_C_R_C3_2
-D:one aria no arson sonata soon rear to ass soot irate sane onset star root
- :state oar errant resort tartan sonnet notes eat rotten stain ration
-
-I:(3)
-*:_C_R_C3_3
-D:arose reason noon sass retina iota torn stairs iron estate toe are season not
- :attire tenor innate torso tease arisen note tar snort tarot
-
-G:_C_E_C3
-
-#------------------------------------------------------------------------------
-# Lesson C4
-#------------------------------------------------------------------------------
-*:C4
-*:_C_S_C4
-B:                             Lesson C4
-
-T:			General Instructions
- :
- :When you need to press the D-key or the H-key, the first finger of the left or
- :right hand, respectively, should be used. No other finger should be used.
-
-I:(1) D and H
-*:_C_R_C4_1
-D:odds the hard tooth tide ether raid other rend hire dress has noted ash aide
- :ha rider hiss soda ninth aside ahead hate toad shirt shed dare hid
-
-I:(2)
-*:_C_R_C4_2
-D:this dose horde ashen road shot shod idea hear hand read rash darts those
- :stand three stood shorn trend hint dote short darn ah staid her node had
-
-I:(3)
-*:_C_R_C4_3
-D:heard horn third add these hot ode hers does heart hated did rhino sash door
- :teeth rid here sod hoe nerd head hose drier trash tread host date hat
-
-G:_C_E_C4
-
-#------------------------------------------------------------------------------
-# Lesson C5
-#------------------------------------------------------------------------------
-*:C5
-*:_C_S_C5
-B:                             Lesson C5
-
-I:(1) HOME row exercises
-*:_C_R_C5_1
-D:his hat is an aid in the hot heat
- :in his sad sod rest he sat on his hen
-
-I:(2)
-*:_C_R_C5_2
-D:ron did not don his hoe and tin hat
- :dan did not see the dot on his tie as he hid his tan hat
-
-I:(3)
-*:_C_R_C5_3
-D:i do as i do and the end is not as sad as the one sid had
-
-I:(4)
-*:_C_R_C5_4
-D:add ado ads aha aid air and ani ant are art ash ass ate dad den
- :did die din dis doe don dos dot ear eat end eon era ere err eta
- :had hah has hat hen her hes hid hie his hit hod hoe hos hot ids
-
-I:(5)
-*:_C_R_C5_5
-D:inn ins ion ire its net nit nod non nor not nth oar oat odd ode
- :oho ohs one ore ran rat red rho rid rod roe rot sad sat sea see
- :set she sin sir sis sit sod son sot tad tan tar tat tea tee ten
- :the tho tie tin tit toe ton too tor tot
-
-I:(6)
-*:_C_R_C5_6
-D:adds aeon ahas aide aids airs ands anon ante anti ants area ares
- :dint dire dirt dish diss dodo doer does done dons door dose dote
- :hair hand hard hare hart hash hate hath hats head hear heat heed
- :inti into ions iota ired ires iris iron near neat need neon nerd
-
-I:(7)
-*:_C_R_C5_7
-D:rash rate rats read rear redo reds reed rein rend rent rest rhea
- :sate sear seas seat seed seen seer sees send sent sera sere sets
- :soot sore sort sots star stir tads tans tare taro tars tart tats
- :toad toed toes tone tons toot tore torn tors tort toss tost
-
-G:_C_E_C5
-
-#------------------------------------------------------------------------------
-# Lesson C6
-#------------------------------------------------------------------------------
-*:C6
-*:_C_S_C6
-B:                             Lesson C6
-
-T:			General Instructions
- :
- :The P-key and the L-key should be pressed only by the first finger of the left
- :or right hand.
-
-I:(1) P and L
-*:_C_R_C6_1
-D:toil dip lithe peer oiled spite less phase sold oops spiel slid patio slat
- :nope slit poet spelt leper hall plaid snoop spill
-
-I:(2)
-*:_C_R_C6_2
-D:padre paint dial pin land splat plop pale lead lip pail pond lope else pan
- :peal stilt shop plot steal pain spool load peter solid
-
-I:(3)
-*:_C_R_C6_3
-D:pilot sleep pep lone ale spend lilt past spit lots steep pool ideal pal snipe
- :slope apple old petal polar let paste slip heist
-
-G:_C_E_C6
-
-#------------------------------------------------------------------------------
-# Lesson C7
-#------------------------------------------------------------------------------
-*:C7
-*:_C_S_C7
-B:                             Lesson C7
-
-T:			General Instructions
- :
- :The F-key and the U-key should be pressed only by the second finger of the left
- :or right hand.
-
-I:(1) P and L
-*:_C_R_C7_1
-D:urn file hound flora pupil feast upper fade spud fern spurn froth huh foal
- :dune sniff rerun furor tune fresh hush shaft lure left fuss usher
-
-I:(2)
-*:_C_R_C7_2
-D:thief surf taut fold found sour fire stunt elf letup fell tout fun tuft puff
- :us foe run fatal flout usurp flap ford four sinus fated dual roof
-
-I:(3)
-*:_C_R_C7_3
-D:proud final fur utter fool round furl flare rude flute self hut stiff foul
- :unit fraud pulp flood route feed pause fund fetid hurl tofu fear
-
-G:_C_E_C7
-
-#------------------------------------------------------------------------------
-# Lesson C8
-#------------------------------------------------------------------------------
-*:C8
-*:_C_S_C8
-B:                             Lesson C8
-
-T:			General Instructions
- :
- :The W-key and the Y-key should be pressed only by the third finger of the left
- :or right hand.
-
-I:(1) W and Y
-*:_C_R_C8_1
-D:wasp way delay hewn fury twit newsy yet whir ray water hurry dawn holly widen
- :penny widow raspy yawn lily downy dwell
-
-I:(2)
-*:_C_R_C8_2
-D:wiry sissy warp snowy furry swift windy hefty wish filly sweat hype sway prawn
- :day fowl noisy wail surly rowdy wily
-
-I:(3)
-*:_C_R_C8_3
-D:sweet lowly synod went posy strew your swine yap whoa paddy weep artsy aware
- :stray wade style woof sunny stow pray
-
-I:(4)
-*:_C_R_C8_4
-D:wife days frown wispy ply howl phony awe hyena endow handy whet yeast stew
- :type word dandy show duly weird tasty newly
-
-G:_C_E_C8
-
-#------------------------------------------------------------------------------
-# Lesson C9
-#------------------------------------------------------------------------------
-*:C9
-*:_C_S_C9
-B:                             Lesson C9
-
-T:			General Instructions
- :
- :The G-key and the J-key should be pressed only by the first finger of the left
- :or right hand.
-
-I:(1) G and J
-*:_C_R_C9_1
-D:jaw gel jut gape jury night juror giant jade gut jug jaunt gofer jeer gash
- :just hog jot leg jog jet fight jilt guilt joy ghoul
-
-I:(2)
-*:_C_R_C9_2
-D:jewel slog jeans gal jig jail dough jar pang jelly rang jowls gag jaws jiffy
- :deign junta go jetty grass jaded fang joint gull
-
-I:(3)
-*:_C_R_C9_3
-D:ajar dig jest gaffe fjord along join glass jolt groan jolly sting jeans green
- :jiffy golly jot fig jilt sag jetty gruff jail
-
-I:(4)
-*:_C_R_C9_4
-D:sung jaw gushy jeer gala just age jig jaded glee jut tongs jar god jet grate
- :jade genre sharp jelly tangy proof ajar pager
-
-G:_C_E_C9
-
-#------------------------------------------------------------------------------
-# Lesson C10
-#------------------------------------------------------------------------------
-*:C10
-*:_C_S_C10
-B:                             Lesson C10
-
-T:			General Instructions
- :
- :The M-key and the V-key should be pressed only by the first finger of the left
- :or right hand.
-
-I:(1) M and V
-*:_C_R_C10_1
-D:envy mount vivid made motor navel moose lever madly levy muddy dive trump
- :raven harem vain nomad view month hover lemon naval imply valet
-
-I:(2)
-*:_C_R_C10_2
-D:gnome oven mean move grove swim vote swamp levee germ vat melee novel frame
- :eve humid vile swarm verge med five limp haven ramp vet mitt
-
-I:(3)
-*:_C_R_C10_3
-D:seven maple mover venom lava yum drive moat wove swam savor maim given dove
- :dome ivory stomp very tumor sever sham avert loom vigor moldy
-
-I:(4)
-*:_C_R_C10_4
-D:movie voter foam vast media devil metal grave muggy jar salve madam jot vie
- :just saver dream jet foil vow him jumpy aloof shave
-
-G:_C_E_C10
-
-#------------------------------------------------------------------------------
-# Lesson C11
-#------------------------------------------------------------------------------
-*:C11
-*:_C_S_C11
-B:                             Lesson C11
-
-T:			General Instructions
- :
- :The B-key and the K-key should be pressed only by the first finger of the left
- :or right hand.
-
-I:(1) B and K
-*:_C_R_C11_1
-D:make lamb disk boob smoke skim abort kin blush dorky buns fake snub pike fable
- :geeky beam eke brown waken butt nook bed oak buddy biker
-
-I:(2)
-*:_C_R_C11_2
-D:stake bide dusk been risk belly joke bolt baker skull bore peek buyer awoke
- :bliss looks babe kiddo sheik debut sky web frisk brief mark
-
-I:(3)
-*:_C_R_C11_3
-D:adobe woke jamb bike brisk nuke bulge kiss boa shook bayou okra tuba flask
- :maybe desk brash week bongo flake jab murky bogus duke rehab
-
-I:(4)
-*:_C_R_C11_4
-D:stoke about trike birth maker book bird king ivory bond kiwi veto bill wok
- :vine point boost just jerky naive promo baggy speak stave tribe
-
-G:_C_E_C11
-
-#------------------------------------------------------------------------------
-# Lesson C12
-#------------------------------------------------------------------------------
-*:C12
-*:_C_S_C12
-B:                             Lesson C12
-
-T:			General Instructions
- :
- :The Q-key should be pressed only by fourth finger on the left hand. The C-key
- :should only be pressed by the second finger on the left hand.
-
-I:(1) Q and C
-*:_C_R_C12_1
-D:circa quote quip cult quail craft quiet cute quash pubic quilt cheap quirk
- :rice squad colt quay cleft quite music quit croon quits
-
-I:(2)
-*:_C_R_C12_2
-D:cab equal curl quick quake manic quad reach quark chord quart pace quill sack
- :equip track squid sick quack squat poach quota eject
-
-I:(3)
-*:_C_R_C12_3
-D:quark speck quail space quip chop quad comic quill squid clef quake close
- :quota color quash care quick squad each quart pouch
-
-I:(4)
-*:_C_R_C12_4
-D:quack equip twice quite black quilt thick quirk sic quits curly quiet coach
- :quit quote gloss valor champ squat wares joy gasp vat
-
-I:(5)
-*:_C_R_C12_5
-D:cross equal mown jest night vote coast quay tweak juicy lingo fit visa quilt
- :sob threw jar grit info valet clamp quits limbo
-
-G:_C_E_C12
-
-#------------------------------------------------------------------------------
-# Lesson C13
-#------------------------------------------------------------------------------
-*:C13
-*:_C_S_C13
-B:                             Lesson C13
-
-T:			General Instructions
- :
- :The Z-key and X-key should be pressed by fourth and third fingers on the left
- :hand, respectively.
-
-I:(1) Z and X
-*:_C_R_C13_1
-D:exec fuzz boxer buxom glitz exam zeal toxic jeez lax hertz extol prize text
- :ozone pixie size pixel booze ex zoom crux gauze fax woozy ax tizzy flux
-
-I:(2)
-*:_C_R_C13_2
-D:jinx zit oxide froze axle ooze extra dozen exit bozo waxy quiz tax ritzy ox
- :fizz index axes zinc apex zip exist buzz expo oxen fez tux dizzy proxy
-
-I:(3)
-*:_C_R_C13_3
-D:detox zebra next doze max waltz affix zest sixty zone exact zoo excel frizz
- :fox sex blitz mixer gizmo foxy seize mix unzip flex fizzy six fixed
-
-I:(4)
-*:_C_R_C13_4
-D:jerk valve whiz relax work equal fuzzy exert quark hoard evil mixed jolly
- :shook twang dove quota zero annex jibe key ranch regal wavy quick cozy
-
-G:_C_E_C13
-
-#------------------------------------------------------------------------------
-# Lesson C14
-#------------------------------------------------------------------------------
-*:C14
-*:_C_S_C14
-B:                            Lesson C14
-
-T:			Learning the SHIFT key
- :
- :To integrate the shift key rhythmically in your practice, a capital letter
- :should take three beats:
- :  1. press the shift key opposite the hand to press the letter key
- :  2. press the letter
- :  3. release the shift key
-
-I:(1)
-*:_C_R_C14_1
-D:Ada Anne Ana Ann Dad Dan Don Ed Eta Rita
- :Dan Nan Nat Ned Sid Sire Tad Ted Tod Rene
-
-I:(2)
-*:_C_R_C14_2
-D:The sad tot sat on a tan seat in his neat tent
- :He ate ten stones
-
-I:(3)
-*:_C_R_C14_3
-D:On his date Otis has a thin suit
- :There is no tint on his shoes
-
-I:(4)
-*:_C_R_C14_4
-D:Enos eats a thin hash diet in a dish as he sits on an odd seat
- :Dad does not eat desert
- :He had seen Ted dent his auto
-
-I:(5)
-*:_C_R_C14_5
-D:Adna Anna Anne Dana Dead Edie Edna Enid Etta Heda
- :Nate Nina Neta Nona Odie Ohio Otto Stan Tess Thad Theo
-
-G:_C_E_C14
-
-#------------------------------------------------------------------------------
-# Lesson C15
-#------------------------------------------------------------------------------
-*:C15
-*:_C_S_C15
-B:                            Lesson C15
-
-T:			Learning punctuation
- :
- :The period/full stop is below the forth finger on the right hand. Note that
- :the end of a sentence should be followed by one space, since it is
- :no longer 1957
- :
- :The comma is below the third finger on the right hand.
- :
- :The fourth finger of the right hand and the left SHIFT key should be used to
- :type a question point/mark.
-
-I:(1)
-*:_C_R_C15_1
-D:e. e. e. e. a. s. o. n. e. t. r. h. i. d. a. a.
- :h. r. a. i. o. n. s. d. t. e. h. o. r. i. s. a.
-
-I:(2)
-*:_C_R_C15_2
-D:Adana. Andie. Annie. Aonia. Ardie. Denis. Diana. Dinah.
-
-I:(3)
-*:_C_R_C15_3
-D:On the horse, Adana dined in haste on toast and dates.
- :Sated, as she had eaten she noted the sheen on the drones
- :and the shade in the sheds. She hates to see an idiot
- :stand and shoot his tenth doe in the dense heath.
-
-I:(4)
-*:_C_R_C15_4
-D:An onion heats, stuned, a stout nose. As does she? As do I?
- :Do I send hands to douse teeth? Are their suedes hoisted ahead?
-
-I:(5)
-*:_C_R_C15_5
-D:The shy ape put on a red hat and ran off with the lot. Can pa
- :go aft and lie on our old cot? For a top fee, her act is to hop
- :in, lie on the rug, pat her pet cat, fit a fur on her ear, get
- :her fan, and run off.
-
-G:_C_E_C15
-
-#------------------------------------------------------------------------------
-# Lesson C16
-#------------------------------------------------------------------------------
-*:C16
-*:_C_S_C16
-B:                            Lesson C16
-
-T:			Frequent words
- :
- :The following 135 words are so frequently used that they comprise 50% of all
- :words normally typed. If you can type the next two exercises without errors,
- :half of all of your typed words will be correct!
-
-I:(1)
-*:_C_R_C16_1
-D:a about after all also an and another any are as at back be because
- :been before being between both but by can could day did do down each
- :even first for from get good had has have he her here him his how I
- :if in into is it its just know last life like little long made make
- :many may me men more most Mr. Ms. much must my never new no not now
-
-I:(2)
-*:_C_R_C16_2
-D:of or on one only or other our out over own people said same see she
- :should so some state still such than that the their them then there
- :these they this those through time to too two under up very was way
- :we well were what when where which while who will with work would
- :years you your
-
-T:We now concentrate on words amongst the top one thousand most frequently used
- :that can be types using only the HOME row.
-
-I:(3)
-*:_C_R_C16_3
-D:notes enter other these there their another sentence three Indian
- :start those state earth order stand horse short north heard nothing
- :inside strong stars street stood reason interest instruments train
-
-I:(4)
-*:_C_R_C16_4
-D:third raised store distance heart instead either nation stone dress
- :straight statement seeds desert history strange trade rather entered
- :interesting sense string stream addition sister radio death determine
- :stretched details entire ahead shoes northern triangle doesn't
-
-G:_C_E_C16
-
-#------------------------------------------------------------------------------
-# Lesson C17
-#------------------------------------------------------------------------------
-*:C17
-*:_C_S_C17
-B:                            Lesson C17
-
-T:			Alphabetic sentences
- :
- :In this lesson we practice alphabetic sentences.
-
-I:(1)
-*:_C_R_C17_1
-D:Sixty-five quizzical sheep kept their jaws dry in a farm bungalow.
-
-I:(2)
-*:_C_R_C17_2
-D:Balky Zulus find they can hoax weary men with quavery jumping.
-
-I:(3)
-*:_C_R_C17_3
-D:Jerome quickly began to be vexed by the powerful blizzards.
-
-I:(4)
-*:_C_R_C17_4
-D:Squawking gorillas could vex the brazen nymphs in a jiffy.
-
-I:(5)
-*:_C_R_C17_5
-D:Can Jerry's equipment file saws, ax, hoe, knives and grind adz?
-
-I:(6)
-*:_C_R_C17_6
-D:Ben works at squeezing very juicy plums with flexed thumbs.
-
-I:(7)
-*:_C_R_C17_7
-D:The black wizard quipping jovially flexed his muscles.
-
-I:(8)
-*:_C_R_C17_8
-D:Will you pack my jugs of liquid veneer in five dozen boxes?
-
-I:(9)
-*:_C_R_C17_9
-D:Could the wizard jinx quivering folks by magic yelps?
-
-I:(10)
-*:_C_R_C17_10
-D:Brazen gazelles quickly examined the forward jeep.
-
-I:(11)
-*:_C_R_C17_11
-D:The brown dog quickly jumped over the lazy fox.
-
-I:(12)
-*:_C_R_C17_12
-D:Will the kind judge squelch the five or six brazen nymphs?
-
-I:(13)
-*:_C_R_C17_13
-D:Mix zippy Kadota figs with quivering cranberry jelly.
-
-I:(14)
-*:_C_R_C17_14
-D:The wives quickly jerked extra big pizzas from the stand.
-
-I:(15)
-*:_C_R_C17_15
-D:Lisa quickly mixed the very big jar of new soap.
-
-I:(16)
-*:_C_R_C17_16
-D:The major will fix a quiet cozy nook for the vexed, bad Gypsy.
-
-I:(17)
-*:_C_R_C17_17
-D:Pairs of lazy knowing oxen came by quietly evading the jam.
-
-I:(18)
-*:_C_R_C17_18
-D:Juvenile zest for excitement whetted interest in parking by the quay.
-
-I:(19)
-*:_C_R_C17_19
-D:Put your big ax, shovel and quartz where Mike's fence joins ours.
-
-I:(20)
-*:_C_R_C17_20
-D:The brawny jaguar held fast till the quaking Zouave victim expired.
-
-G:_C_E_C17
-
-#------------------------------------------------------------------------------
-# Lesson series C jump tables
-#------------------------------------------------------------------------------
-*:_C_E_C1
-Q: Do you want to continue to lesson C2 [Y/N] ? 
-N:_C_MENU
-G:_C_S_C2
-*:_C_E_C2
-Q: Do you want to continue to lesson C3 [Y/N] ? 
-N:_C_MENU
-G:_C_S_C3
-*:_C_E_C3
-Q: Do you want to continue to lesson C4 [Y/N] ? 
-N:_C_MENU
-G:_C_S_C4
-*:_C_E_C4
-Q: Do you want to continue to lesson C5 [Y/N] ? 
-N:_C_MENU
-G:_C_S_C5
-*:_C_E_C5
-Q: Do you want to continue to lesson C6 [Y/N] ? 
-N:_C_MENU
-G:_C_S_C6
-*:_C_E_C6
-Q: Do you want to continue to lesson C7 [Y/N] ? 
-N:_C_MENU
-G:_C_S_C7
-*:_C_E_C7
-Q: Do you want to continue to lesson C8 [Y/N] ? 
-N:_C_MENU
-G:_C_S_C8
-*:_C_E_C8
-Q: Do you want to continue to lesson C9 [Y/N] ? 
-N:_C_MENU
-G:_C_S_C9
-*:_C_E_C9
-Q: Do you want to continue to lesson C10 [Y/N] ? 
-N:_C_MENU
-G:_C_S_C10
-*:_C_E_C10
-Q: Do you want to continue to lesson C11 [Y/N] ? 
-N:_C_MENU
-G:_C_S_C11
-*:_C_E_C11
-Q: Do you want to continue to lesson C12 [Y/N] ? 
-N:_C_MENU
-G:_C_S_C12
-*:_C_E_C12
-Q: Do you want to continue to lesson C13 [Y/N] ? 
-N:_C_MENU
-G:_C_S_C13
-*:_C_E_C13
-Q: Do you want to continue to lesson C14 [Y/N] ? 
-N:_C_MENU
-G:_C_S_C14
-*:_C_E_C14
-Q: Do you want to continue to lesson C15 [Y/N] ? 
-N:_C_MENU
-G:_C_S_C15
-*:_C_E_C15
-Q: Do you want to continue to lesson C16 [Y/N] ? 
-N:_C_MENU
-G:_C_S_C16
-*:_C_E_C16
-Q: Do you want to continue to lesson C17 [Y/N] ? 
-N:_C_MENU
-G:_C_S_C17
-*:_C_E_C17
-G:_C_MENU
-
-#------------------------------------------------------------------------------
-# Lesson series C menu
-#------------------------------------------------------------------------------
-*:_C_MENU
-B:                  Colemak touch typing lessons
-M: UP=__SERIESMENU "The C series contains the following 17 lessons"
- :_C_S_C1  "Lesson C1     S, T, N and E"
- :_C_S_C2  "Lesson C2     R and I"
- :_C_S_C3  "Lesson C3     A and O"
- :_C_S_C4  "Lesson C4     D and H"
- :_C_S_C5  "Lesson C5     HOME row excercises"
- :_C_S_C6  "Lesson C6     P and L"
- :_C_S_C7  "Lesson C7     F and U"
- :_C_S_C8  "Lesson C8     W and Y"
- :_C_S_C9  "Lesson C9     G and J"
- :_C_S_C10 "Lesson C10    M and V"
- :_C_S_C11 "Lesson C11    B and K"
- :_C_S_C12 "Lesson C12    Q and C"
- :_C_S_C13 "Lesson C13    Z and X"
- :_C_S_C14 "Lesson C14    Learning the SHIFT key"
- :_C_S_C15 "Lesson C15    Learning punctuation"
- :_C_S_C16 "Lesson C16    Frequent words"
- :_C_S_C17 "Lesson C17    Alphabetic sentences"
-*:_C_EXIT
-#------------------------------------------------------------------------------
-# End of file c.typ
-G:__SERIESMENU
-#==============================================================================
-#==============================================================================
 *:__S_M_SERIES
 # Start of file m.typ
 # GNU Typist - improved typing tutor program for UNIX systems
@@ -8837,22 +7199,1921 @@ M: UP=__SERIESMENU "The N series contains the following 3 lessons"
 # End of file n.typ
 G:__SERIESMENU
 #==============================================================================
-*:__MORE_LESSONS
-B: More lessons
-T:
- :... there are more lessons which can be accessed by starting
- : gtypist with an argument, the name of the file:
+#==============================================================================
+*:__S_P_SERIES
+# Start of file p.typ
+# GNU Typist - improved typing tutor program for UNIX systems
+# Copyright (C) 1998 Simon Baldwin (simonb@sco.com)
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program. If not, see <http://www.gnu.org/licenses/>.
+#
+# This lesson was written by Daniel Long Sockwell
+
+
+# The main menu
+*:MENU
+B:Special characters course
+M: "The P series contains the following 11 lessons"
+ :SPECIAL_NUMS_REVIEW "Lesson P1	Review ! @ # $ % ^ & * ( ) _"
+ :OTHER_PRIOR_SPECIAL_CHAR "Lesson P2	Review ? / " ' :"
+ :PLUS_EQUAL "Lesson P3	+ - _ ="
+ :ANGLE_BRACKETS "Lesson P4	> <"
+ :BRACES "Lesson P5	} {"
+ :SQUARE_BRACKETS "Lesson P6	] ["
+ :BACKTICK "Lesson P7	` ~"
+ :PIPE "Lesson P8	\ |"
+ :PRACTICE_1 "Lesson P9	Practice 1"
+ :PRACTICE_2 "Lesson P10	Practice 2"
+ :PRACTICE_3 "Lesson P11	Practice 3"
+
+
+# Lesson P1—Special Characters Review
+*:SPECIAL_NUMS_REVIEW
+B:Lesson P1
+T:In the P series of lessons we work on special characters with an
+ :emphasis on characters that are used when writing code in programming
+ :or markup languages.
  :
- : kten.typ          -  English lessons from KTouch 1.6
+ :We will start by reviewing the special characters that share keys with
+ :the numerals on a standard US QWERTY keyboard: ! @ # $ % ^ & * ( ). If
+ :you would like additional practice with these keys, please refer to the
+ :T series of lessons in Gtypist.
+
+I:(1) Warm up
+D:The quick brown fox jumps over the lazy dog.
+ :The sum of 1 and 2 is 3; the product of 6 and 9 is 54.
+
+I:(2) Type the ! @ # $ % and ^ keys with your left hand
+D:!!!! @@@@ #### $$$$ %%%% ^^^^
+ :!@#$ #$%^ !!^^ %^%^ $$%% ##@!
+ :^!%@ ##%% %$%$ @@^^ ##!! ^!$#
+
+I:(3) Type the & * ( and ) keys with your right hand
+D:&&&& **** (((( )))) &*() )(*&
+ :(()) &&** *&*& (&&) (**) (())
+
+I:(4) Practice with these characters
+D:)!(@ #*$& %^%^ @@)) $$&& *$*$
+ :(@@) ##)( %^%^ !#*& )!)! @*@*
+
+I:(5) Try some sentences
+S:It is hard to believe, but 230 minus 220 times one half equals 5!
+ :(And 5!, of course, equals 5 * 4 * 3 * 2 * 1.)
  :
- : See the comments at the top of each .typ file for more information
- : about the source and the author of the lessons.
+ :username@domainname.com is the #1 most common format for email addresses.
+ :To convey Three Squared in numerals, some people write 3^2. But in some
+ :programming languages, you should write 3 ** 2 instead.
+ :The % symbol can have different meanings; it can mean percent, as in
+ :(10% of 90) equals 9
+ :or it can mean modulo, as in
+ :10 % 9 equals 1
  :
- : If you want to write your own lessons, look at the gtypist manual,
- : it's really simple! If you have any question, write to the
- : gtypist mailing list: bug-gtypist@gnu.org
+ :The HTML entity for the & symbol is &amp;.
+
+I:(6) And try our first bit of code
+S:# Hello world in Python 2
+ :print "Hello World!"
  :
+ :
+ :# Hello world in Python 3
+ :print("Hello world!")
+ :
+ :
+ :# Hello world in Ruby
+ :puts "Hello World!"
+ :
+ :
+ :;;; Hello world in Emacs Lisp
+ :(defun hello-world()
+ :  "Display the string hello world."
+ :  (interactive)
+ :  (message "Hello World!"))
+ :
+ :
+ :" Hello world in Vim script
+ ::echom "Hello World!"
+ :
+ :
+ :# Hello world in SQL
+ :SELECT 'Hello World!';
+ :
+ :
+ :% Hello world in MATLAB
+ :disp('Hello World!');
+Q:Do you want to continue to lesson P2 [Y/N] ?
+N:MENU
+
+
+# Lesson P@—Special Characters Review, Pt 2
+*:OTHER_PRIOR_SPECIAL_CHAR
+B:Lesson P2
+I:(1) Warm up/review
+D:The! quick@ brown# fox$ jumps% over^ the& lazy* dog()
+ :Buy 5 #2 pencils @ $0.99 each, but ask for a 15% discount for being a *friend*
+
+I:(2) Hit the / and ? keys with the ; finger
+D:;;;; //// ;;// ;/;/ //;; /;/;
+ :;;;; ???? ;;?? ;?;? ??;; ?;?;
+ :;;;; /?/? ;;/? ;/;? ?/;; ?;/;
+
+I:(3) Hit the ' " and : keys with the ; finger
+D:;;;; '''' ;;'' ;';' '';; ';';
+ :;;;; :::: ;;:: ;:;: ::;; :;:;
+ :;;;; """" ;;"" ;";" "";; ";";
+ :;;;; :'"; "':; ";;" '::' :"":
+
+I:(4) Practice these characters
+D:;;;; /'?" "??" '//' ";;" '??'
+ :;;?? "";; ::;; '':: '//' :"":
+
+I:(5) Try some more sentences
+S:What is your name? I hope it's "Bob": I've always liked the name "Bob".
+ :
+ :I've noticed that few gadgets have "on/off" switches these days. These days,
+ :it's all "on/standby" or something! Why is that? Is "off" not good enough?
+
+I:(6) And now a bit more "Hello world" coding
+S:// Hello world in JavaScript
+ :console.log("Hello World!");
+ :
+ :
+ :// Hello world in Swift
+ :println("Hello, World!")
+ :
+ :
+ :# Hello world in Lua
+ :print "Hello World!"
+ :
+ :
+ :# Hello world in Perl 6
+ :say 'Hello World!';
+ :
+ :
+ :// Hello world in TypeScript
+ :alert('Hello World!');
+ :
+ :
+ :'Hello world in Visual Basic .NET
+ :Imports System.Console
+ :
+ :Class HelloWorld
+ :
+ :    Public Shared Sub Main()
+ :        WriteLine("Hello, world!")
+ :    End Sub
+ :
+ :End Class
+
+Q:Do you want to continue to lesson P3 [Y/N] ?
+N:MENU
+
+
+# Lesson P3—Plus and Equal
+*:PLUS_EQUAL
+B:Lesson P3
+I:(1) Warm up/review
+D:The five boxing wizards jump quickly.
+ :How vexingly quickly daft zebras jump!
+ :?!/* "%^" $;#* ##)( @@^) :??:
+
+I:(2) Hit the - and _ keys with the ; finger
+D:;;;; ---- ;;-- ;-;- --;; -;-;
+ :;;;; ____ ;;__ ;_;_ __;; _;_;
+ :;-;- ;;__ __-- -_;; ;_-; -;;_
+
+I:(3) Hit the + and + keys with the ; finger
+D:;;;; ==== ;;== ;=;= ==;; =;=;
+ :;;;; ++++ ;;++ ;+;+ ++;; +;+;
+ :;=;= ;;++ ++== =+;; ;+=; =;;+
+
+I:(4) Practice these characters
+D:==++ --__ +--+ +_=- _=+-
+ :--__ =_=_ ++__ -=_+ __++
+
+I:(5) Practice these characters with other ;-finger characters
+D:'__' +/-= "--" ::++ ?__?
+ :;:;: -+-+ /++/ -_-_ ??++
+
+I:(6) Try some sentences
+S:The hyphen ("-") is used for compound words; the en dash,
+ :which is longer than a hyphen, is used to indicate a range.
+ :If you cannot use a true en dash, some people accept two
+ :hyphens ("--") instead. The em dash is even longer than an
+ :en dash, and is used to indicate a break in a sentence. If
+ :you cannot use a true em dash, some people accept three
+ :hyphens ("---") instead.
+ :
+ :If you cannot emphasize text by setting it in italic or by
+ :underlining it, you can show emphasis with underscores ("like
+ :_this_").
+
+I:(7) And some programming/math
+S:int first_number = 7;
+ :int second_number = 40;
+ :int third_number = first_number + second_number - first_number;
+ :
+ :
+ :1 + 2 + 8 + 12 - 74 = -51
+ :
+ :
+ :for (let i = 0; i !== arr.length; i++)
+ :
+ :let a = 'string';
+ :let b = 'string';
+ :if (a === b) console.log('"a" and "b" are equal');
+ :
+ :
+ :if ((10 / 10) === 5 % 4) console.log('Yep, that is how math works');
+
+Q:Do you want to continue to lesson P4 [Y/N] ?
+N:MENU
+
+
+# Lesson P4—Angle Brackets
+*:ANGLE_BRACKETS
+B:Lesson P4
+I:(1) Warm up/review
+D:Glib jocks quiz nymph to vex dwarf.
+ :Sphinx of black quartz, judge my vow!
+ :Two driven jocks help fax my big quiz.
+
+I:(2) Hit the < key with your k finger
+D:kkkk <<<< kk<< ,,<< ,k<K K,,K <kk<
+ :kkKK <<,, ,<<, k<<k <KK< ,k<K ,<k<
+
+I:(3) Hit the > key with your l finger
+D:llll >>>> ll>> ..>> .l>L L..L >ll>
+ :llll >>.. .>>. l>>l >LL> .l>L .>l>
+
+I:(4) Practice these characters
+D:<<>> <kl> K<>L <LK> >kl<
+ :<..> <,,> <.,> ><>< <<>>
+
+I:(5) Try some quick sentences
+S:Five is > two but < six.
+ :If your age isn't >= 21, you cannot drink in most of the United States.
+ :If your vision is < 20/200, then you are legally blind in the United States.
+
+I:(6) Write some HTML markup
+S:<!DOCTYPE html>
+ :<html dir="ltr" lang="en">
+ :<head>
+ :  <meta charset="utf-8">
+ :  <title>Example_Title</title>
+ :  <link rel="stylesheet" href="/default.css">
+ :  <link rel="icon" href="/favicon.png" sizes="16x16" type="image/png">
+ :  <link rel="canonical" href="https://example.com/">
+ :  <meta name="description" content="...">
+ :</head>
+ :<body>
+ :
+ :  <header>
+ :    <!-- site-wide header -->
+ :    <h1>Example <!-- site name --></h1>
+ :  </header>
+ :
+ :  <main>
+ :    <!-- this page's main content -->
+ :  </main>
+ :
+ :  <nav>
+ :    <!-- site-wide navigation -->
+ :  </nav>
+ :
+ :  <footer>
+ :    <!-- site-wide footer -->
+ :  </footer>
+ :
+ :</body>
+ :</html>
+Q:Do you want to continue to lesson P5 [Y/N] ?
+N:MENU
+
+
+# Lesson P5—Curly Braces
+*:BRACES
+B:Lesson P5
+I:(1) Warm up
+D:Five quacking zephyrs jolt my wax bed.
+ :Pack my box with five dozen liquor jugs.
+ :Few quips galvanized the mock jury box.
+
+I:(2) Hit the { key with the ; finger
+D:;;;; {{{{ ;;{{ ;{{; {;{; {{;;
+ :;;;; {{{{ ;{;{ {;;{ ;{;{ ;;{{
+
+I:(3) Hit the } key with the ; finger
+D:;;;; }}}} ;;}} ;}}; };}; }};;
+ :;;;; }}}} ;};} };;} ;};} ;;}}
+
+I:(4) Practice these characters together
+D:{{}} }}{{ ;;;; {{{{ }}}} }};;
+ :{{:: "{}" {00} {ll} }}{{ :{}:
+
+I:(5) Try some coding
+S:/* Hello world in C, K&R style */
+ :main()
+ :{
+ :  puts("Hello world!");
+ :  return 0;
+ :}
+ :
+ :// Hello world in C++
+ :#include <iostream.h>
+ :
+ :main()
+ :{
+ :    cout << "Hello World!" << endl;
+ :    return 0;
+ :}
+ :
+ :
+ :// Hello world in C#
+ :class HelloWorld
+ :{
+ :    static void Main()
+ :    {
+ :        System.Console.WriteLine("Hello, World!");
+ :    }
+ :}
+ :
+ :
+ :<?php
+ :  // Hello world in PHP
+ :  echo 'Hello World!';
+ :?>
+ :
+ :
+ :// Hello world in Delphi
+ :Program Hello_World;
+ :
+ :{$APPTYPE CONSOLE}
+ :
+ :Begin
+ :  WriteLn('Hello World');
+ :End.
+
+Q:Do you want to continue to lesson P7 [Y/N] ?
+N:MENU
+
+
+# Lesson P6—Square Brackets
+*:SQUARE_BRACKETS
+B:Lesson P6
+
+I:(1) Review
+D:;;;; ;';' ;p;p ;-;- ;";" ;/;/ ;?;? ;:;: ;_;_
+ :;;PP ;p-/ :;:; ;;;; _P?p "PP" p-p; P/P? --??
+I:(2) Use your ;-finger for the [-key
+D:;;;; [[[[ ;[;[ ;;[[ [[;; [;[;
+ :[[[[ [;[; ['[' [p[p [-[- [/[/
+ :[[[[ [:[: ["[" [P[P [_[_ [?[?
+I:(3) Use your ;-finger for the ]-key
+D:;;;; ]]]] ;];] ;;]] ]];; ];];
+ :]]]] ];]; ]']' ]p]p ]-]- ]/]/
+ :]]]] ]:]: ]"]" ]P]P ]_]_ ]?]?
+I:(4) Practice the ] and [ keys
+D:;[]; ];[; ;;][ ];;[ [];; ][;;
+ :[;'] [p-] [-/] [:"] [P_] [_?]
+I:(5) Try some sentences
+S:Hello [name]! How are you this [time_of_day]?
+ :
+ :I'm [current_feeling], thanks for asking. Are you also [current_feeling]?
+ :
+ :And how about [spouse]? [Is he/Is she/Are they] doing well?
+ :
+ :How about those [local_sports_team], eh?
+I:(6) The [- and ]-keys are frequently used when working with arrays
+S:int array[10];
+ :int array_one[];
+ :double array_two[];
+ :int array_three[ 20 ];
+ :
+ :// a multidimensional array in JavaScript
+ :let arr = [
+ :  [A1, A2, A3, A4, A5],
+ :  [B1, B2, B3, B4, B5],
+ :  [C1, C2, C3, C4, C5],
+ :  [D1, D2, D3, D4, D5],
+ :  [E1, E2, E3, E4, E5],
+ :];
+
+
+Q:Do you want to continue to lesson P7 [Y/N] ?
+N:MENU
+
+
+# Lesson P7—Backtick
+*:BACKTICK
+B:Lesson P7
+I:(1) Review
+D:}]}] {{}} [[]] "[]" ;;{{ ??}} ;;''
+ :--++ [++] {==} '??' //;; :--: {__}
+
+I:(2) Press the ` key with the a finger
+D:aaaa ```` aa`` ``aa `aa` a``a
+ :qq`` `qq` ``11 z``a `qq` `zz`
+
+I:(3) Press the ~ key with the a finger
+D:aaaa ~~~~ aa~~ ~~aa ~aa~ a~~a
+ :qq~~ ~qq~ ~~11 z~~a ~qq~ ~zz~
+
+I:(4) Practice the ~ and ` keys
+D:~~`` `~~` `!!` ``QQ zz`` ~~11
+ :``~~ ~``~ ~!!~ ~~ZZ qq~~ ``11
+ :`~~` `ZZ` QQ~~ aa~~ `11` ~!!~
+
+I:(5) Try some terminal commands
+S:cd ~/Documents
+ :cp ~/Documents/resume.txt ~/Documents/resume.txt.bk
+ :mv ~/Documents/resume.md ~/Documents/resume.html
+ :rm ~/Documents/resume.md
+
+I:(6) Try some programing with template literals
+S:let greeting = 'Hello';
+ :console.log(`${greeting}, world`);
+ :
+ :`${variable}`
+ :
+ :`Hello, ${name}, how are you?`
+ :
+ :console.log(`string text line 1
+ :string text line 2`);
+ :
+ :var a = 5;
+ :var b = 10;
+ :console.log(`Fifteen is ${a + b} and
+ :not ${2 * (a + b)}`);
+ :
+ :const classes = `header ${ isLargeScreen() ? '' :
+ :  `icon-${item.isCollapsed ? 'expander' : 'collapser'}` }`;
+ :
+ :sudo chown `id -u` /somedir
+
+
+Q:Do you want to continue to lesson P8 [Y/N] ?
+N:MENU
+
+
+# Lesson P8—Pipe
+*:PIPE
+B:Lesson P8
+I:(1) Review
+D:2030 5946 1411 4062 8077 8786 2534 9640
+ :@)#) %($^ !$!! $)^@ *)&& *&*^ @%#$ (^$)
+ :
+ :<;;> "//" {''} [+-] `qq` ({[< >]}) -_~~
+
+I:(2) Use your ; finger for the \ key
+D:\\\\ ;;;; \\;; \\]] [[\\ {{\\
+ :\}}\ "\\" ;;\\ //\\ ?\\? :\\:
+ :\\\\ ++\\ \__\ \\// \==\ \pp\
+
+I:(3) Use your ; finger for the | key
+D:|||| ;;;; ||;; ||]] [[|| {{||
+ :|}}| "||" ;;|| //|| ?||? :||:
+ :|||| ++|| |__| ||// |==| |pp|
+
+I:(4) Practice these characters together
+D:\\\\ |||| ||\\ \\|| |\\| \||\
+ :"||" '\\' {||} [\\] ??|| \|\|
+
+I:(5) Try some terminal commands
+S:ls | more
+ :ls /usr/bin | less
+ :ls *.jpg | xargs -n1 -i cp {} /external-hard-drive/directory
+ :
+ :sed '/./=' filename.txt | sed 'N; s/\n/ /'
+ :sort -t: -k 3n /etc/passwd | more
+ :find / -name *.jpg -type f -print | xargs tar -cvzf images.tar.gz
+ :cat url-list.txt | xargs wget -c
+ :
+ :ps -ef | more
+ :ps -efH | more
+ :ps -ef | grep chrome
+
+
+I:(6) Try some writing some regular expressions
+S:// match a valid phone number
+ :/^\(*\d{3}\)*( |-)*\d{3}( |-)*\d{4}$/
+ :
+ :// match a hexadecimal number
+ :/^#?([a-fA-F0-9]{6}|[a-fA-F0-9]{3})$/
+ :
+ :// match an email
+ :/^(A-Za-z0-9_\.-]+)@([A-Za-z0-9_\.-]+)\.([A-Za-z\.]{2,6})$/
+ :
+ :// match a URL
+ :/^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/
+ :
+ :// match an IP address
+ :/^(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(?:25[0-5]|2
+ :[0-4][0-9]|[01]?[0-9][0-9]?)$/
+ :
+ :// match an HTML tag
+ :/^<([A-Za-z]+)([^<]+)*(?:>(.*)<\/\1>|\s+\/>)$/
+
+Q:Do you want to continue to lesson P9 [Y/N] ?
+N:MENU
+
+
+# Lesson P9—Practice with Simple Programs
+*:PRACTICE_1
+B:Lesson P9
+I:(1) Practice with simple programs. Try a palindrome finder in Python
+S:# function to check string is
+ :# palindrome or not
+ :def isPalindrome(str):
+ :    for i in xrange(0, len(str)/2):
+ :        if str[i] != str[len(str)-i-1]:
+ :            return False
+ :    return True
+
+I:(2) Try the same code in JavaScript
+S:// function to check if a string is a palindrome
+ :function isPalindrome(str) {
+ :  for (let i = 0; i < str.length; i += 1) {
+ :    if (str[i] !== str[str.length - 1 - i]) { return false; }
+ :  }
+ :  return true;
+ :}
+
+I:(3) Try the same problem in C++
+S:bool IsPalindrome(const char* psz)
+ :{
+ :    int i = 0;
+ :    int j;
+ :
+ :    if ((psz == NULL) || (psz[0] == '\0'))
+ :    {
+ :        return false;
+ :    }
+ :
+ :    j = strlen(psz) - 1;
+ :    while (i < j)
+ :    {
+ :        if (psz[i] != psz[j])
+ :        {
+ :            return false;
+ :        }
+ :        i++;
+ :        j--;
+ :    }
+ :
+ :    return true;
+ :}
+
+I:(4) Try the same problem in C, using functions and pointers (part 1)
+S:#include <stdio.h>
+ :
+ :int is_palindrome(char*);
+ :void copy_string(char*, char*);
+ :void reverse_string(char*);
+ :int string_length(char*);
+ :int compare_string(char*, char*);
+ :
+ :int main()
+ :{
+ :   char string[100];
+ :   int result;
+ :
+ :   printf("Input a string\n");
+ :   gets(string);
+ :
+ :   result = is_palindrome(string);
+ :
+ :   if ( result == 1 )
+ :      printf("\"%s\" is a palindrome string.\n", string);
+ :   else
+ :      printf("\"%s\" isn't a palindrome string.\n", string);
+ :
+ :   return 0;
+ :}
+
+I:(5) Try the same problem in C, continued
+S:int is_palindrome(char *string)
+ :{
+ :   int check, length;
+ :   char *reverse;
+ :
+ :   length = string_length(string);
+ :   reverse = (char*)malloc(length+1);
+ :
+ :   copy_string(reverse, string);
+ :   reverse_string(reverse);
+ :
+ :   check = compare_string(string, reverse);
+ :
+ :   free(reverse);
+ :
+ :   if ( check == 0 )
+ :      return 1;
+ :   else
+ :      return 0;
+ :}
+
+I:(6) Try the same problem in C, continued
+S:int string_length(char *string)
+ :{
+ :   int length = 0;
+ :
+ :   while(*string)
+ :   {
+ :      length++;
+ :      string++;
+ :   }
+ :
+ :   return length;
+ :}
+ :
+ :void copy_string(char *target, char *source)
+ :{
+ :   while(*source)
+ :   {
+ :      *target = *source;
+ :      source++;
+ :      target++;
+ :   }
+ :   *target = '\0';
+ :}
+
+I:(7) Try the same problem in C, continued
+S:void reverse_string(char *string)
+ :{
+ :   int length, c;
+ :   char *begin, *end, temp;
+ :
+ :   length = string_length(string);
+ :
+ :   begin = string;
+ :   end = string;
+ :
+ :   for ( c = 0 ; c < ( length - 1 ) ; c++ )
+ :       end++;
+ :
+ :   for ( c = 0 ; c < length/2 ; c++ )
+ :   {
+ :      temp = *end;
+ :      *end = *begin;
+ :      *begin = temp;
+ :
+ :      begin++;
+ :      end--;
+ :   }
+ :}
+ :
+ :int compare_string(char *first, char *second)
+ :{
+ :   while(*first==*second)
+ :   {
+ :      if ( *first == '\0' || *second == '\0' )
+ :         break;
+ :
+ :      first++;
+ :      second++;
+ :   }
+ :   if ( *first == '\0' && *second == '\0' )
+ :      return 0;
+ :   else
+ :      return -1;
+ :}
+
+Q:Do you want to continue to lesson P10 [Y/N] ?
+N:MENU
+
+
+# Lesson P10—Practice with Doug Lea's malloc
+*:PRACTICE_2
+B:Lesson P10
+I:(1) Try this excerpt from Doug Lea's malloc, written in C
+S:/* ------------------------ system deallocation -------------------------- */
+ :
+ :/* Unmap and unlink any mmapped segments that don't contain used chunks */
+ :static size_t release_unused_segments(mstate m) {
+ :  size_t released = 0;
+ :  int nsegs = 0;
+ :  msegmentptr pred = &m->seg;
+ :  msegmentptr sp = pred->next;
+ :  while (sp != 0) {
+ :    char* base = sp->base;
+ :    size_t size = sp->size;
+ :    msegmentptr next = sp->next;
+ :    ++nsegs;
+ :    if (is_mmapped_segment(sp) && !is_extern_segment(sp)) {
+ :      mchunkptr p = align_as_chunk(base);
+ :      size_t psize = chunksize(p);
+ :      /* Can unmap if first chunk holds entire segment and not pinned */
+ :      if (!is_inuse(p) && (char*)p + psize >= base + size - TOP_FOOT_SIZE) {
+ :        tchunkptr tp = (tchunkptr)p;
+ :        assert(segment_holds(sp, (char*)sp));
+ :        if (p == m->dv) {
+ :          m->dv = 0;
+ :          m->dvsize = 0;
+ :        }
+ :        else {
+ :          unlink_large_chunk(m, tp);
+ :        }
+ :        if (CALL_MUNMAP(base, size) == 0) {
+ :          released += size;
+ :          m->footprint -= size;
+ :          /* unlink obsoleted record */
+ :          sp = pred;
+ :          sp->next = next;
+ :        }
+ :        else { /* back out if cannot unmap */
+ :          insert_large_chunk(m, tp, psize);
+ :        }
+ :      }
+ :    }
+I:(2) Doug Lea's malloc, continued
+S:    if (NO_SEGMENT_TRAVERSAL) /* scan only first segment */
+ :      break;
+ :    pred = sp;
+ :    sp = next;
+ :  }
+ :  /* Reset check counter */
+ :  m->release_checks = (((size_t) nsegs > (size_t) MAX_RELEASE_CHECK_RATE)?
+ :                       (size_t) nsegs : (size_t) MAX_RELEASE_CHECK_RATE);
+ :  return released;
+ :}
+ :
+ :static int sys_trim(mstate m, size_t pad) {
+ :  size_t released = 0;
+ :  ensure_initialization();
+ :  if (pad < MAX_REQUEST && is_initialized(m)) {
+ :    pad += TOP_FOOT_SIZE; /* ensure enough room for segment overhead */
+ :
+ :    if (m->topsize > pad) {
+ :      /* Shrink top space in granularity-size units, keeping at least one */
+ :      size_t unit = mparams.granularity;
+ :      size_t extra = ((m->topsize - pad + (unit - SIZE_T_ONE)) / unit -
+ :                      SIZE_T_ONE) * unit;
+ :      msegmentptr sp = segment_holding(m, (char*)m->top);
+ :
+ :      if (!is_extern_segment(sp)) {
+ :        if (is_mmapped_segment(sp)) {
+ :          if (HAVE_MMAP &&
+ :              sp->size >= extra &&
+ :              !has_segment_link(m, sp)) { /* can't shrink if pinned */
+ :            size_t newsize = sp->size - extra;
+ :            (void)newsize; /* placate people compiling -Wunused-variable */
+ :            /* Prefer mremap, fall back to munmap */
+ :            if ((CALL_MREMAP(sp->base, sp->size, newsize, 0) != MFAIL) ||
+ :                (CALL_MUNMAP(sp->base + newsize, extra) == 0)) {
+ :              released = extra;
+ :            }
+ :          }
+ :        }
+I:(3) Doug Lea's malloc, continued
+S:        else if (HAVE_MORECORE) {
+ :          if (extra >= HALF_MAX_SIZE_T) /* Avoid wrapping negative */
+ :            extra = (HALF_MAX_SIZE_T) + SIZE_T_ONE - unit;
+ :          ACQUIRE_MALLOC_GLOBAL_LOCK();
+ :          {
+ :            /* Make sure end of memory is where we last set it. */
+ :            char* old_br = (char*)(CALL_MORECORE(0));
+ :            if (old_br == sp->base + sp->size) {
+ :              char* rel_br = (char*)(CALL_MORECORE(-extra));
+ :              char* new_br = (char*)(CALL_MORECORE(0));
+ :              if (rel_br != CMFAIL && new_br < old_br)
+ :                released = old_br - new_br;
+ :            }
+ :          }
+ :          RELEASE_MALLOC_GLOBAL_LOCK();
+ :        }
+ :      }
+ :
+ :      if (released != 0) {
+ :        sp->size -= released;
+ :        m->footprint -= released;
+ :        init_top(m, m->top, m->topsize - released);
+ :        check_top_chunk(m, m->top);
+ :      }
+ :    }
+ :
+ :    /* Unmap any unused mmapped segments */
+ :    if (HAVE_MMAP)
+ :      released += release_unused_segments(m);
+ :
+ :    /* On failure, disable autotrim to avoid repeated failed future calls */
+ :    if (released == 0 && m->topsize > m->trim_check)
+ :      m->trim_check = MAX_SIZE_T;
+ :  }
+ :
+ :  return (released != 0) ? 1 : 0;
+ :}
+
+Q:Do you want to continue to lesson P11 [Y/N] ?
+N:MENU
+
+
+# Lesson P11—Practice with the Super Tiny Compiler
+*:PRACTICE_3
+B:Lesson P11 — final lesson
+I:(1) Type Jamie Kyle's Super Tiny Compiler (CC BY 4.0 License)
+S:'use strict'
+ :function tokenizer(input) {
+ :  let current = 0;
+ :  let tokens = [];
+ :  while (current < input.length) {
+ :    let char = input[current];
+ :    if (char === '(') {
+ :      tokens.push({
+ :        type: 'paren',
+ :        value: '(',
+ :      });
+ :      current++;
+ :      continue;
+ :    }
+ :    if (char === ')') {
+ :      tokens.push({
+ :        type: 'paren',
+ :        value: ')',
+ :      });
+ :      current++;
+ :      continue;
+ :    }
+ :    let WHITESPACE = /\s/;
+ :    if (WHITESPACE.test(char)) {
+ :      current++;
+ :      continue;
+ :    }
+ :    let NUMBERS = /[0-9]/;
+ :    if (NUMBERS.test(char)) {
+ :      let value = '';
+ :      while (NUMBERS.test(char)) {
+ :        value += char;
+ :        char = input[++current];
+ :      }
+ :      tokens.push({ type: 'number', value });
+ :      continue;
+ :    }
+I:(2) Super Tiny Compiler, continued
+S:    if (char === '"') {
+ :      let value = '';
+ :      char = input[++current];
+ :      while (char !== '"') {
+ :        value += char;
+ :        char = input[++current];
+ :      }
+ :      char = input[++current];
+ :      tokens.push({ type: 'string', value });
+ :      continue;
+ :    }
+ :    let LETTERS = /[a-z]/i;
+ :    if (LETTERS.test(char)) {
+ :      let value = '';
+ :      while (LETTERS.test(char)) {
+ :        value += char;
+ :        char = input[++current];
+ :      }
+ :      tokens.push({ type: 'name', value });
+ :      continue;
+ :    }
+ :    throw new TypeError('I dont know what this character is: ' + char);
+ :  }
+ :  return tokens;
+ :}
+ :
+ :function parser(tokens) {
+ :  let current = 0;
+ :  function walk() {
+ :    let token = tokens[current];
+ :    if (token.type === 'number') {
+ :      current++;
+ :      return {
+ :        type: 'NumberLiteral',
+ :        value: token.value,
+ :      };
+ :    }
+I:(3) Super Tiny Compiler, continued
+S:    if (token.type === 'string') {
+ :      current++;
+ :      return {
+ :        type: 'StringLiteral',
+ :        value: token.value,
+ :      };
+ :    }
+ :    if (
+ :      token.type === 'paren' &&
+ :      token.value === '('
+ :    ) {
+ :      token = tokens[++current];
+ :      let node = {
+ :        type: 'CallExpression',
+ :        name: token.value,
+ :        params: [],
+ :      };
+ :      token = tokens[++current];
+ :      while (
+ :        (token.type !== 'paren') ||
+ :        (token.type === 'paren' && token.value !== ')')
+ :      ) {
+ :        node.params.push(walk());
+ :        token = tokens[current];
+ :      }
+ :      current++;
+ :      return node;
+ :    }
+ :    throw new TypeError(token.type);
+ :  }
+ :  let ast = {
+ :    type: 'Program',
+ :    body: [],
+ :  };
+ :  while (current < tokens.length) {
+ :    ast.body.push(walk());
+ :  }
+ :  return ast;
+ :}
+I:(4) Super Tiny Compiler, continued
+S:function traverser(ast, visitor) {
+ :  function traverseArray(array, parent) {
+ :    array.forEach(child => {
+ :      traverseNode(child, parent);
+ :    });
+ :  }
+ :  function traverseNode(node, parent) {
+ :    let methods = visitor[node.type];
+ :    if (methods && methods.enter) {
+ :      methods.enter(node, parent);
+ :    }
+ :    switch (node.type) {
+ :      case 'Program':
+ :        traverseArray(node.body, node);
+ :        break;
+ :      case 'CallExpression':
+ :        traverseArray(node.params, node);
+ :        break;
+ :      case 'NumberLiteral':
+ :      case 'StringLiteral':
+ :        break;
+ :      default:
+ :        throw new TypeError(node.type);
+ :    }
+ :    if (methods && methods.exit) {
+ :      methods.exit(node, parent);
+ :    }
+ :  }
+ :  traverseNode(ast, null);
+ :}
+I:(5) Super Tiny Compiler, continued
+S:function transformer(ast) {
+ :  let newAst = {
+ :    type: 'Program',
+ :    body: [],
+ :  };
+ :  ast._context = newAst.body;
+ :  traverser(ast, {
+ :    NumberLiteral: {
+ :      enter(node, parent) {
+ :        parent._context.push({
+ :          type: 'NumberLiteral',
+ :          value: node.value,
+ :        });
+ :      },
+ :    },
+ :    StringLiteral: {
+ :      enter(node, parent) {
+ :        parent._context.push({
+ :          type: 'StringLiteral',
+ :          value: node.value,
+ :        });
+ :      },
+ :    },
+I:(6) Super Tiny Compiler, continued
+S:    CallExpression: {
+ :      enter(node, parent) {
+ :        let expression = {
+ :          type: 'CallExpression',
+ :          callee: {
+ :            type: 'Identifier',
+ :            name: node.name,
+ :          },
+ :          arguments: [],
+ :        };
+ :        node._context = expression.arguments;
+ :        if (parent.type !== 'CallExpression') {
+ :          expression = {
+ :            type: 'ExpressionStatement',
+ :            expression: expression,
+ :          };
+ :        }
+ :        parent._context.push(expression);
+ :      },
+ :    }
+ :  });
+ :  return newAst;
+ :}
+I:(7) Super Tiny Compiler, continued
+S:function codeGenerator(node) {
+ :  switch (node.type) {
+ :    case 'Program':
+ :      return node.body.map(codeGenerator)
+ :        .join('\n');
+ :    case 'ExpressionStatement':
+ :      return (
+ :        codeGenerator(node.expression) +
+ :        ';'
+ :      );
+ :    case 'CallExpression':
+ :      return (
+ :        codeGenerator(node.callee) +
+ :        '(' +
+ :        node.arguments.map(codeGenerator)
+ :          .join(', ') +
+ :        ')'
+ :      );
+ :    case 'Identifier':
+ :      return node.name;
+ :    case 'NumberLiteral':
+ :      return node.value;
+ :    case 'StringLiteral':
+ :      return '"' + node.value + '"';
+ :    default:
+ :      throw new TypeError(node.type);
+ :  }
+ :}
+I:(8) Super Tiny Compiler, continued
+S:function compiler(input) {
+ :  let tokens = tokenizer(input);
+ :  let ast    = parser(tokens);
+ :  let newAst = transformer(ast);
+ :  let output = codeGenerator(newAst);
+ :  return output;
+ :}
+ :
+ :module.exports = {
+ :  tokenizer,
+ :  parser,
+ :  traverser,
+ :  transformer,
+ :  codeGenerator,
+ :  compiler,
+ :};
+
+G:MENU
+# End of file p.typ
+# G:__SERIESMENU
+# #==============================================================================
+# #==============================================================================
+*:__S_K_SERIES
+# Start of file kten.typ
+# created by ktouch2typ.pl from /home/felix/doks/gtypist/tools/../lessons/english.ktouch.xml
+# on Do 23. Jun 19:51:54 CEST 2011
+# ktouch title: English (auto-generated)
+# ktouch comment: Håvard Frøiland.
+# ktouch2typ.pl is part of gtypist (http://www.gnu.org/software/gtypist/)
+# ktouch can be found at http://ktouch.sourceforge.net
+# If you have suggestions about these lessons,
+# please send mail to haavard@users.sourceforge.net
+# (or whoever is the current ktouch maintainer), with
+# cc to bug-gtypist@gnu.org
+
+G:_K_MENU
+
+*:S_LESSON1
+B:                           Lesson 1: jf
+*:LESSON1_D1
+I:(1)
+D:ff jjj jf jfj j jff fjjf ff jfj j jff ff jjj fjj fjj fjf jfj jjj
+ :f fjjf jjj fjjf jfj fjjf f j fjj jff j fjj jf jjj fjjf f f fjf
+ :fjjf jff jjj ff jf fjjf fjjf f fjj fjj jf fjf j jj f j fjj jj jjj
+ :f jjj f fjjf j j jjj f j jjj jj ff fjf fjj f f ff jjj jj fjf f
+*:LESSON1_D2
+I:(2)
+D:ff f fjjf fjj fjj f j fjf f jj jj jff jj jfj f jf jjj fjj j jjj
+ :jfj fjjf f f fjf jj ff f j fjf fjj f jf j jf j fjj fjjf jj jff f
+ :jff jff j f j f jff f jjj j fjf f fjjf j jff jj j f jf j ff jj fjj
+ :ff jfj jfj j ff fjjf jj ff fjj f jff jff f fjf jj jj f jfj j fjj
+*:LESSON1_D3
+I:(3)
+D:jjj jff jj fjj jfj f fjj fjjf jj jj jf jff ff f jf jj ff fjjf j
+ :jff fjf f f jfj fjjf f jj j fjj j fjj jf f f j ff jj j fjf jfj jj
+ :jj jf j f j ff j fjjf jff f fjj jff j jf fjf j fjjf fjj j jj jf
+ :fjj jfj jfj fjjf f f jjj jj fjj fjjf j fjjf jf fjjf jf f fjj j j
+*:LESSON1_D4
+I:(4)
+D:jjj jj jf j ff fjf jj jjj ff jf j jjj f ff ff j jf jjj jff jff f
+ :jf j jfj fjj jfj fjjf fjj fjjf fjjf jj jjj ff jfj j jj f jj jfj
+ :jff f f j j j f f jj jjj f fjj j fjjf fjj f fjjf fjf ff f jf fjjf
+ :fjj fjj j f jf f fjjf ff jf ff jff jf j fjf f fjjf fjj j jff jj
+*:LESSON1_D5
+I:(5)
+D:f jf f fjjf jf jjj f fjjf fjjf j j f jfj f jjj j f fjjf f j jj
+ :jj fjj fjjf f f jff jj jff f j jff f ff fjjf jf fjj fjj jf j jff
+ :fjf jj jj jj jfj jf j jfj j fjjf jff ff fjj f j f j f f jj f fjj
+ :jf jjj fjjf j f f jj jj jjj ff j fjf f fjj jfj jfj fjf jj jjj j
+*:LESSON1_D6
+I:(6)
+D:fjj jj jfj jjj jj jj f j j jff jjj jjj f jj jff f f f f fjf fjjf
+ :jff j jjj fjjf ff fjjf j j fjf fjj jj j fjjf f jjj jfj jj fjjf fjf
+ :fjj jjj j j jjj jf f f j fjj fjjf jfj fjj f ff j j jj jf jj jfj
+ :jff fjj jf jj jf jf jj jj f fjjf jf j f fjjf ff jjj jf fjf jj fjjf
+*:LESSON1_D7
+I:(7)
+D:f jff f j ff fjj j fjj jj fjj jj jf j fjjf j jfj ff jf jf fjj
+ :ff j ff f jj ff jfj jj j jfj jj f jj jj jf jf jj jjj jfj j jfj
+ :jjj jfj jf jjj j j jf jfj fjj f jfj fjj ff jff fjj f j jjj jf f
+ :jff fjf jf f jj j f j f jff ff jf jfj jjj jf ff ff jff f fjj jfj
+*:LESSON1_D8
+I:(8)
+D:j jfj jj jjj jf f fjjf j ff jjj jfj jff jff f fjjf fjj fjjf f
+ :jfj jj f ff jff fjjf jff f jjj jfj jj j jfj ff fjj ff j f jj fjjf
+G:E_LESSON1
+
+*:S_LESSON2
+B:                           Lesson 2: kd
+*:LESSON2_D1
+I:(1)
+D:jjd fdfj rd djd jk jd k dd fjk fd fk k jfkd dkkf fk dkd dd jk k
+ :dfj djd fkkk fk dff d dkkf fd fk fdfj fk k dkkf djd dff dkd dff
+ :dkd kdk k dkkf k jk fkkk jd k jfkd fk fk jd k d dkd jd k dd rd dffd
+ :d fk k k dff dff dd fk fk fd jd dd jjd rd dkd dkf kdk fdfj d kdk
+*:LESSON2_D2
+I:(2)
+D:djd k fk rd dd fk dff dff kdk dkd dkf d k jk jfkd jd jfkd d kdk
+ :dkd kdk djd jd dkf dkkf fkkk dd djd fd dkf fk dff dkkf fk fk fdfj
+ :fk fk rd jjd k k dkkf d rd dkd dd rd jjd fk fd fk k jk rd fd fd
+ :djd k jjd djd fk k fjk k dd dfj kdk jd djd fk dfj fd k dffd jd djd
+*:LESSON2_D3
+I:(3)
+D:kdk dkd dd k fd fk jjd fjk fd rd fjk fk k dfj fd dd dkd d k dd kdk
+ :fjk fk dkkf dd dkkf dd rd fd jd k jjd k dkf djd dkf k dkd d jd d
+ :fjk dkkf dffd k d fdfj djd kdk fkkk d dfj jk fk jd jfkd jd kdk dffd
+ :dd dkf dffd jk jk jd fd dkf k jd jfkd fdfj fkkk k dkf fdfj dfj
+*:LESSON2_D4
+I:(4)
+D:fd jd jd dd dd jd dd rd dkd dffd fd fkkk dffd dd fk jjd fk k k
+ :d dfj fdfj k fk fk dkd dkkf dffd dffd k fkkk dkf jk dkd fdfj jfkd
+ :jd dd jk fd dkf dkd dd k d k fdfj fdfj dd dffd djd dffd kdk dffd
+ :fd jk dffd fk fd rd fdfj d fk d dff fkkk fk fk jd fkkk djd fk fdfj
+*:LESSON2_D5
+I:(5)
+D:jd jfkd dkkf fkkk dkkf kdk dd dfj k fk dfj fk jk fd jd k k kdk
+ :k dfj dd k jfkd d fk jk rd fk k dffd fk djd jjd fk dkd dd dffd
+ :fk fk kdk fdfj dfj fd fk dd dffd dd dkd fkkk k dkf dkkf k jfkd
+ :d dfj k fk fdfj dff fk djd dd d dff k fd rd fdfj fk fd dkd djd
+*:LESSON2_D6
+I:(6)
+D:kdk fk fk dfj fk fdfj k dkf dkkf dffd k fk fk jfkd jk dffd fd dff
+ :fk dkf fk dffd jd dfj d dkkf jd jjd fd fjk fd fk fk dff dffd fdfj
+ :dkkf fd jd jfkd dffd d djd dkd fdfj fk dff fk fdfj jk fk dfj d dkf
+ :rd rd jd rd jfkd dd jd k dffd fd dkd fk fk k dkd djd fk jjd jjd
+*:LESSON2_D7
+I:(7)
+D:k dd dd jd fk fk fk jfkd fd d fk fk d fkkk dkkf jjd dkf fdfj fkkk
+ :djd k fk k jd dd dkd djd k kdk rd djd k jjd k jd dfj dfj dkf jjd
+ :fk fd rd jd fdfj jk fk fjk rd k jd dkf rd dkd fkkk jfkd jjd jjd
+ :fk jd fk jk dfj d fkkk k jjd jk fjk dd rd jd fdfj jd dfj jk dkkf
+*:LESSON2_D8
+I:(8)
+D:fkkk fk fk dffd fk dfj jd dd jk dfj fjk fd jfkd fk fd jd fd jd k
+ :dffd rd dkd dd fk fk jk dffd fk dkd fjk jk k jk djd fdfj fk dd jd
+G:E_LESSON2
+
+*:S_LESSON3
+B:                           Lesson 3: ls
+*:LESSON3_D1
+I:(1)
+D:fl s l ldk l s slj s dks sf kl ll ls l ls dss lkj slk ks jl jjss
+ :l slj jl lkj l ldf s ld ll l ll ldk jjdl dlkk fl rs dss fld fl
+ :kl fl fl lkj fld ld fld js l dss kl jl jl ldk fld s ls s js kl
+ :ll ld dss fld l rs sf dss ll jl kl ls slj kl ldf kl dss rs ls js
+*:LESSON3_D2
+I:(2)
+D:s dlkk js kl js ls fld jl jjdl ll jjdl ll rs ldf rs ld ldk slj
+ :slj fl fld lkj rs ldf dlkk dss rs fl ld ldk kl dks fl sf dks ldk
+ :slj kl sf dlkk fl s kl l ll fl slj ll s s s dds s sf fld ks ks s
+ :ll dss s sf dks fl ldf dks rs ld s jjss ll l slk kl dks sf ll ldf
+*:LESSON3_D3
+I:(3)
+D:s ll dlkk rs jl l ll ls l ldk ldk js dss rs s slj l dks fld jl
+ :ks dss dlkk ls kl ks kl js kl ldk kl ls l slk dlkk lkj slj dks
+ :ld dks rs ldf dlkk ls s rs jjdl slk ldk slk dds lkj lkj s jjdl
+ :fl l s kl slk jjss ls ll dss sf slj dlkk jl fl kl fl jl rs ls ll
+*:LESSON3_D4
+I:(4)
+D:lkj lkj ls lkj kl fl fl ll fl dks l dlkk kl s ldk fl fl ks l kl
+ :ldf js slk fld dds l ldk ll dlkk jjss l lkj slk jl fl ldf ll fl
+ :l fl jjss ls ldk ll dks kl slj ldf kl dlkk slk jjdl sf dlkk dlkk
+ :fld ld s ls dlkk ld kl jl kl fl ls kl ls kl l sf l ls ldf dlkk kl
+*:LESSON3_D5
+I:(5)
+D:sf fl ks lkj fl jjdl ldk ls jjdl dlkk dlkk ldk rs sf slj ld s l
+ :js ldf fld ldf dks ks ll jjdl slj fld dlkk s js l jjdl s s ks ld
+ :ll lkj dds ldk ls fl ldk dss jl sf fld kl rs rs ll ldf s dks ls
+ :ls dds slj dlkk jl l slk sf dks dks rs ldk jl dks l dlkk l ks rs
+*:LESSON3_D6
+I:(6)
+D:ks dks ks fld dds dss ldk kl s ks dks slk fl slj dds fl s js jjss
+ :kl dks s fl rs s rs ldf ls sf ls ll rs sf dds dss jjdl l slk ldk
+ :rs kl ld ll kl ll fl jjss ls ldf ll jjss kl ll jjdl jjss sf ld
+ :jjdl ks ld js l slj jjdl fl sf lkj kl rs jjdl ks s dds dss fl slk
+*:LESSON3_D7
+I:(7)
+D:ll l l slj fl dss js lkj fld ks lkj ks ldk jjss ll ld l kl js fl
+ :rs ls s s sf dds jl fld l lkj ls jl dss fl slk ldf jjdl l ks fl
+ :fld lkj js s js ld slk dlkk jl ks l dds ld lkj ll jjss ld jjss s
+ :dss s kl ldk dds fl s ldf kl sf slj kl sf lkj dss slk dss ls ls
+*:LESSON3_D8
+I:(8)
+D:fl sf kl ll kl ld jjss dds kl fld jjdl fl js jl sf kl kl jl jl
+ :ldf ll dds dds s ll slk dks slj lkj fld kl ks rs fl kl ldk ld l
+G:E_LESSON3
+
+*:S_LESSON4
+B:                           Lesson 4: ca
+*:LESSON4_D1
+I:(1)
+D:call rascals slacks flaks fads fad flack scads flask jackals flack
+ :sass all salsa jackals rad lads flaks scald ca la asks flack lacks
+ :ask ad jackal fas las sad sass skas ck ca fad fad adj fas kc dad
+ :jacks class lad scald cads jackal ad cads sack alas scald lacs flak
+*:LESSON4_D2
+I:(2)
+D:alfalfa calls jacks ala dc lacks class lad clack a fads alacks rads
+ :ads flask adds scalds c jacks jackals rascal cask ads raj add adds
+ :aka scald calla salsas alls sac cads salads fads cask adds casks
+ :sacs jackal lacks class clad rack dad slack fall alfalfas slacks
+*:LESSON4_D3
+I:(3)
+D:fad cal lad cal calla ad sad salads ska salad flack skas ca jacks
+ :rascal ads ad flak aka ala ac clad alacks ck jackal fall fas scads
+ :call calla alfalfas calf falls flak lack flak flaks casks flak lass
+ :flack class la aka flasks rad a skas scad racks ac scad lac skas scald
+*:LESSON4_D4
+I:(4)
+D:sacs lads rascals call scad call clads kcal salsa slack rascals dads
+ :call c alfalfa sack alfalfas falls ask fas calls asks class jack
+ :asks alls alack calls alacks rads casks cs kc jackal lacs flak rascals
+ :a fall ad ck kcal alfalfa ad a flaks sacks alas ca lad salsas
+*:LESSON4_D5
+I:(5)
+D:sac skas clads jackass rad alfalfas lacks ska alack flaks as ska
+ :cads jackass ala flack falls cads fad scads lac rads ask callas scalds
+ :ads skas salsas fall aka salsa flack alls flacks las salads cs salsas
+ :racks flack sacks sass lacs cal flacks jacks raj aka alack flacks
+*:LESSON4_D6
+I:(6)
+D:flack ask dad flacks ads kcal cal jackass cads asks ala callas jacks
+ :alfalfa sac flack salsa racks sacs clad ck dc cf ac casks rad scald
+ :callas fad dc clacks all falls salads calla skas calls adds jackals
+ :casks scalds las clad lacs cask alacks kcal jack flak salads flacks
+*:LESSON4_D7
+I:(7)
+D:fas sacks salsa jackass ca alfalfa clad calls adj dads lacks fads
+ :fall flacks salad clads call callas dc calla kc clad ska lacks asks
+ :lack jackal ac fa alas cc lad jackass alack las slack ad ck ca rascals
+ :scald add ck flak cads slack ad clad clad fad cask call alacks scads
+*:LESSON4_D8
+I:(8)
+D:lacks lass falls dads ca lacs rack a clack skas calf rad jack slacks
+ :salads adds dads salad flacks cs call cs la fad sac clads flack as
+G:E_LESSON4
+
+*:S_LESSON5
+B:                           Lesson 5: nt
+*:LESSON5_D1
+I:(1)
+D:catcall tn flanks last scans rands talc knack n cancans talk canst anal
+ :canst fan asst stats at natl stall stall alt rands snacks stand assn
+ :ants alt tads cantata talcs natl attack knacks stalks tack tact ltd
+ :rattan scan scandals fats rats tad talk stalks scats rank rats daft
+*:LESSON5_D2
+I:(2)
+D:n fatals fat nasal aft cants anal flan knacks natal at acts at
+ :scats ts and stank act ct flans canal flan flans stat fats caftan
+ :sank cant tads talcs fats act tacts tanks assn slat ransacks flatlands
+ :attacks kn assn sandal alts rants kt flats rt rattans knack cat rafts
+*:LESSON5_D3
+I:(3)
+D:lat assn snack flatlands ans cats stands anal anal ants rattan cancans
+ :talc flt tasks cancans ltd scandal canals stalks tat aslant tad flatlands
+ :tans flank cast flatland tanks natl snacks n sands talcs natal annal
+ :attacks slants anal canst rants act stanks tasks slants flanks flat
+*:LESSON5_D4
+I:(4)
+D:act rt clank fatal stalk rat sand sandals fast tads tact fatals
+ :dank attacks attn caftan flatlands ctn kn tans tack fact flank rants
+ :cats sandal stall land knack flanks rat rattan fats talcs catcall
+ :fats aslant lat ct slats st scandal tank slants fatal fat stall sank
+*:LESSON5_D5
+I:(5)
+D:lats cantata acct tasks jct fast nd scandal fats stat rats fatal
+ :an skat alts an scats ant fatals fast t ransacks an fan tacks cast
+ :clans alts casts flan fatal cans nasals caftan attn fans lats ctn
+ :lat stanks ransack can ransacks slats canals ltd natal anal scans
+*:LESSON5_D6
+I:(6)
+D:stall flatland knacks aft canal rant flats rant daft salts tats snack
+ :fats attn tack scandals knack tacts stands asst cats ran natl landfalls
+ :fact ands rats t rats nd tan stand caftan tacts can natal act rats
+ :scan daft rank slants stat sank stanks tall lands flt stands rat
+*:LESSON5_D7
+I:(7)
+D:lank rt flatlands sandal staff fats kt fat flank sandal ctn staff
+ :rands salt skat scants rat t cant ct an flanks scandals flatlands
+ :tads stand tat clanks at ands ransacks alts ts snacks assn tanks
+ :flatlands stack lands scandals scats cancan rant jct atlas flanks tact
+*:LESSON5_D8
+I:(8)
+D:flatland casts scandals n scans task canst std annal clans raft cats
+ :tacts flat ants fasts tank an std rt rands cats flt attack act cancans
+G:E_LESSON5
+
+*:S_LESSON6
+B:                           Lesson 6: iv
+*:LESSON6_D1
+I:(1)
+D:stains fist livid cicada kiss vials knits stilt ails kills flail tail
+ :canvass vats kiln tin fascistic stilt lilacs assails vials ninja lilac
+ :inks visit faddists activists cliffs clinicians dint sadist dills
+ :sci snit distinct tit kit radians incl saids classical classic i
+*:LESSON6_D2
+I:(2)
+D:dick tints vasts fascias divans rancid vasts nick sits ills stints
+ :saliva titans kickstand fatalist classic tick clink flick slink attic
+ :kind avant antacid finalist sills clink distaff did kicks tactics
+ :rainfall lifts jail did snit radii raisins stains stilt tidal cavils
+*:LESSON6_D3
+I:(3)
+D:kill avasts fill finals fatalists distaff fills civilians visits
+ :cit finalists statistic fantails skit intact faints vis ails viscid
+ :distaffs kilts riff fains link sci rink diff sisals inland ii radiant
+ :nails slit island install clinicians kills civil sits stiff riv vans
+*:LESSON6_D4
+I:(4)
+D:filial canvass invalid flit activist assistant installs raisins tactics
+ :skiffs ti kickstand still skinflint alkali antacids dials dills invalids
+ :rival clicks cacti racialist sadistic kidskins assail kinda vandal
+ :instant kin classicists classicists infants fill assist villain didst
+*:LESSON6_D5
+I:(5)
+D:knits ti stadias fiats saint rails assassin sciatics ill fiats disdains
+ :lain assist avid davit fantails ii landfills vial it ink jinns skids
+ :indistinct iv sics riff kicks dillis till radiant satanical antics kills
+ :flail dials cavil advt avians vi lints tits lackadaisic addict sics
+*:LESSON6_D6
+I:(6)
+D:fascist naval lists slit lists tannin sniffs skids fantasist lint vacant
+ :clvi fantail fantail clink canvass civilians stain catkins lain sciatics
+ :classical raisin nit silks valiants ails satanical akin staid fantail
+ :kiss rids satanic fains island kilt kins links ids inkstand kins
+*:LESSON6_D7
+I:(7)
+D:saids ind ilks initials instincts livid inland visa filial ticks inf
+ :finical rain fanatical rill lilacs alias sciatica diffs kickstands fin
+ :rill val vitals still attic instant fink riff tannins slick divas
+ :sin clinical slid cits jilt atavistic dial scintillas inflict tannin
+*:LESSON6_D8
+I:(8)
+D:links afflicts distaffs ilks tills flaccid scintillas assailant radiants
+ :satanic cilia rink didactics i lilt ilks lackadaisic didst knit tits
+G:E_LESSON6
+
+*:S_LESSON7
+B:                           Lesson 7: me
+*:LESSON7_D1
+I:(1)
+D:vitiated eidetic massive villainies leeks divisiveness academic cadence
+ :fest vies catcalled fattest attest fies canes faille addenda vaccinate
+ :jaded decline sickie rinded vine leasts revive ices riskiest incisivenesses
+ :females staidness stake manic staminas neat decides intimateness acme
+*:LESSON7_D2
+I:(2)
+D:tinkles metals dailiness selectness satellite lintiest e amends sees
+ :deices stets sites definitiveness dens scaliness caste latte slimed
+ :effected identical sedative infancies candles eclecticism dialed isled
+ :silliness cellmate vilenesses fennels satellited reselects evidence flatted
+*:LESSON7_D3
+I:(3)
+D:decline intestate lien tanked cleans steed ideals vastest rem citified
+ :nines aves disaffiliate efficiencies sleeted militias incidence satiate
+ :scientists esteem seeded clacked ms eave incandescence facets mist laked
+ :tea incisivenesses destinate deficiencies selective eel cavalcades
+*:LESSON7_D4
+I:(4)
+D:lifelines maned skinninesses dace talkie dedicative diffidence relatives
+ :react divinities dateless fitments seated dims saddled eccl cackle
+ :clamminess likeness massiveness invaded aliases adjacent mistiest nicest
+ :infields delineate vilenesses nannies reddened effacements ideals stalactite
+*:LESSON7_D5
+I:(5)
+D:neckline acned talent nattiest deceased lankiest risked annalen diddled
+ :semis ramifies eden eventides addictiveness ravened nineteens calcifies
+ :devices sassed ramses llama dietetic kitties elitists faked steeliness
+ :remiss daffiness amnesic sneakiness limed jests safetied fees kennel
+*:LESSON7_D6
+I:(6)
+D:datasets sienna milts desists resit smelt enlist desalinated ailed landsmen
+ :idealisms finales recast deviant smellinesses dimmest defended stemmed
+ :vealed endless laities sidelines stamina reinfected lamest keeled riflemen
+ :caffeine semifinals smalls anviled staminate declassified vales divinities
+*:LESSON7_D7
+I:(7)
+D:ratified elf dialectical incisivenesses ineffective aimed deiced dented
+ :flimsiness skedaddles desiccate reselects vindicates maniacs malled raffles
+ :advance assisted stillest calmnesses incises salient damn scientist
+ :steadfastnesses seen facileness filename emitted deescalates attentivenesses
+*:LESSON7_D8
+I:(8)
+D:keenness ville indite recidivist venialness sedatives easements enticed
+ :feted steeliness leafed facets rel measled dalliance indecisiveness
+G:E_LESSON7
+
+*:S_LESSON8
+B:                           Lesson 8: hr
+*:LESSON8_D1
+I:(1)
+D:indiscreetness tethers metalsmith takers retire erectnesses skirmish reticent
+ :infirmed slithered discards shads thirteenths evaders reliances diversifier
+ :headsets shiver transected arrears carnal harrier half arches christen
+ :edifier marinated have inheres antimatters finches karat arsines minters
+*:LESSON8_D2
+I:(2)
+D:richer screamer sandier herd liverish frets draftees strainers heaver
+ :darkens hi refinance trials cricketers emir rid disenchantment jerked
+ :varietals deerstalkers recheck schematic scarinesses finish thanked hies
+ :macerates incarcerate decremental hid credit enrich heelers rakishnesses
+*:LESSON8_D3
+I:(3)
+D:addresser discarder thickens snarliest cheeriness jihads vhf rectifier
+ :hences teaches schemed clenched afresh stashed strive mandrill teethe
+ :retiree ranched rends dirtier disasters rareness sacristan iterate fishnets
+ :restarts heist caramel sheafs ammeters freshnesses cider rednecked reachieved
+*:LESSON8_D4
+I:(4)
+D:knish hearths incinerated infielder transcendent reinvestments mansard
+ :diameters hardness ethnics retailed fracas airfield mainstream redeclared
+ :fader ajar jeer reffed thirsts shavers mercantile clerics scimitars
+ :nectar dressier ravishers reseals simmered assister candider namer
+*:LESSON8_D5
+I:(5)
+D:flashcards traced irenic machineries inkers astrals tired fresher freckled
+ :chilled fermenter mere deriver masker transited federalists shelter
+ :raisers chasteness masteries snitches servileness differentiate teeshirts
+ :careerists desecrates trinkets mavericks rednecks larded intervenes readdress
+*:LESSON8_D6
+I:(6)
+D:arthritics sanitarians mechanist friskiness simmered inerts advertiser
+ :tethered fattener marten interdictive dreader tanneries checks ethical
+ :heretical stitch incriminated skinhead steerer craftinesses sheath mechanist
+ :starch faster kirsch anthem circle arterial assenter reach limiters
+*:LESSON8_D7
+I:(7)
+D:mistrals serviceman callers redden dentistries internees distractive
+ :interlards rear hadst redivides actress startle fleshliest enriched sinner
+ :interlarded refines alchemies innervate severe scarfs fifer hives saltier
+ :sered craven machete fickler entrenchment defer referrals tritest
+*:LESSON8_D8
+I:(8)
+D:marveled transferences arrests verticalness halites redder starless halal
+ :derived scalars faltered dithers immerser discreetnesses hastiest arriver
+G:E_LESSON8
+
+*:S_LESSON9
+B:                           Lesson 9: go
+*:LESSON9_D1
+I:(1)
+D:javelining sledge cockleshell asteroids footfalls raged frothed coaching
+ :lanolins conglomerate convalesce groves midnight donors congealing engined
+ :revenged secessionist nondrinker noncaloric disconnection scallion derogating
+ :griddlecakes knock firefighter reneged relocations songster avitaminosis
+*:LESSON9_D2
+I:(2)
+D:concierges agitating loosener dermatologist checking smatterings discoloreds
+ :slovenliness flatfooted grad overdressing overdoses melioration griddling
+ :rigged stomached conservative vacillating loaning overacted gale got
+ :official heroisms conservancies vector gel shod denominative ecologist
+*:LESSON9_D3
+I:(3)
+D:goat deescalation satelliting egret gargled foragers thigh chickening
+ :heightens schoolgirl defenestrating mattering carting heretofore offending
+ :maisonette goring monasticisms gingham moisten doge alkaloid hadron mastications
+ :egotist confiscate ratification hoariest factors jolter loitered gritters
+*:LESSON9_D4
+I:(4)
+D:arcing canings legginess deformed fleetingnesses rotational senorita
+ :oversensitiveness collectivists morion etiological stoke collections alighting
+ :kookinesses hookier legated mistaking allocative decollimate fragmented
+ :gavel resort toniest shorthand rang fading hemorrhaged coasted doggier
+*:LESSON9_D5
+I:(5)
+D:contenting notices raccoons groveler gondola gogglers firing erode sidelong
+ :cottaging forfends togging striking stockinettes altogether laing kickoff
+ :tacking egomanias foretastes oversensitivenesses holiest fragilest introversions
+ :medicos nosedives scaffold recoiled latching sentencing rigger condensate
+*:LESSON9_D6
+I:(6)
+D:calorimetric carillonned degassing evildoings glover commented disconnectednesses
+ :cognoscente noncaloric grisliest dosages relocates delineations rocking
+ :senior snooks ossifies offhandednesses endorser contritions etiologic
+ :recooking signalmen magnolia shedding disregarded collectivists triathlons
+*:LESSON9_D7
+I:(7)
+D:frosted jingle vialing oldest donnishness grandfathering evensongs smartening
+ :redecorate cremations estrangement nonvoters forelocking snorkeling demarcations
+ :glorifies idiots dido savored skating valedictions homing gastronomic
+ :endangered elevating remove lags shacking revolve correctors cataloging
+*:LESSON9_D8
+I:(8)
+D:feigner garlands reconciliation marmosets overreacted gladiator selector
+ :legatee remelting disintegration comfiest retroactive rove shavings
+G:E_LESSON9
+
+*:S_LESSON10
+B:                           Lesson 10: bp
+*:LESSON10_D1
+I:(1)
+D:peptides reprimand omnipresences hibernates caper flaps particolored
+ :collapse overspreads intercept bespangle anthropoid labors petite adopters
+ :pastiche penchant prospected painkiller tampons obsoleting septicemias
+ :remembers abolishes entrapment lambed pantie shebangs pervasion transporting
+*:LESSON10_D2
+I:(2)
+D:toecaps boilermakers shippings bloated precipitation behaviorisms intangibles
+ :sandblast sobrieties tabbing pejorative ophthalmic bipartisanship respirators
+ :pigpen patriotic peats patresfamilias pointillisms spooled disbanding
+ :pitchforked plaited bespattering childbirth apprenticeships privacies clobber
+*:LESSON10_D3
+I:(3)
+D:preoperative peril dispersals chaplains plodded demographers perming embitterment
+ :scrimped rabidnesses fillable pinsetters halfpennies copperheads beechen
+ :premier betrothed carbine skateboarding doorstops proceeder platings
+ :readership vb sandbags kaleidescope bicarbs perceiving parlance siphoning
+*:LESSON10_D4
+I:(4)
+D:indispose absenter stockpot halfpence fopperies greasepaint scapegoated
+ :span broaches peonage taped provision bivalve blackjacking libidinal
+ :bareheaded spottiest napper boobies embroiling boorishness reimpose perspires
+ :perfectas scrimping pelf sleepiness flips bedders chamberpot nepenthes
+*:LESSON10_D5
+I:(5)
+D:basters porringer deprives lappets enveloper shipments considerables
+ :hobbles fibroid platoon abortionists piccolos relabels bighted impracticableness
+ :attempting blotting gapped brainstorming specialists steepens pearling
+ :shockproof taper gabbiness sidebar peens precancels pollinates paramedicals
+*:LESSON10_D6
+I:(6)
+D:emptinesses philodendrons reparable handpicked halfback fissionables nonparallel
+ :corporatism tapeline banister pothole brightens triplicating palleted promotiveness
+ :paired composed microscopies reprobation shipper dibbles badmintons
+ :tabooed vocabs escapable prince plainsman compilable breadth pariah
+*:LESSON10_D7
+I:(7)
+D:binded shopkeep poach torpedoing dispossess compartmented contraptions
+ :choreographies becalming padre limpidities pref battered peeked blinders presidents
+ :bigheartedness backstairs boot obverses flapjack parallelism incorporable repairing
+ :impetigos telephoners bemoaning patentee tabor escarpments teachableness
+*:LESSON10_D8
+I:(8)
+D:prosing pediatrician boninesses impregnated prised nonpersons overemphasis
+ :kiboshed abhors helpmate ftps prerecords doorknobs variables tapeline
+G:E_LESSON10
+
+*:S_LESSON11
+B:                           Lesson 11: qu
+*:LESSON11_D1
+I:(1)
+D:consult toughs iambuses impugned sequenced thoughtlessnesses staunched
+ :heuristics junco flatulent republication humid runnels puffiness underpins
+ :practicums escutcheons gunshots summer pounce afoul undifferentiated haircutting
+ :brought regurgitate uncalibrated contributions unresponsive louring
+*:LESSON11_D2
+I:(2)
+D:runoff sunned unmonitored populous actuating scudded unlearn uncap
+ :popgun suckles roguish illumined rectangular concurred accountings
+ :churl statuettes fugitive annunciators furnaced furred multilevel
+ :unestablished documents craniums coupon robustest influence undervalue laughableness
+*:LESSON11_D3
+I:(3)
+D:fortunateness viaducts turbocharging mournfuller teaspoonful subsequences
+ :devalued aforethought infecund arousal quids thoughtless turban submittal
+ :unhitch untiring somersault durum individuates unprivileged thousandth
+ :caribou soundproofs transfigurations subtractions nucleations universalism
+*:LESSON11_D4
+I:(4)
+D:quoit curving bequeaths obfuscated unbending umbilical lutenists prematureness
+ :restructuring curmudgeons remounting recurring incongruous trustfulness subpopulations
+ :gradualist macromolecule minute cruelties multifunctioned butternut constructional
+ :overtured scurvier hugger outrunning amputate nucleates courtlinesses
+*:LESSON11_D5
+I:(5)
+D:mulishnesses haiku sunburned unsupportable compendium bullfrogs elucidations
+ :crunches numbness trustiness surgical buddies computerese grubbing annunciation
+ :nomenclature routers mucked counseling curricular quadrilaterals measurable
+ :shuffleboards sullener unshaped grousers alum duress flumed restaurateurs
+*:LESSON11_D6
+I:(6)
+D:outboasted fusible credulousnesses stuccoes undefenses scrum formulaic
+ :unperformed quadriplegics culpabilities circumference unconfused milieu
+ :mutated tunes numismatics pullouts outfit maneuver trumps irruptions
+ :budgie diminutiveness cultism hunchback truster publishers sculpture
+*:LESSON11_D7
+I:(7)
+D:amusers logout muriatic unchanging muck deluging unpartitioned public
+ :munched sputters masturbates modularities casualness vacuousness bucketful
+ :decorousnesses insulation squealing mutant fatiguing subintervals putrid surmise
+ :accouter bivouac unregister adventurousness concourse viaduct opportune
+*:LESSON11_D8
+I:(8)
+D:obdurated launderers liquidations underpass dubs uncomplaining volumes
+ :cubic corpuscles inquietudes avouches glums sunbathe mendacious voguish
+G:E_LESSON11
+
+*:S_LESSON12
+B:                           Lesson 12: wn
+*:LESSON12_D1
+I:(1)
+D:gantlets buttressing maundered commoners invisible seminal undies antimalarial
+ :skewed sandbagged irresistibleness uncling withins anagramming wastered
+ :previsioned policemen frangible irreplaceableness trilingual dispassionate
+ :garbling impoundments anthropomorphisms misconstrue sunninesses binning
+*:LESSON12_D2
+I:(2)
+D:flatware vitiations alphanumerical generational maraschinos ignoramuses
+ :lingoes blackcurrant pommeling hidden uncoded megalomaniacs derogations
+ :deadpans unfold piling piddling barfing reinterview abstractionists hardwoods
+ :arbitraging limousines pursuant nerds estranging jawing mavens econometricians
+*:LESSON12_D3
+I:(3)
+D:muggings isolationisms confinement guesting scullions sandbank beechwood
+ :hamstring canons mockingbirds predation numeral universalness decelerations
+ :enterer reconquering wideness congregating weakened gravitation snark
+ :blindnesses income spongers pancake wabbit casseroling print tensenesses
+*:LESSON12_D4
+I:(4)
+D:clonk impolitenesses lolling assented injure antisepses distillations
+ :kitting predation vivisectionist detuning gunships curbstone sanded
+ :woks unvaried immatureness outbuilding bottleneck offhanded casualness
+ :linkings underwear toughness wrench chaperoning alliterations squawking
+*:LESSON12_D5
+I:(5)
+D:wanderlust bobbing invent preordain demand paternal standstill councilpersons
+ :nonvoter manumitting shillings masterliness nicenesses aggregations sandpiper
+ :signposted ruction whoops illumining counterbalances engorgements flatwares
+ :bushiness woodlands sugarcanes resembling subsequentness grimnesses unconventionalities
+*:LESSON12_D6
+I:(6)
+D:equidistant ringlike swifter shrewdnesses disjointing recipient renaturing
+ :intact relinked disfavoring swiss novene unspeaking warehousing concise
+ :megaphoned cognates rejuvenated swots unconventional adversenesses ascendant
+ :resubmission ravenings desorption foreman tweedier disenchantments mandating
+*:LESSON12_D7
+I:(7)
+D:nonterminal inflicter momentousnesses bondings wielding enclaved resharpen
+ :wonkier encumbrance fraudulent waiverable dinner propagandist irresponsible
+ :poaching replacement circumstances detunes germinated methodicalnesses
+ :lightninged avowal freeing signified hallow spurning recooking wheaten blissing
+*:LESSON12_D8
+I:(8)
+D:trimarans planks semantics parenthetical tripping urns niggered offprints
+ :unblinking assigned paperhangings disincline disaggregating pushbutton
+G:E_LESSON12
+
+*:S_LESSON13
+B:                           Lesson 13: cx
+*:LESSON13_D1
+I:(1)
+D:shadowboxes antacids retrenching cants panache fractious compressor scrawniest
+ :elocution scourer thunderclouds unpacking indirections contentiousnesses
+ :scaremongers officiation clothespin reselects emetic functioned concoct cinctures
+ :wackier corrupting chugging inferencing competitors caribou peacemakings
+*:LESSON13_D2
+I:(2)
+D:mice luncheon compose commutes tricolored faculties shucker tamaracks
+ :contraception stockholder coarsening executions kcal cornucopias commercialisms
+ :escaper livestock scubas cares concordant defunct perceives crosspatches
+ :nucleation sculptural chugging uncivil betcha exclusion biscuit crouping
+*:LESSON13_D3
+I:(3)
+D:sanctums commonsense putrescences criming crisis restrictive unsociable
+ :biconnected straitjacketing ergonomics braced balaclava disinfecting recited
+ :necessitation pellucid uncrossing outscored occulter pecking conformation
+ :catgut quitclaiming exacerbate cincturing elasticities nuthatch undercharges
+*:LESSON13_D4
+I:(4)
+D:obstetrical exalting nonexplosive choirmaster decremented witchcraft perception
+ :complicators efficient outbacks licked prancing stacking isotonic exterminators
+ :experiment halfback connivance teacups electoral cons ecru poulticing saccharides
+ :codgers hesitancies backslashed commencement universalistic smacking
+*:LESSON13_D5
+I:(5)
+D:maximum electroshocking discords charioted craw carcass cliffs noticed
+ :cosmeticians scriptural annunciating vexed scofflaw checkoff gelcap blackcurrant
+ :pencil baccalaureates unconcerning reinspected pharmacologist reticulation
+ :cravened muckier correcter coffeecup lockets mariachi oculists subscripts
+*:LESSON13_D6
+I:(6)
+D:constituents commemorator creations scalloping commentates innocentest discipleship
+ :captious noninclusive etcher cleanlinesses priceless pathologic cannabises
+ :adduct triceratops impracticalness packsaddle lilacs chipmunk muscles
+ :trichinoses instructed consenting monstrances evacuative chis cored creped
+*:LESSON13_D7
+I:(7)
+D:complimented solace parachute cowardice cascara reconvened combats orthorhombic
+ :quarterbacking ceriums contour ebullience woodchuck stereoscope expressiveness
+ :nitpicking projects beckoning luxuriate conciliating noncaloric ocarina
+ :minuscules clambers merchandises lucre crippled technologist authenticator
+*:LESSON13_D8
+I:(8)
+D:pectic jurisdictions incinerate blackguarded interprocessor teleconferencing
+ :watchwords urticarias beseecher clamminess acres curlinesses uncounted
+G:E_LESSON13
+
+*:S_LESSON14
+B:                           Lesson 14: yz
+*:LESSON14_D1
+I:(1)
+D:sylphic detoxifying hypertrophies accompany orthodoxy westernizes incomprehensibility
+ :demilitarize universally grippingly esthetically contemporary sedimentary
+ :fragility mythically electrolyzed jimmy speedy nudity horseplayer seltzer
+ :disqualify imposingly desolately crucially rhythmic capaciously rumply
+*:LESSON14_D2
+I:(2)
+D:challengingly ingenuously summary lippy unoptimizes individualized factuality
+ :flirtatiously abidingly prickly sexily johnnycake consistently legitimization
+ :dyslexias uproariously bibliographically toasty dehumanizes microanalytic
+ :nonfreezing difficulty abbey understandably instinctively demonetizing buoy
+*:LESSON14_D3
+I:(3)
+D:laundryman unvarying bilaterally baptizers fogy debauchery vitalizing delightfully
+ :lazed yearning scrutinizes kittenishly anaglyph demilitarization depolarize
+ :asymmetry terminally scarcely pasteurize mutably seismography epidemically
+ :physician collectivized surreptitiously strayer harrying stiltedly patriarchy
+*:LESSON14_D4
+I:(4)
+D:sanctimoniously searingly tantalized admirably traumatizing gallimaufry unequalized
+ :dizzy unsuspectingly ascendancy coweringly reorganizes lyricists internationalizing
+ :declamatory pussyfooting richly expressionlessly axiomatization soybean
+ :joyfulnesses yellowing warranty slashingly yowled importunely eyefuls inhumanity
+*:LESSON14_D5
+I:(5)
+D:platitudinously mys miscarrying ridiculously occupy minimizers rowdyism horizon
+ :employees pleasingly capillary catalytically propinquity tommy seizable
+ :flippantly credibility memorially puppyish eyewash haze paycheck array
+ :hydrodynamical hypothyroid effigy campanology polyclinic unorganized acoustically
+*:LESSON14_D6
+I:(6)
+D:ineffability overcapitalized unparameterized presbyter brotherly inconsistently
+ :deputizes archaizes readying telemetry zeppelin incommodiously very damply
+ :youthfully descry venously safetying burly locationally rectory modifying
+ :exaggeratedly yakked pluralize capsizes situationally rationalizing idiocy
+*:LESSON14_D7
+I:(7)
+D:subway prodigy leukocyte costively apply cosmetically inappropriately
+ :loyalties jazzy thirsty impenitently curly illegally yearned infrequently
+ :sukiyaki palatalize ferry tranquilizing globularity sermonizes intellectualizes
+ :interdependency depreciatively resolvability trailblazing antithetically syntactics
+*:LESSON14_D8
+I:(8)
+D:optimizers nanotechnology horseplay housefly soliloquize lamasery thuggery
+ :intermolecularly layperson immunizing disarmingly distantly uncriticizing suburbanizing
+G:E_LESSON14
+
+*:S_LESSON15
+B:               Lesson 15: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+*:LESSON15_D1
+I:(1)
+D:Tanitansy Issac Dy Lindbergh Kennett Holmes Nicolea Sherm Eloise Gratia
+ :Mobutu Leonidas Lexi CCU Goth Reinald Tye Goteborg Gaines Randell Ogdan
+ :Mordred Passions Nalani Thomasine Aldous Jacqueline Foley Montpelier
+ :Samantha Nadeen Deann Crystie Masonic Vanderbilt Ninetta Gates RFC Darren
+*:LESSON15_D2
+I:(2)
+D:Wolfgang Norah Tao Lionello Saleem Keefer Boote Micmacs Farmer Cleve
+ :Drona Lhasa Bruce Macintosh Grammies Aguirre Dutchman Pissaro Highfield
+ :Graehme Dukie Gaylene Thornton Kamikazes Yaounde Clifford Dvina Ellynn
+ :Exchequer Korans Angelle MacArthur Sharleen AFB Br Vulcan Karylin Margarette
+*:LESSON15_D3
+I:(3)
+D:Alfi Caltech Emyle Angola Dexedrine Bendicty Berkowitz Schmitt Oise
+ :Subaru Nathalie Ujungpandang Fanechka Kahn Navarro Odie Jacky Highlands
+ :Jun Natalie Newcastle Gujarati Shelby LBJ Ramayana Negroid Univac
+ :Vistula Kinsey Pole Arvy Hui Byronic QM Jason Baden Talmudic TWX Annetta
+*:LESSON15_D4
+I:(4)
+D:Babylonian Lehigh Lucille Wesleyan Vanderpoel Stoicisms Rebekkah Louisette
+ :Sir Karlee Ricardo Fionna Letti Travis Abagail Tyndale Aug Davide
+ :Gabbie GATT NC Bunsen Munchhausen Irkutsk Windows Rom Hyades Melcher
+ :Surabaya WV Silurian Verla Harpy Stavros Chaddie Vandyke Bodhisattva
+*:LESSON15_D5
+I:(5)
+D:Rushmore Bennett Aldo Alane Emilio Gino Galbraith Darwinian Lovecraft
+ :Rudy Cornelle Lothaire Afrocentrism Murdock Coletta Grantley Twila
+ :Plath Cash Frigga Frenches Deonne Lycras Mahavira Tocantins Melly
+ :Wales Cellini Bradney Hartman Stan Mitzi Juliana Occident Dreddy Valera
+*:LESSON15_D6
+I:(6)
+D:Robson Montenegro Della Delcine Redstone Spengler Ferrel Occidentals
+ :Magnuson Jacobs Friend Daffi Methuselahs SBA Asoka Palestine Hatti VT
+ :COBOLs Jastrow Malayans ABCs Krakow Hippocratic Tobey Frisian Whitewater
+ :Vichy DC Aquila SST Simpson Miguelita Hilliard Zia Dalton Laban Fonzie
+*:LESSON15_D7
+I:(7)
+D:Charity Lysistrata Kizzee Eocene Ulster Nollie Merrily USA Uranus Sevastopol
+ :Padraic Brzezinski Milty Grenada Scrooge Browning Matty Wait Smokey
+ :Putin Slesinger Ecstasy Julienne Idahoans Hz Wisconsinites Nations
+ :Shiraz Mela McGovern Khan Dusenbury Holman Brena Johannes Gujarati
+*:LESSON15_D8
+I:(8)
+D:Eberto PAC Annabela Sabbaths Schneider Murcia Moran Houyhnhnm Cronus
+ :Ucayali Carnap Leigh Laurence Frito Bert NoDoz Giffy Cecily Noemi Edna
+G:E_LESSON15
+
+
+# jump-table
+*:E_LESSON1
+Q: Do you want to continue to lesson 2 [Y/N] ?
+N:_K_MENU
+G:S_LESSON2
+*:E_LESSON2
+Q: Do you want to continue to lesson 3 [Y/N] ?
+N:_K_MENU
+G:S_LESSON3
+*:E_LESSON3
+Q: Do you want to continue to lesson 4 [Y/N] ?
+N:_K_MENU
+G:S_LESSON4
+*:E_LESSON4
+Q: Do you want to continue to lesson 5 [Y/N] ?
+N:_K_MENU
+G:S_LESSON5
+*:E_LESSON5
+Q: Do you want to continue to lesson 6 [Y/N] ?
+N:_K_MENU
+G:S_LESSON6
+*:E_LESSON6
+Q: Do you want to continue to lesson 7 [Y/N] ?
+N:_K_MENU
+G:S_LESSON7
+*:E_LESSON7
+Q: Do you want to continue to lesson 8 [Y/N] ?
+N:_K_MENU
+G:S_LESSON8
+*:E_LESSON8
+Q: Do you want to continue to lesson 9 [Y/N] ?
+N:_K_MENU
+G:S_LESSON9
+*:E_LESSON9
+Q: Do you want to continue to lesson 10 [Y/N] ?
+N:_K_MENU
+G:S_LESSON10
+*:E_LESSON10
+Q: Do you want to continue to lesson 11 [Y/N] ?
+N:_K_MENU
+G:S_LESSON11
+*:E_LESSON11
+Q: Do you want to continue to lesson 12 [Y/N] ?
+N:_K_MENU
+G:S_LESSON12
+*:E_LESSON12
+Q: Do you want to continue to lesson 13 [Y/N] ?
+N:_K_MENU
+G:S_LESSON13
+*:E_LESSON13
+Q: Do you want to continue to lesson 14 [Y/N] ?
+N:_K_MENU
+G:S_LESSON14
+*:E_LESSON14
+Q: Do you want to continue to lesson 15 [Y/N] ?
+N:_K_MENU
+G:S_LESSON15
+*:E_LESSON15
+G:_K_MENU
+
+*:_K_MENU
+M: "ktouch lesson: English (auto-generated)"
+ :S_LESSON1 "jf"
+ :S_LESSON2 "kd"
+ :S_LESSON3 "ls"
+ :S_LESSON4 "ca"
+ :S_LESSON5 "nt"
+ :S_LESSON6 "iv"
+ :S_LESSON7 "me"
+ :S_LESSON8 "hr"
+ :S_LESSON9 "go"
+ :S_LESSON10 "bp"
+ :S_LESSON11 "qu"
+ :S_LESSON12 "wn"
+ :S_LESSON13 "cx"
+ :S_LESSON14 "yz"
+ :S_LESSON15 "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+# End of file kten.typ
 G:__SERIESMENU
+#==============================================================================
 *:__HELP
 B: Help screen
 T:
@@ -8874,7 +9135,7 @@ G:__SERIESMENU
 #==============================================================================
 *:__SERIESMENU
 B:                       Series selection menu
-M: "The following 8 lesson series are available"
+M: "The following 10 lesson series are available"
  :__S_Q_SERIES "Series Q     Quick QWERTY course  (Q1 - Q5)"
  :__S_R_SERIES "Series R     Long QWERTY course   (R1 - R14)"
  :__S_T_SERIES "Series T     QWERTY touch typing  (T1 - T16)"
@@ -8883,6 +9144,7 @@ M: "The following 8 lesson series are available"
  :__S_M_SERIES "Series M     Typing drills        (M1 - M11)"
  :__S_S_SERIES "Series S     Speed drills         (S1 - S4)"
  :__S_N_SERIES "Series N     Calculator keypad    (N1 - N3)"
- :__MORE_LESSONS "More lessons..."
+ :__S_P_SERIES "Series P     Programming course   (P1 - P11)"
+ :__S_K_SERIES "Series K     Ktouch course        (K1 - K15)"
  :__HELP "Help..."
 #==============================================================================
