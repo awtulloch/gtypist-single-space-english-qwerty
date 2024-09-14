@@ -8843,46 +8843,7 @@ T:
  :... there are more lessons which can be accessed by starting
  : gtypist with an argument, the name of the file:
  :
- : cs.typ            -  Czech lessons
- : esp.typ           -  Spanish lessons
- : ru.typ            -  Russian lessons
- : ttde.typ          -  German lessons from tipptrainer 0.6.0
- : ktbg.typ          -  Bulgarian lessons from KTouch 1.6
- : ktbg_long.typ     -  Bulgarian lessons (longer) from KTouch 1.6
- : ktde.typ          -  German lessons I from KTouch 1.6
- : ktde2.typ         -  German lessons II from KTouch 1.6
- : ktde_neo.typ      -  German lessons with NEO layout from KTouch 1.6
- :  (see http://pebbles.schattenlauf.de/layout.php?language=de
- : ktde_number.typ   -  German number keypad lessons from KTouch 1.6
- : ktdk.typ          -  Danish lessons I from KTouch 1.6
- : ktdk2.typ         -  Danish lessons II from KTouch 1.6
- : ktdvorak.typ      -  Dvorak lessons from KTouch 1.6
- :  (see http://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard)
- : ktdvorak_es.typ   -  Spanish Dvorak lessons from KTouch 1.6
- : ktdvorak_abcd.typ -  Dvorak lessons (basic) from KTouch 1.6
-T:
- :... and even more lessons:
- :
  : kten.typ          -  English lessons from KTouch 1.6
- : ktes.typ          -  Spanish lessons from KTouch 1.6
- : ktes_cat.typ      -  Catalan lessons from KTouch 1.6
- : ktfi.typ          -  Finnish lessons from KTouch 1.6
- : ktfi_kids.typ     -  Finnish lessons for kids from KTouch 1.6
- : ktfr.typ          -  French lessons I from KTouch 1.6
- : ktfr2.typ         -  French lessons II from KTouch 1.6
- : kthu.typ          -  Hungarian lessons I from KTouch 1.6
- : kthu_expert.typ   -  Hungarian lessons II from KTouch 1.6
- : ktit.typ          -  Italian lessons from KTouch 1.6
- : ktnl.typ          -  Dutch lessons from KTouch 1.6
- : ktnl_junior.typ   -  Dutch lessons for kids from KTouch 1.6
- : ktno.typ          -  Norwegian lessons from KTouch 1.6
- : ktpl.typ          -  Polish lessons from KTouch 1.6
- : ktru.typ          -  Russian lessons from KTouch 1.6
- : ktru_long.typ     -  Russian lessons (longer) from KTouch 1.6
- : ktru_slava.typ    -  Russian lessons (hand-made) from KTouch 1.6
- : ktsi.typ          -  Slovenian lessons from KTouch 1.6
- : kttr.typ          -  Turkish lessons from KTouch 1.6
-T:
  :
  : See the comments at the top of each .typ file for more information
  : about the source and the author of the lessons.
@@ -8913,14 +8874,12 @@ G:__SERIESMENU
 #==============================================================================
 *:__SERIESMENU
 B:                       Series selection menu
-M: "The following 10 lesson series are available"
+M: "The following 8 lesson series are available"
  :__S_Q_SERIES "Series Q     Quick QWERTY course  (Q1 - Q5)"
  :__S_R_SERIES "Series R     Long QWERTY course   (R1 - R14)"
  :__S_T_SERIES "Series T     QWERTY touch typing  (T1 - T16)"
  :__S_V_SERIES "Series V     Yet more QWERTY      (V1 - V19)"
  :__S_U_SERIES "Series U     QWERTY Review        (U1 - U13)"
- :__S_D_SERIES "Series D     Dvorak touch typing  (D1 - D14)"
- :__S_C_SERIES "Series C     Colemak touch typing (C1 - C17)"
  :__S_M_SERIES "Series M     Typing drills        (M1 - M11)"
  :__S_S_SERIES "Series S     Speed drills         (S1 - S4)"
  :__S_N_SERIES "Series N     Calculator keypad    (N1 - N3)"
