@@ -78,7 +78,7 @@ S:Dear Sirs:
  :5 1/4 inch, hard-sectored, ten-sector, single-sided, single-
  :density diskettes.
  :
- :Enclosed is my check for $45.00. Please rush this order, as I
+ :Enclosed is my cheque for $45.00. Please rush this order, as I
  :can not use my system before they arrive.
  :
  :Sincerely,

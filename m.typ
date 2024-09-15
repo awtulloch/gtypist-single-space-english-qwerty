@@ -308,7 +308,7 @@ S:Dear "Cab,"
  :
  :Could you apply to the court to allow my claim as agent
  :for Mr. Blank? I could bring in his books and see about his
- :bills. If asked, he can cover the costs by checks on a bank
+ :bills. If asked, he can cover the costs by cheques on a bank
  :that did not break.
  :
  :Will you allow your child to come alone to see me? He

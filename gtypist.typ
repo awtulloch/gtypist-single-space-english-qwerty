@@ -1493,7 +1493,7 @@ S:A. C. White & Company
  : 5 boxes, style 3**, 16.25" x 20.5", @ 65 cents each . . . . .  3.25
  : 9 dozen boxes, style #7, @ $2 a doz. (less 10%) . . . . . . . 16.20
  :
- :We will send our check January 4; less 2% for cash.
+ :We will send our cheque January 4; less 2% for cash.
  :
  :Very truly yours,
 
@@ -3799,7 +3799,7 @@ D:cash, cash, cash, lack, lack, lack, lace, lace, lace,
 
 I:(5)
 *:_V_R_L73
-D:If you call before five, the bank will cash your check.
+D:If you call before five, the bank will cash your cheque.
  :Charles Condon, sales manager, was in complete charge.
  :He may, if convenient, have it charged to his account.
 
@@ -5707,7 +5707,7 @@ S:Dear "Cab,"
  :
  :Could you apply to the court to allow my claim as agent
  :for Mr. Blank? I could bring in his books and see about his
- :bills. If asked, he can cover the costs by checks on a bank
+ :bills. If asked, he can cover the costs by cheques on a bank
  :that did not break.
  :
  :Will you allow your child to come alone to see me? He
@@ -6454,7 +6454,7 @@ S:Dear Sirs:
  :5 1/4 inch, hard-sectored, ten-sector, single-sided, single-
  :density diskettes.
  :
- :Enclosed is my check for $45.00. Please rush this order, as I
+ :Enclosed is my cheque for $45.00. Please rush this order, as I
  :can not use my system before they arrive.
  :
  :Sincerely,
@@ -8963,7 +8963,7 @@ D:sanctimoniously searingly tantalized admirably traumatizing gallimaufry unequa
 I:(5)
 D:platitudinously mys miscarrying ridiculously occupy minimizers rowdyism horizon
  :employees pleasingly capillary catalytically propinquity tommy seizable
- :flippantly credibility memorially puppyish eyewash haze paycheck array
+ :flippantly credibility memorially puppyish eyewash haze paycheque array
  :hydrodynamical hypothyroid effigy campanology polyclinic unorganised acoustically
 *:LESSON14_D6
 I:(6)

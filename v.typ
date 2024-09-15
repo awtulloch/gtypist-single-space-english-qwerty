@@ -660,7 +660,7 @@ D:cash, cash, cash, lack, lack, lack, lace, lace, lace,
 
 I:(5)
 *:_V_R_L73
-D:If you call before five, the bank will cash your check.
+D:If you call before five, the bank will cash your cheque.
  :Charles Condon, sales manager, was in complete charge.
  :He may, if convenient, have it charged to his account.
 

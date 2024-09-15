@@ -1004,7 +1004,7 @@ S:A. C. White & Company
  : 5 boxes, style 3**, 16.25" x 20.5", @ 65 cents each . . . . .  3.25
  : 9 dozen boxes, style #7, @ $2 a doz. (less 10%) . . . . . . . 16.20
  :
- :We will send our check January 4; less 2% for cash.
+ :We will send our cheque January 4; less 2% for cash.
  :
  :Very truly yours,
 

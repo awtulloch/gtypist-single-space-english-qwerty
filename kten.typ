@@ -691,7 +691,7 @@ D:sanctimoniously searingly tantalized admirably traumatizing gallimaufry unequa
 I:(5)
 D:platitudinously mys miscarrying ridiculously occupy minimizers rowdyism horizon
  :employees pleasingly capillary catalytically propinquity tommy seizable
- :flippantly credibility memorially puppyish eyewash haze paycheck array
+ :flippantly credibility memorially puppyish eyewash haze paycheque array
  :hydrodynamical hypothyroid effigy campanology polyclinic unorganised acoustically
 *:LESSON14_D6
 I:(6)
