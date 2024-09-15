@@ -310,7 +310,7 @@ B:                            Lesson V6
 
 *:_V_R_L36
 T:
- :		    (Shift Keys for Capitalization)
+ :		    (Shift Keys for Capitalisation)
 
 I:(1) Warmup
 *:_V_R_L37
@@ -355,7 +355,7 @@ D:Joseph likes to study; Joseph likes to study art;
  :Esther will write; Esther will write Larry today;
  :Arthur likes; Arthur likes to play the flute;
  :Kate says; Kate says she will stay till Friday;
- :Paul will take Willa to the Park Sherry Theater;
+ :Paul will take Willa to the Park Sherry Theatre;
 
 G:_V_E_V6
 
@@ -840,7 +840,7 @@ S:The slant is controlled by the semicolon finger.
  :very valuable asset.
  :
  :You can develop your typing skill quickly by the proper
- :habits of work. You should realize that poor work is a
+ :habits of work. You should realise that poor work is a
  :mere waste of time. Try to be exact.
  :
  :Every business firm is dependent on the services of
@@ -1191,7 +1191,7 @@ S:John Jacob Astor was born in 1763 and died in
  :
  :Alexander Graham Bell was born in Scotland on
  :March 3, 1847. He invented the telephone in 1876.
- :The Bell Telephone Company was organized in 1877.
+ :The Bell Telephone Company was organised in 1877.
  :Mr. Bell also invented the gramophone in 1887.
  :
  :John Quincy Adams, sixth President of the
@@ -1226,7 +1226,7 @@ D:f4f j7j f5f j6j d3d k8k f4f j7j f5f j6j d3d k8k
 
 I:(2)
 *:_V_R_L130
-D:strike...center...finger...spring...though...
+D:strike...centre...finger...spring...though...
  :expert...sharply...release...quickly...develop...
  :letting...squarely...practice...familiar...
  :fingertip...important...technique...releasing...
@@ -1236,13 +1236,13 @@ D:strike...center...finger...spring...though...
 I:(3)
 *:_V_R_L131
 S:Strike each key sharply with the fingertip and squarely
- :in the center. Strike the key quickly, letting the
+ :in the centre. Strike the key quickly, letting the
  :finger spring back as though the key were red hot.
 
 I:(4)
 *:_V_R_L132
 S:Strike each key sharply with the fingertip and squarely
- :in the center. Strike the key quickly, letting the
+ :in the centre. Strike the key quickly, letting the
  :finger spring back as though the key were red hot.
 
 *:_V_R_L133
@@ -1405,7 +1405,7 @@ I:(9)
 *:_V_R_L147
 S:Have you seen the new 7-room house at 175 West
  :239th Street? It is equipped with every up-to-date,
- :labor-saving device for the home. You may inspect
+ :labour-saving device for the home. You may inspect
  :it free of charge any day except Sunday between
  :10 a.m. and 4 p.m.
 
@@ -1489,7 +1489,7 @@ S:The backspace key is one of the most useful time-
  :each stroke in the date line.
  :
  :The most important use of the backspace key is in
- :centering words or lines.
+ :centring words or lines.
 
 G:_V_E_V19
 
@@ -1582,7 +1582,7 @@ M: UP=_EXIT "The V series contains the following 19 lessons"
  :_V_S_V3  "Lesson V3     T Y G H"
  :_V_S_V4  "Lesson V4     S L W O"
  :_V_S_V5  "Lesson V5     A ; Q P"
- :_V_S_V6  "Lesson V6     Shift Keys for Capitalization"
+ :_V_S_V6  "Lesson V6     Shift Keys for Capitalisation"
  :_V_S_V7  "Lesson V7     Shift Lock and :"
  :_V_S_V8  "Lesson V8     Introducing the Period"
  :_V_S_V9  "Lesson V9     V and M"

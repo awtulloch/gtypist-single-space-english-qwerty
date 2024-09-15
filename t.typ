@@ -291,7 +291,7 @@ D:lll ... lll ... ll .. ll .. l .
 *:_T_R_L43
 T:The next key we are going to practice is the right shift key.
  :
- :Whenever you want to capitalize a key on the left side, you must use the
+ :Whenever you want to capitalise a key on the left side, you must use the
  :right shift-key. To do so, follow these steps:
  :
  :	a.) Without moving your first finger from the J-key, swing the
@@ -368,18 +368,18 @@ D:;;; pad ;;; peg ;;; ape ;;;
 *:_T_R_L56
 T:			The Left-Shift key.
  :
- :To capitalize letters on the right-side of the keyboard:
+ :To capitalise letters on the right-side of the keyboard:
  :
  :	1.) Move your A-finger to the LEFT-shift key and hold it down.
  :
- :	2.) Strike the key that you want to capitalize with your right hand.
+ :	2.) Strike the key that you want to capitalise with your right hand.
  :
  :	3.) Immediately swing your A-finger back to its home position.
 
 *:_T_R_L57
 D:aaa Pi aaa Lord aaa Jill aaa
 
-I:Try capitalizing each of the keys on the right-side:
+I:Try capitalising each of the keys on the right-side:
 *:_T_R_L58
 D:Joe Kip Leif Peg Olaf Ira Heidi
 
@@ -624,7 +624,7 @@ D:Fifteen dollars a month--measured in current dollars--is a good rate.
 
 I:Let's try a speed drill on these sentences:
 *:_T_R_L105
-S:The clock ran out, signaling the end of
+S:The clock ran out, signalling the end of
  :the second-half. The game had been lost.
 
 *:_T_R_L106
@@ -776,7 +776,7 @@ D:aaa aqa aaa qqq aaa aqa aaa
 
 *:_T_R_L128A
 D:aaa quit aaa quad aaa quip aaa
- :lacquer inquiry squirt quart
+ :lacquer enquiry squirt quart
  :quail quiver inquest marquis
 
 #

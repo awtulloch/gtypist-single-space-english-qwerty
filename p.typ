@@ -214,7 +214,7 @@ S:The hyphen ("-") is used for compound words; the en dash,
  :underlining it, you can show emphasis with underscores ("like
  :_this_").
 
-I:(7) And some programming/math
+I:(7) And some programming/maths
 S:int first_number = 7;
  :int second_number = 40;
  :int third_number = first_number + second_number - first_number;
@@ -230,7 +230,7 @@ S:int first_number = 7;
  :if (a === b) console.log('"a" and "b" are equal');
  :
  :
- :if ((10 / 10) === 5 % 4) console.log('Yep, that is how math works');
+ :if ((10 / 10) === 5 % 4) console.log('Yep, that is how maths works');
 
 Q:Do you want to continue to lesson P4 [Y/N] ?
 N:MENU
@@ -746,7 +746,7 @@ S:    if (NO_SEGMENT_TRAVERSAL) /* scan only first segment */
  :
  :static int sys_trim(mstate m, size_t pad) {
  :  size_t released = 0;
- :  ensure_initialization();
+ :  ensure_initialisation();
  :  if (pad < MAX_REQUEST && is_initialized(m)) {
  :    pad += TOP_FOOT_SIZE; /* ensure enough room for segment overhead */
  :

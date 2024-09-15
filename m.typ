@@ -275,7 +275,7 @@ B:                             Lesson M4
 
 I:(1) Warming-Up Drill
 *:_M_R_L22
-D:Get any piece, since I can't guess the color he always used.
+D:Get any piece, since I can't guess the colour he always used.
 
 I:(2) Balanced Keyboard Drill
 *:_M_R_L23
@@ -289,7 +289,7 @@ S:Dear Tris,
  :It is so very warm at this time of year, I told my wife
  :that you and I wish to go west for a week or two. Did I
  :tell you what a wind we had? I went to town to vote for the
- :one man whom I want. I took a well-used tire. When it went
+ :one man whom I want. I took a well-used tyre. When it went
  :down on a bad turn, in the woods, I had to walk. Then the
  :wind more than set in, and I had to wait by a wall. It got
  :our old tree.
@@ -314,7 +314,7 @@ S:Dear "Cab,"
  :Will you allow your child to come alone to see me? He
  :can have every apple he can carry. By the way, being clean
  :and above board, you must be above bad cases, but you began
- :to bring in off-color cases after April.
+ :to bring in off-colour cases after April.
  :
  :I agree you do not cross the law, but why let men win
  :in a black cause on any basis? Why not build up your cases
@@ -327,7 +327,7 @@ I:(5) Pointed Paragraph (r t)
 *:_M_R_L26
 S:In our motor party on the return trip an attractive
  :quartet first tried to tell thirty or forty short travel
- :stories. By turns they transferred to the theater, to art
+ :stories. By turns they transferred to the theatre, to art
  :matters, to court trial stories. In the latter a certain
  :doctor is hurt by a first truck, another truck is struck,
  :and three contractors are thrown to the street. The girl's
@@ -356,7 +356,7 @@ I:(3) Five-letter words (d to h)
 *:_M_R_L29
 S:Dear Fred,
  :
- :I have dared to ask you for an extra favor on the first.
+ :I have dared to ask you for an extra favour on the first.
  :If you are not dated, I am to draft you to drive me by horse
  :or car up the grade to the field house at eight. I guess you
  :have not heard fully about the great dance to be given by the
@@ -364,7 +364,7 @@ S:Dear Fred,
  :
  :My hands have put fresh green goods on the walls. Every
  :girl has a green dress, on its front a funny glass heart that
- :she gives as a favor. The old folks can drive up early, eat
+ :she gives as a favour. The old folks can drive up early, eat
  :and drink and enjoy it all. We will delay the dance till the
  :girls enter in a dozen files. It would crush me to death if
  :an error were found in the plans. Happy hours on earth are
@@ -551,7 +551,7 @@ S:I quit the quiz when I saw the quantity of queer hazy
  :dozen queries. Only a quarter of the quotas qualified with
  :zest. Many had zero when the quiz asked: In what zones are
  :Brazil, Switzerland, Arizona, or Texas? Zebras in our zoos
- :grow to what sizes? Analyze and quote one great citizen's
+ :grow to what sizes? Analyse and quote one great citizen's
  :query as to zeppelins. Criticize the quality of jazz music.
 
 G:_M_E_M7
@@ -608,12 +608,12 @@ S:Dear Sylvia,
  :that we would surely be unable to do as we stated unless you
  :took a sudden notion to help. It seemed to me on second
  :thought we should give thanks to you for giving tongue to our
- :wishes last winter, for you turned the folks in our favor.
+ :wishes last winter, for you turned the folks in our favour.
  :
  :My sister was saying that girls from twenty states had
  :signed our pledge, so we are united. Though this is off the
  :subject, I saw a pretty yellow and silver dress within a win-
- :dow on Main Street toward our corner. Would you think it
+ :dow on Main Street towards our corner. Would you think it
  :suitable for the writer?
  :
  :Sincerely yours,
@@ -654,7 +654,7 @@ S:Dear Annabel,
  :
  :My brother and his college friends in the factory decided to arrange an
  :evening exactly as in the old days. After calling us, they arrived and we
- :carried out the idea. We used an old college catalog and each girl had an
+ :carried out the idea. We used an old college catalogue and each girl had an
  :old college dress.
  :
  :Further to advance the evening, my brother advised us of an old address
@@ -687,7 +687,7 @@ S:Dear Mrs. White,
  :Tell him the minutes of the last meeting of the members are on my
  :table. Tell him I haven't an invoice, but have instead an October
  :bill, for our new machine parts. He may mention this item to the
- :manager, as he has neither its history nor my letters of inquiry.
+ :manager, as he has neither its history nor my letters of enquiry.
  :
  :I find nothing else to include. We shall miss you greatly,
  :and we shall be looking for you at our new home.
@@ -698,7 +698,7 @@ I:(4) Seven-letter words (p to z)
 *:_M_R_L50
 S:Dear Patrick,
  :
- :I realize that this letter I am sending may subject you to some trouble.
+ :I realise that this letter I am sending may subject you to some trouble.
  :I am writing tonight without waiting to go through various reports on our
  :present program. If I had thought that you would be willing to give me an
  :extra day, perhaps I would have come myself.
@@ -742,7 +742,7 @@ S:Dear Thomas,
  :First, I consider of definite interest anything from
  :the business of as good a customer as you. As director of
  :our division, I am to continue handling building material.
- :My judgment on all the evidence, which I send herewith
+ :My judgement on all the evidence, which I send herewith
  :enclosed in a second envelope, is one of complete approval.
  :Let me have a contract covering the earliest delivery date.
  :Are you advising me what increase in your discount is to be
@@ -766,7 +766,7 @@ S:Dear Nathan,
  :Thursday. Tomorrow is Saturday, a pleasant day, for I go on my vacation.
  :
  :Do you remember an original idea you proposed last November relative
- :to planning for some shipping from my property? My neighbor recently
+ :to planning for some shipping from my property? My neighbour recently
  :called it a plan in a thousand, and we must get together so that I can
  :thank you properly. This is a national as well as personal question,
  :and I am trusting that you will be thinking that it is possible for you to
@@ -897,10 +897,10 @@ S:The JOURNAL learned that the relatives on their arrival in
  :them very nearly a half-million dollars. Only the earlier, first
  :will is very irregular. I've already quizzed them about the real
  :hazards of quarrels over legal prizes of similar size. From their
- :replies I've realized slowly that the girls are all right. It
+ :replies I've realised slowly that the girls are all right. It
  :really amazes me that even persons like ourselves promptly seize
  :upon some hostile relative's version of an earlier will, which
- :should be recognized easily as false.
+ :should be recognised easily as false.
 
 G:_M_E_M11
 

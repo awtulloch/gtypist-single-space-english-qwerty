@@ -48,7 +48,7 @@ G:_U_E_U1
 *:_U_S_U2
 B:                            Lesson U2
 
-I:(1) Familiarize yourself with the top row and between the index fingers:
+I:(1) Familiarise yourself with the top row and between the index fingers:
 *:_U_R_L3
 D:juj kik lol ;p; jyj
  :frf ded sws aqa ftf
@@ -218,7 +218,7 @@ S:Every promise made should be observed.
  :The price of the property is really $2,500.
  :Try to remember to bring your grammar with you.
  :Proof of your brokerage experience will be required.
- :The orange grower must have favorable weather conditions.
+ :The orange grower must have favourable weather conditions.
 
 I:(4)
 *:_U_R_L30
@@ -249,7 +249,7 @@ D:lal lel lil lol lul ly bl cl fl gl pl sl
 I:(2)
 *:_U_R_L33
 D:loll play blow clear glass flesh slow fully
- :lisle plow blue class globe fleet sleep silly
+ :lisle plough blue class globe fleet sleep silly
  :label please blood claim gleam flail slight really
 
 I:(3)
@@ -332,7 +332,7 @@ D:am em im om um mb mp ment
 I:(2)
 *:_U_R_L43
 D:amount damper only singing payment moment
- :emblem camper enter ringing enrollment judgment
+ :emblem camper enter ringing enrollment judgement
  :immense hamper under longing engagement excitement
  :omnibus lumber income banking appointment settlement
  :umbrella bomber answer thinking entertainment employment
@@ -434,7 +434,7 @@ S:Concentration is a valuable faculty. The ability to direct
  :one's attention exclusively along certain lines accounts for
  :the success of some people. Diffusion of effort is considered
  :an enemy of success. We are told that this is an age of
- :specialization, and specialization demands concentration.
+ :specialisation, and specialisation demands concentration.
 
 G:_U_E_U11
 

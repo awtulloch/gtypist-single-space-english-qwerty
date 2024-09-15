@@ -284,14 +284,14 @@ S:I lost no time, of course, in telling my mother all that
 
 I:Treasure Island, Chapter IV, "The Sea Chest", by Stevenson.
 *:_S_R_L31
-S:The neighborhood, to our ears, seemed haunted by
+S:The neighbourhood, to our ears, seemed haunted by
  :approaching footsteps; and what between the dead
  :body of the captain on the parlor floor, and the thought
  :of that detestable blind beggar hovering near at hand,
  :and ready to return, there were moments when, as the
  :saying goes, I jumped in my skin for terror. Something
  :must speedily be resolved upon; and it occurred to us at
- :last to go forth together and seek help in the neighbor-
+ :last to go forth together and seek help in the neighbour-
  :ing hamlet. No sooner said than done. Bareheaded as we
  :were, we ran out at once in the gathering evening and
  :the frosty fog.

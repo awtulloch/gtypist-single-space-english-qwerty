@@ -173,7 +173,7 @@ T:The Q command prints its text on the message line, and waits for
  :
  :The Y command will go to the label on its line if the result of the most
  :recent Q was 'Y'. The N command does the same thing for 'N'. K binds
- :a function key to a label (deprecated in favor of M:)
+ :a function key to a label (deprecated in favour of M:)
  :
  :Here's an example. As you can see, it can be clumsy, but mostly we
  :don't need anything as intricate:

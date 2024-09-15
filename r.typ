@@ -435,7 +435,7 @@ D:Let me have a horse where the wide West still runs wild.
 
 I:(4)
 *:_R_R_L54
-D:I must see the warm colors, and feel the wind on that land.
+D:I must see the warm colours, and feel the wind on that land.
  :I want to see a few cows among great rocks and sage brush.
 
 I:(5)
@@ -526,9 +526,9 @@ I:(7)
 *:_R_R_L67
 D:The queen put this query in a quick voice to quell them all:
  :Why does the whole world love a lover? Why do we value you?
- :All did laugh. The queen asked that, as a favor, you give us
+ :All did laugh. The queen asked that, as a favour, you give us
  :those who have nerve, for they can love and serve. Quite as
- :one who gave an equal favor, the queen sang over the radio.
+ :one who gave an equal favour, the queen sang over the radio.
 
 I:(8) Pointed Paragraph (l s)
 *:_R_R_L68
@@ -543,7 +543,7 @@ I:(9) Test Paragraph
 *:_R_R_L69
 S:In our queen city I used to value two covers set every
  :day. At these I used to serve a young man and a girl. I did
- :love to see her quiet dress and quick smile favor her so.
+ :love to see her quiet dress and quick smile favour her so.
  :I have never quite seen her equal, or a girl so very alive.
  :After I had given over this work, I went there to see them.
  :One night I saw a query form on her lips until she gave it
@@ -583,7 +583,7 @@ D:Doesn't Dan know how to make an exclamation point? He'll
 
 I:(5)
 *:_R_R_L75
-D:Owing to Dan's zeal, he'll get the point; he'll realize it's
+D:Owing to Dan's zeal, he'll get the point; he'll realise it's
  :faster. He'll use it when amazed, as: Whiz! He'll use it
  :when he feels real zest, as: Zip! Let's go! It's a fire!
 
@@ -592,7 +592,7 @@ I:(6)
 D:A dozen small-sized craft frozen in the ice are afire under
  :a cold azure sky. It's near zero in the fire zone; and over
  :the ships now razed to the water's edge, a light haze hangs.
- :I'm dazed as I gaze at my own ship; I'd never recognize that
+ :I'm dazed as I gaze at my own ship; I'd never recognise that
  :crazy maze of still fizzing ruins as a deck. What a fizzle!
 
 I:(7)
@@ -672,7 +672,7 @@ I:(7)
 *:_R_R_L87
 D:Bill begs Dad not to be blue, and his text is this: We
  :are all in the same boat. No one can buy. No one can build.
- :Labor is hard hit, too. I, for one, would like to toss the
+ :Labour is hard hit, too. I, for one, would like to toss the
  :cards on the table and start a new deal. When exact codes
  :are fixed, as best for all, every person must do his bit.
 
@@ -683,7 +683,7 @@ S:Satisfy yourself that it will be funny, but perfectly
  :Buffalo to New York on the first Friday in February. If
  :they prefer, we will offer them waffles, jelly, and coffee
  :before they fly or get dizzy. Sixty flyers can qualify
- :confidently to face any difficulty. A friendly inquiry
+ :confidently to face any difficulty. A friendly enquiry
  :from any family will be very cheerfully and fully answered.
 
 I:(8a) Pointed Paragraph (i d)
@@ -698,14 +698,14 @@ S:Children find being quizzed in division, addition, and
 I:(9) Test Paragraph
 *:_R_R_L90
 S:By using the new banks of keys on the new keyboard, you
- :are able to learn or excel with less labor. These new banks
+ :are able to learn or excel with less labour. These new banks
  :have been based on an exact table of words used. You begin
  :at once on the best bank. On the old keyboard you have to
  :type most of the text on the next bank above and on the bank
  :below. Because of this fact your fingers bound back and
  :forth between the upper and lower banks of keys. But those
  :extra jumps necessary on the old keyboard do not exist on the
- :new keyboard. Nor is your left hand taxed with extra labor.
+ :new keyboard. Nor is your left hand taxed with extra labour.
  :The keys are fixed to keep both hands busy and in balance.
 
 I:(10) Rhythmic Review
@@ -781,7 +781,7 @@ S:I'm going to obtain oil options tonight and to file my
 I:(9) Test Paragraph
 *:_R_R_L101
 S:Bound for some place where the sun sets in the west,
- :soon it is the night that I favor. Next to the night and
+ :soon it is the night that I favour. Next to the night and
  :boat and water, maybe I judge our sail by its excellent bill
  :of fare. Here I am very exact, as I never set a poor table.
  :I stock an up-to-date table, set out under the first dozen
@@ -1070,7 +1070,7 @@ I:(8) Pointed Paragraph (a o)
 *:_R_R_L141
 S:To attain a personal association with so popular an
  :author is an approved social ambition. To loan him money or
- :catalog his books we consider a favor. Today his tailor, later
+ :catalogue his books we consider a favour. Today his tailor, later
  :with a coat, loads on him a thousand pardons. A normal Mon-
  :day program allows a lazy forenoon to ocean and boat; after-
  :noon to various auto roads in orange season; night to play

@@ -924,7 +924,7 @@ D:Let me have a horse where the wide West still runs wild.
 
 I:(4)
 *:_R_R_L54
-D:I must see the warm colors, and feel the wind on that land.
+D:I must see the warm colours, and feel the wind on that land.
  :I want to see a few cows among great rocks and sage brush.
 
 I:(5)
@@ -1015,9 +1015,9 @@ I:(7)
 *:_R_R_L67
 D:The queen put this query in a quick voice to quell them all:
  :Why does the whole world love a lover? Why do we value you?
- :All did laugh. The queen asked that, as a favor, you give us
+ :All did laugh. The queen asked that, as a favour, you give us
  :those who have nerve, for they can love and serve. Quite as
- :one who gave an equal favor, the queen sang over the radio.
+ :one who gave an equal favour, the queen sang over the radio.
 
 I:(8) Pointed Paragraph (l s)
 *:_R_R_L68
@@ -1032,7 +1032,7 @@ I:(9) Test Paragraph
 *:_R_R_L69
 S:In our queen city I used to value two covers set every
  :day. At these I used to serve a young man and a girl. I did
- :love to see her quiet dress and quick smile favor her so.
+ :love to see her quiet dress and quick smile favour her so.
  :I have never quite seen her equal, or a girl so very alive.
  :After I had given over this work, I went there to see them.
  :One night I saw a query form on her lips until she gave it
@@ -1072,7 +1072,7 @@ D:Doesn't Dan know how to make an exclamation point? He'll
 
 I:(5)
 *:_R_R_L75
-D:Owing to Dan's zeal, he'll get the point; he'll realize it's
+D:Owing to Dan's zeal, he'll get the point; he'll realise it's
  :faster. He'll use it when amazed, as: Whiz! He'll use it
  :when he feels real zest, as: Zip! Let's go! It's a fire!
 
@@ -1081,7 +1081,7 @@ I:(6)
 D:A dozen small-sized craft frozen in the ice are afire under
  :a cold azure sky. It's near zero in the fire zone; and over
  :the ships now razed to the water's edge, a light haze hangs.
- :I'm dazed as I gaze at my own ship; I'd never recognize that
+ :I'm dazed as I gaze at my own ship; I'd never recognise that
  :crazy maze of still fizzing ruins as a deck. What a fizzle!
 
 I:(7)
@@ -1161,7 +1161,7 @@ I:(7)
 *:_R_R_L87
 D:Bill begs Dad not to be blue, and his text is this: We
  :are all in the same boat. No one can buy. No one can build.
- :Labor is hard hit, too. I, for one, would like to toss the
+ :Labour is hard hit, too. I, for one, would like to toss the
  :cards on the table and start a new deal. When exact codes
  :are fixed, as best for all, every person must do his bit.
 
@@ -1172,7 +1172,7 @@ S:Satisfy yourself that it will be funny, but perfectly
  :Buffalo to New York on the first Friday in February. If
  :they prefer, we will offer them waffles, jelly, and coffee
  :before they fly or get dizzy. Sixty flyers can qualify
- :confidently to face any difficulty. A friendly inquiry
+ :confidently to face any difficulty. A friendly enquiry
  :from any family will be very cheerfully and fully answered.
 
 I:(8a) Pointed Paragraph (i d)
@@ -1187,14 +1187,14 @@ S:Children find being quizzed in division, addition, and
 I:(9) Test Paragraph
 *:_R_R_L90
 S:By using the new banks of keys on the new keyboard, you
- :are able to learn or excel with less labor. These new banks
+ :are able to learn or excel with less labour. These new banks
  :have been based on an exact table of words used. You begin
  :at once on the best bank. On the old keyboard you have to
  :type most of the text on the next bank above and on the bank
  :below. Because of this fact your fingers bound back and
  :forth between the upper and lower banks of keys. But those
  :extra jumps necessary on the old keyboard do not exist on the
- :new keyboard. Nor is your left hand taxed with extra labor.
+ :new keyboard. Nor is your left hand taxed with extra labour.
  :The keys are fixed to keep both hands busy and in balance.
 
 I:(10) Rhythmic Review
@@ -1270,7 +1270,7 @@ S:I'm going to obtain oil options tonight and to file my
 I:(9) Test Paragraph
 *:_R_R_L101
 S:Bound for some place where the sun sets in the west,
- :soon it is the night that I favor. Next to the night and
+ :soon it is the night that I favour. Next to the night and
  :boat and water, maybe I judge our sail by its excellent bill
  :of fare. Here I am very exact, as I never set a poor table.
  :I stock an up-to-date table, set out under the first dozen
@@ -1559,7 +1559,7 @@ I:(8) Pointed Paragraph (a o)
 *:_R_R_L141
 S:To attain a personal association with so popular an
  :author is an approved social ambition. To loan him money or
- :catalog his books we consider a favor. Today his tailor, later
+ :catalogue his books we consider a favour. Today his tailor, later
  :with a coat, loads on him a thousand pardons. A normal Mon-
  :day program allows a lazy forenoon to ocean and boat; after-
  :noon to various auto roads in orange season; night to play
@@ -1962,7 +1962,7 @@ D:lll ... lll ... ll .. ll .. l .
 *:_T_R_L43
 T:The next key we are going to practice is the right shift key.
  :
- :Whenever you want to capitalize a key on the left side, you must use the
+ :Whenever you want to capitalise a key on the left side, you must use the
  :right shift-key. To do so, follow these steps:
  :
  :	a.) Without moving your first finger from the J-key, swing the
@@ -2039,18 +2039,18 @@ D:;;; pad ;;; peg ;;; ape ;;;
 *:_T_R_L56
 T:			The Left-Shift key.
  :
- :To capitalize letters on the right-side of the keyboard:
+ :To capitalise letters on the right-side of the keyboard:
  :
  :	1.) Move your A-finger to the LEFT-shift key and hold it down.
  :
- :	2.) Strike the key that you want to capitalize with your right hand.
+ :	2.) Strike the key that you want to capitalise with your right hand.
  :
  :	3.) Immediately swing your A-finger back to its home position.
 
 *:_T_R_L57
 D:aaa Pi aaa Lord aaa Jill aaa
 
-I:Try capitalizing each of the keys on the right-side:
+I:Try capitalising each of the keys on the right-side:
 *:_T_R_L58
 D:Joe Kip Leif Peg Olaf Ira Heidi
 
@@ -2295,7 +2295,7 @@ D:Fifteen dollars a month--measured in current dollars--is a good rate.
 
 I:Let's try a speed drill on these sentences:
 *:_T_R_L105
-S:The clock ran out, signaling the end of
+S:The clock ran out, signalling the end of
  :the second-half. The game had been lost.
 
 *:_T_R_L106
@@ -2447,7 +2447,7 @@ D:aaa aqa aaa qqq aaa aqa aaa
 
 *:_T_R_L128A
 D:aaa quit aaa quad aaa quip aaa
- :lacquer inquiry squirt quart
+ :lacquer enquiry squirt quart
  :quail quiver inquest marquis
 
 #
@@ -3449,7 +3449,7 @@ B:                            Lesson V6
 
 *:_V_R_L36
 T:
- :		    (Shift Keys for Capitalization)
+ :		    (Shift Keys for Capitalisation)
 
 I:(1) Warmup
 *:_V_R_L37
@@ -3494,7 +3494,7 @@ D:Joseph likes to study; Joseph likes to study art;
  :Esther will write; Esther will write Larry today;
  :Arthur likes; Arthur likes to play the flute;
  :Kate says; Kate says she will stay till Friday;
- :Paul will take Willa to the Park Sherry Theater;
+ :Paul will take Willa to the Park Sherry Theatre;
 
 G:_V_E_V6
 
@@ -3979,7 +3979,7 @@ S:The slant is controlled by the semicolon finger.
  :very valuable asset.
  :
  :You can develop your typing skill quickly by the proper
- :habits of work. You should realize that poor work is a
+ :habits of work. You should realise that poor work is a
  :mere waste of time. Try to be exact.
  :
  :Every business firm is dependent on the services of
@@ -4330,7 +4330,7 @@ S:John Jacob Astor was born in 1763 and died in
  :
  :Alexander Graham Bell was born in Scotland on
  :March 3, 1847. He invented the telephone in 1876.
- :The Bell Telephone Company was organized in 1877.
+ :The Bell Telephone Company was organised in 1877.
  :Mr. Bell also invented the gramophone in 1887.
  :
  :John Quincy Adams, sixth President of the
@@ -4365,7 +4365,7 @@ D:f4f j7j f5f j6j d3d k8k f4f j7j f5f j6j d3d k8k
 
 I:(2)
 *:_V_R_L130
-D:strike...center...finger...spring...though...
+D:strike...centre...finger...spring...though...
  :expert...sharply...release...quickly...develop...
  :letting...squarely...practice...familiar...
  :fingertip...important...technique...releasing...
@@ -4375,13 +4375,13 @@ D:strike...center...finger...spring...though...
 I:(3)
 *:_V_R_L131
 S:Strike each key sharply with the fingertip and squarely
- :in the center. Strike the key quickly, letting the
+ :in the centre. Strike the key quickly, letting the
  :finger spring back as though the key were red hot.
 
 I:(4)
 *:_V_R_L132
 S:Strike each key sharply with the fingertip and squarely
- :in the center. Strike the key quickly, letting the
+ :in the centre. Strike the key quickly, letting the
  :finger spring back as though the key were red hot.
 
 *:_V_R_L133
@@ -4544,7 +4544,7 @@ I:(9)
 *:_V_R_L147
 S:Have you seen the new 7-room house at 175 West
  :239th Street? It is equipped with every up-to-date,
- :labor-saving device for the home. You may inspect
+ :labour-saving device for the home. You may inspect
  :it free of charge any day except Sunday between
  :10 a.m. and 4 p.m.
 
@@ -4628,7 +4628,7 @@ S:The backspace key is one of the most useful time-
  :each stroke in the date line.
  :
  :The most important use of the backspace key is in
- :centering words or lines.
+ :centring words or lines.
 
 G:_V_E_V19
 
@@ -4721,7 +4721,7 @@ M: UP=__SERIESMENU "The V series contains the following 19 lessons"
  :_V_S_V3  "Lesson V3     T Y G H"
  :_V_S_V4  "Lesson V4     S L W O"
  :_V_S_V5  "Lesson V5     A ; Q P"
- :_V_S_V6  "Lesson V6     Shift Keys for Capitalization"
+ :_V_S_V6  "Lesson V6     Shift Keys for Capitalisation"
  :_V_S_V7  "Lesson V7     Shift Lock and :"
  :_V_S_V8  "Lesson V8     Introducing the Period"
  :_V_S_V9  "Lesson V9     V and M"
@@ -4794,7 +4794,7 @@ G:_U_E_U1
 *:_U_S_U2
 B:                            Lesson U2
 
-I:(1) Familiarize yourself with the top row and between the index fingers:
+I:(1) Familiarise yourself with the top row and between the index fingers:
 *:_U_R_L3
 D:juj kik lol ;p; jyj
  :frf ded sws aqa ftf
@@ -4964,7 +4964,7 @@ S:Every promise made should be observed.
  :The price of the property is really $2,500.
  :Try to remember to bring your grammar with you.
  :Proof of your brokerage experience will be required.
- :The orange grower must have favorable weather conditions.
+ :The orange grower must have favourable weather conditions.
 
 I:(4)
 *:_U_R_L30
@@ -4995,7 +4995,7 @@ D:lal lel lil lol lul ly bl cl fl gl pl sl
 I:(2)
 *:_U_R_L33
 D:loll play blow clear glass flesh slow fully
- :lisle plow blue class globe fleet sleep silly
+ :lisle plough blue class globe fleet sleep silly
  :label please blood claim gleam flail slight really
 
 I:(3)
@@ -5078,7 +5078,7 @@ D:am em im om um mb mp ment
 I:(2)
 *:_U_R_L43
 D:amount damper only singing payment moment
- :emblem camper enter ringing enrollment judgment
+ :emblem camper enter ringing enrollment judgement
  :immense hamper under longing engagement excitement
  :omnibus lumber income banking appointment settlement
  :umbrella bomber answer thinking entertainment employment
@@ -5180,7 +5180,7 @@ S:Concentration is a valuable faculty. The ability to direct
  :one's attention exclusively along certain lines accounts for
  :the success of some people. Diffusion of effort is considered
  :an enemy of success. We are told that this is an age of
- :specialization, and specialization demands concentration.
+ :specialisation, and specialisation demands concentration.
 
 G:_U_E_U11
 
@@ -5674,7 +5674,7 @@ B:                             Lesson M4
 
 I:(1) Warming-Up Drill
 *:_M_R_L22
-D:Get any piece, since I can't guess the color he always used.
+D:Get any piece, since I can't guess the colour he always used.
 
 I:(2) Balanced Keyboard Drill
 *:_M_R_L23
@@ -5688,7 +5688,7 @@ S:Dear Tris,
  :It is so very warm at this time of year, I told my wife
  :that you and I wish to go west for a week or two. Did I
  :tell you what a wind we had? I went to town to vote for the
- :one man whom I want. I took a well-used tire. When it went
+ :one man whom I want. I took a well-used tyre. When it went
  :down on a bad turn, in the woods, I had to walk. Then the
  :wind more than set in, and I had to wait by a wall. It got
  :our old tree.
@@ -5713,7 +5713,7 @@ S:Dear "Cab,"
  :Will you allow your child to come alone to see me? He
  :can have every apple he can carry. By the way, being clean
  :and above board, you must be above bad cases, but you began
- :to bring in off-color cases after April.
+ :to bring in off-colour cases after April.
  :
  :I agree you do not cross the law, but why let men win
  :in a black cause on any basis? Why not build up your cases
@@ -5726,7 +5726,7 @@ I:(5) Pointed Paragraph (r t)
 *:_M_R_L26
 S:In our motor party on the return trip an attractive
  :quartet first tried to tell thirty or forty short travel
- :stories. By turns they transferred to the theater, to art
+ :stories. By turns they transferred to the theatre, to art
  :matters, to court trial stories. In the latter a certain
  :doctor is hurt by a first truck, another truck is struck,
  :and three contractors are thrown to the street. The girl's
@@ -5755,7 +5755,7 @@ I:(3) Five-letter words (d to h)
 *:_M_R_L29
 S:Dear Fred,
  :
- :I have dared to ask you for an extra favor on the first.
+ :I have dared to ask you for an extra favour on the first.
  :If you are not dated, I am to draft you to drive me by horse
  :or car up the grade to the field house at eight. I guess you
  :have not heard fully about the great dance to be given by the
@@ -5763,7 +5763,7 @@ S:Dear Fred,
  :
  :My hands have put fresh green goods on the walls. Every
  :girl has a green dress, on its front a funny glass heart that
- :she gives as a favor. The old folks can drive up early, eat
+ :she gives as a favour. The old folks can drive up early, eat
  :and drink and enjoy it all. We will delay the dance till the
  :girls enter in a dozen files. It would crush me to death if
  :an error were found in the plans. Happy hours on earth are
@@ -5950,7 +5950,7 @@ S:I quit the quiz when I saw the quantity of queer hazy
  :dozen queries. Only a quarter of the quotas qualified with
  :zest. Many had zero when the quiz asked: In what zones are
  :Brazil, Switzerland, Arizona, or Texas? Zebras in our zoos
- :grow to what sizes? Analyze and quote one great citizen's
+ :grow to what sizes? Analyse and quote one great citizen's
  :query as to zeppelins. Criticize the quality of jazz music.
 
 G:_M_E_M7
@@ -6007,12 +6007,12 @@ S:Dear Sylvia,
  :that we would surely be unable to do as we stated unless you
  :took a sudden notion to help. It seemed to me on second
  :thought we should give thanks to you for giving tongue to our
- :wishes last winter, for you turned the folks in our favor.
+ :wishes last winter, for you turned the folks in our favour.
  :
  :My sister was saying that girls from twenty states had
  :signed our pledge, so we are united. Though this is off the
  :subject, I saw a pretty yellow and silver dress within a win-
- :dow on Main Street toward our corner. Would you think it
+ :dow on Main Street towards our corner. Would you think it
  :suitable for the writer?
  :
  :Sincerely yours,
@@ -6053,7 +6053,7 @@ S:Dear Annabel,
  :
  :My brother and his college friends in the factory decided to arrange an
  :evening exactly as in the old days. After calling us, they arrived and we
- :carried out the idea. We used an old college catalog and each girl had an
+ :carried out the idea. We used an old college catalogue and each girl had an
  :old college dress.
  :
  :Further to advance the evening, my brother advised us of an old address
@@ -6086,7 +6086,7 @@ S:Dear Mrs. White,
  :Tell him the minutes of the last meeting of the members are on my
  :table. Tell him I haven't an invoice, but have instead an October
  :bill, for our new machine parts. He may mention this item to the
- :manager, as he has neither its history nor my letters of inquiry.
+ :manager, as he has neither its history nor my letters of enquiry.
  :
  :I find nothing else to include. We shall miss you greatly,
  :and we shall be looking for you at our new home.
@@ -6097,7 +6097,7 @@ I:(4) Seven-letter words (p to z)
 *:_M_R_L50
 S:Dear Patrick,
  :
- :I realize that this letter I am sending may subject you to some trouble.
+ :I realise that this letter I am sending may subject you to some trouble.
  :I am writing tonight without waiting to go through various reports on our
  :present program. If I had thought that you would be willing to give me an
  :extra day, perhaps I would have come myself.
@@ -6141,7 +6141,7 @@ S:Dear Thomas,
  :First, I consider of definite interest anything from
  :the business of as good a customer as you. As director of
  :our division, I am to continue handling building material.
- :My judgment on all the evidence, which I send herewith
+ :My judgement on all the evidence, which I send herewith
  :enclosed in a second envelope, is one of complete approval.
  :Let me have a contract covering the earliest delivery date.
  :Are you advising me what increase in your discount is to be
@@ -6165,7 +6165,7 @@ S:Dear Nathan,
  :Thursday. Tomorrow is Saturday, a pleasant day, for I go on my vacation.
  :
  :Do you remember an original idea you proposed last November relative
- :to planning for some shipping from my property? My neighbor recently
+ :to planning for some shipping from my property? My neighbour recently
  :called it a plan in a thousand, and we must get together so that I can
  :thank you properly. This is a national as well as personal question,
  :and I am trusting that you will be thinking that it is possible for you to
@@ -6296,10 +6296,10 @@ S:The JOURNAL learned that the relatives on their arrival in
  :them very nearly a half-million dollars. Only the earlier, first
  :will is very irregular. I've already quizzed them about the real
  :hazards of quarrels over legal prizes of similar size. From their
- :replies I've realized slowly that the girls are all right. It
+ :replies I've realised slowly that the girls are all right. It
  :really amazes me that even persons like ourselves promptly seize
  :upon some hostile relative's version of an earlier will, which
- :should be recognized easily as false.
+ :should be recognised easily as false.
 
 G:_M_E_M11
 
@@ -6660,14 +6660,14 @@ S:I lost no time, of course, in telling my mother all that
 
 I:Treasure Island, Chapter IV, "The Sea Chest", by Stevenson.
 *:_S_R_L31
-S:The neighborhood, to our ears, seemed haunted by
+S:The neighbourhood, to our ears, seemed haunted by
  :approaching footsteps; and what between the dead
  :body of the captain on the parlor floor, and the thought
  :of that detestable blind beggar hovering near at hand,
  :and ready to return, there were moments when, as the
  :saying goes, I jumped in my skin for terror. Something
  :must speedily be resolved upon; and it occurred to us at
- :last to go forth together and seek help in the neighbor-
+ :last to go forth together and seek help in the neighbour-
  :ing hamlet. No sooner said than done. Bareheaded as we
  :were, we ran out at once in the gathering evening and
  :the frosty fog.
@@ -7418,7 +7418,7 @@ S:The hyphen ("-") is used for compound words; the en dash,
  :underlining it, you can show emphasis with underscores ("like
  :_this_").
 
-I:(7) And some programming/math
+I:(7) And some programming/maths
 S:int first_number = 7;
  :int second_number = 40;
  :int third_number = first_number + second_number - first_number;
@@ -7434,7 +7434,7 @@ S:int first_number = 7;
  :if (a === b) console.log('"a" and "b" are equal');
  :
  :
- :if ((10 / 10) === 5 % 4) console.log('Yep, that is how math works');
+ :if ((10 / 10) === 5 % 4) console.log('Yep, that is how maths works');
 
 Q:Do you want to continue to lesson P4 [Y/N] ?
 N:MENU
@@ -7950,7 +7950,7 @@ S:    if (NO_SEGMENT_TRAVERSAL) /* scan only first segment */
  :
  :static int sys_trim(mstate m, size_t pad) {
  :  size_t released = 0;
- :  ensure_initialization();
+ :  ensure_initialisation();
  :  if (pad < MAX_REQUEST && is_initialized(m)) {
  :    pad += TOP_FOOT_SIZE; /* ensure enough room for segment overhead */
  :
@@ -8693,7 +8693,7 @@ D:javelining sledge cockleshell asteroids footfalls raged frothed coaching
  :griddlecakes knock firefighter reneged relocations songster avitaminosis
 *:LESSON9_D2
 I:(2)
-D:concierges agitating loosener dermatologist checking smatterings discoloreds
+D:concierges agitating loosener dermatologist checking smatterings discoloureds
  :slovenliness flatfooted grad overdressing overdoses melioration griddling
  :rigged stomached conservative vacillating loaning overacted gale got
  :official heroisms conservancies vector gel shod denominative ecologist
@@ -8726,7 +8726,7 @@ I:(7)
 D:frosted jingle vialing oldest donnishness grandfathering evensongs smartening
  :redecorate cremations estrangement nonvoters forelocking snorkeling demarcations
  :glorifies idiots dido savored skating valedictions homing gastronomic
- :endangered elevating remove lags shacking revolve correctors cataloging
+ :endangered elevating remove lags shacking revolve correctors cataloguing
 *:LESSON9_D8
 I:(8)
 D:feigner garlands reconciliation marmosets overreacted gladiator selector
@@ -8737,8 +8737,8 @@ G:E_LESSON9
 B:                           Lesson 10: bp
 *:LESSON10_D1
 I:(1)
-D:peptides reprimand omnipresences hibernates caper flaps particolored
- :collapse overspreads intercept bespangle anthropoid labors petite adopters
+D:peptides reprimand omnipresences hibernates caper flaps particoloured
+ :collapse overspreads intercept bespangle anthropoid labours petite adopters
  :pastiche penchant prospected painkiller tampons obsoleting septicemias
  :remembers abolishes entrapment lambed pantie shebangs pervasion transporting
 *:LESSON10_D2
@@ -8868,7 +8868,7 @@ D:wanderlust bobbing invent preordain demand paternal standstill councilpersons
 *:LESSON12_D6
 I:(6)
 D:equidistant ringlike swifter shrewdnesses disjointing recipient renaturing
- :intact relinked disfavoring swiss novene unspeaking warehousing concise
+ :intact relinked disfavouring swiss novene unspeaking warehousing concise
  :megaphoned cognates rejuvenated swots unconventional adversenesses ascendant
  :resubmission ravenings desorption foreman tweedier disenchantments mandating
 *:LESSON12_D7
@@ -8893,7 +8893,7 @@ D:shadowboxes antacids retrenching cants panache fractious compressor scrawniest
  :wackier corrupting chugging inferencing competitors caribou peacemakings
 *:LESSON13_D2
 I:(2)
-D:mice luncheon compose commutes tricolored faculties shucker tamaracks
+D:mice luncheon compose commutes tricoloured faculties shucker tamaracks
  :contraception stockholder coarsening executions kcal cornucopias commercialisms
  :escaper livestock scubas cares concordant defunct perceives crosspatches
  :nucleation sculptural chugging uncivil betcha exclusion biscuit crouping
@@ -8938,36 +8938,36 @@ B:                           Lesson 14: yz
 *:LESSON14_D1
 I:(1)
 D:sylphic detoxifying hypertrophies accompany orthodoxy westernizes incomprehensibility
- :demilitarize universally grippingly esthetically contemporary sedimentary
+ :demilitarise universally grippingly esthetically contemporary sedimentary
  :fragility mythically electrolyzed jimmy speedy nudity horseplayer seltzer
  :disqualify imposingly desolately crucially rhythmic capaciously rumply
 *:LESSON14_D2
 I:(2)
 D:challengingly ingenuously summary lippy unoptimizes individualized factuality
- :flirtatiously abidingly prickly sexily johnnycake consistently legitimization
+ :flirtatiously abidingly prickly sexily johnnycake consistently legitimisation
  :dyslexias uproariously bibliographically toasty dehumanizes microanalytic
  :nonfreezing difficulty abbey understandably instinctively demonetizing buoy
 *:LESSON14_D3
 I:(3)
 D:laundryman unvarying bilaterally baptizers fogy debauchery vitalizing delightfully
- :lazed yearning scrutinizes kittenishly anaglyph demilitarization depolarize
+ :lazed yearning scrutinizes kittenishly anaglyph demilitarisation depolarise
  :asymmetry terminally scarcely pasteurize mutably seismography epidemically
  :physician collectivized surreptitiously strayer harrying stiltedly patriarchy
 *:LESSON14_D4
 I:(4)
 D:sanctimoniously searingly tantalized admirably traumatizing gallimaufry unequalized
- :dizzy unsuspectingly ascendancy coweringly reorganizes lyricists internationalizing
- :declamatory pussyfooting richly expressionlessly axiomatization soybean
+ :dizzy unsuspectingly ascendancy coweringly reorganises lyricists internationalising
+ :declamatory pussyfooting richly expressionlessly axiomatisation soybean
  :joyfulnesses yellowing warranty slashingly yowled importunely eyefuls inhumanity
 *:LESSON14_D5
 I:(5)
 D:platitudinously mys miscarrying ridiculously occupy minimizers rowdyism horizon
  :employees pleasingly capillary catalytically propinquity tommy seizable
  :flippantly credibility memorially puppyish eyewash haze paycheck array
- :hydrodynamical hypothyroid effigy campanology polyclinic unorganized acoustically
+ :hydrodynamical hypothyroid effigy campanology polyclinic unorganised acoustically
 *:LESSON14_D6
 I:(6)
-D:ineffability overcapitalized unparameterized presbyter brotherly inconsistently
+D:ineffability overcapitalised unparameterized presbyter brotherly inconsistently
  :deputizes archaizes readying telemetry zeppelin incommodiously very damply
  :youthfully descry venously safetying burly locationally rectory modifying
  :exaggeratedly yakked pluralize capsizes situationally rationalizing idiocy

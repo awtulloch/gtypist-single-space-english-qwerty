@@ -421,7 +421,7 @@ D:javelining sledge cockleshell asteroids footfalls raged frothed coaching
  :griddlecakes knock firefighter reneged relocations songster avitaminosis
 *:LESSON9_D2
 I:(2)
-D:concierges agitating loosener dermatologist checking smatterings discoloreds
+D:concierges agitating loosener dermatologist checking smatterings discoloureds
  :slovenliness flatfooted grad overdressing overdoses melioration griddling
  :rigged stomached conservative vacillating loaning overacted gale got
  :official heroisms conservancies vector gel shod denominative ecologist
@@ -454,7 +454,7 @@ I:(7)
 D:frosted jingle vialing oldest donnishness grandfathering evensongs smartening
  :redecorate cremations estrangement nonvoters forelocking snorkeling demarcations
  :glorifies idiots dido savored skating valedictions homing gastronomic
- :endangered elevating remove lags shacking revolve correctors cataloging
+ :endangered elevating remove lags shacking revolve correctors cataloguing
 *:LESSON9_D8
 I:(8)
 D:feigner garlands reconciliation marmosets overreacted gladiator selector
@@ -465,8 +465,8 @@ G:E_LESSON9
 B:                           Lesson 10: bp
 *:LESSON10_D1
 I:(1)
-D:peptides reprimand omnipresences hibernates caper flaps particolored
- :collapse overspreads intercept bespangle anthropoid labors petite adopters
+D:peptides reprimand omnipresences hibernates caper flaps particoloured
+ :collapse overspreads intercept bespangle anthropoid labours petite adopters
  :pastiche penchant prospected painkiller tampons obsoleting septicemias
  :remembers abolishes entrapment lambed pantie shebangs pervasion transporting
 *:LESSON10_D2
@@ -596,7 +596,7 @@ D:wanderlust bobbing invent preordain demand paternal standstill councilpersons
 *:LESSON12_D6
 I:(6)
 D:equidistant ringlike swifter shrewdnesses disjointing recipient renaturing
- :intact relinked disfavoring swiss novene unspeaking warehousing concise
+ :intact relinked disfavouring swiss novene unspeaking warehousing concise
  :megaphoned cognates rejuvenated swots unconventional adversenesses ascendant
  :resubmission ravenings desorption foreman tweedier disenchantments mandating
 *:LESSON12_D7
@@ -621,7 +621,7 @@ D:shadowboxes antacids retrenching cants panache fractious compressor scrawniest
  :wackier corrupting chugging inferencing competitors caribou peacemakings
 *:LESSON13_D2
 I:(2)
-D:mice luncheon compose commutes tricolored faculties shucker tamaracks
+D:mice luncheon compose commutes tricoloured faculties shucker tamaracks
  :contraception stockholder coarsening executions kcal cornucopias commercialisms
  :escaper livestock scubas cares concordant defunct perceives crosspatches
  :nucleation sculptural chugging uncivil betcha exclusion biscuit crouping
@@ -666,36 +666,36 @@ B:                           Lesson 14: yz
 *:LESSON14_D1
 I:(1)
 D:sylphic detoxifying hypertrophies accompany orthodoxy westernizes incomprehensibility
- :demilitarize universally grippingly esthetically contemporary sedimentary
+ :demilitarise universally grippingly esthetically contemporary sedimentary
  :fragility mythically electrolyzed jimmy speedy nudity horseplayer seltzer
  :disqualify imposingly desolately crucially rhythmic capaciously rumply
 *:LESSON14_D2
 I:(2)
 D:challengingly ingenuously summary lippy unoptimizes individualized factuality
- :flirtatiously abidingly prickly sexily johnnycake consistently legitimization
+ :flirtatiously abidingly prickly sexily johnnycake consistently legitimisation
  :dyslexias uproariously bibliographically toasty dehumanizes microanalytic
  :nonfreezing difficulty abbey understandably instinctively demonetizing buoy
 *:LESSON14_D3
 I:(3)
 D:laundryman unvarying bilaterally baptizers fogy debauchery vitalizing delightfully
- :lazed yearning scrutinizes kittenishly anaglyph demilitarization depolarize
+ :lazed yearning scrutinizes kittenishly anaglyph demilitarisation depolarise
  :asymmetry terminally scarcely pasteurize mutably seismography epidemically
  :physician collectivized surreptitiously strayer harrying stiltedly patriarchy
 *:LESSON14_D4
 I:(4)
 D:sanctimoniously searingly tantalized admirably traumatizing gallimaufry unequalized
- :dizzy unsuspectingly ascendancy coweringly reorganizes lyricists internationalizing
- :declamatory pussyfooting richly expressionlessly axiomatization soybean
+ :dizzy unsuspectingly ascendancy coweringly reorganises lyricists internationalising
+ :declamatory pussyfooting richly expressionlessly axiomatisation soybean
  :joyfulnesses yellowing warranty slashingly yowled importunely eyefuls inhumanity
 *:LESSON14_D5
 I:(5)
 D:platitudinously mys miscarrying ridiculously occupy minimizers rowdyism horizon
  :employees pleasingly capillary catalytically propinquity tommy seizable
  :flippantly credibility memorially puppyish eyewash haze paycheck array
- :hydrodynamical hypothyroid effigy campanology polyclinic unorganized acoustically
+ :hydrodynamical hypothyroid effigy campanology polyclinic unorganised acoustically
 *:LESSON14_D6
 I:(6)
-D:ineffability overcapitalized unparameterized presbyter brotherly inconsistently
+D:ineffability overcapitalised unparameterised presbyter brotherly inconsistently
  :deputizes archaizes readying telemetry zeppelin incommodiously very damply
  :youthfully descry venously safetying burly locationally rectory modifying
  :exaggeratedly yakked pluralize capsizes situationally rationalizing idiocy
